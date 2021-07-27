@@ -1,0 +1,135 @@
+.CourseComponent
+    width: 550px
+    min-width: 400px
+    position: absolute
+    right:0
+    overflow-x: hidden
+    transition: all 0.4s
+    height: 100vh
+    padding: 20px
+
+    display: flex
+    flex-direction: column
+
+
+
+    background: rgba(247, 247, 247, 0.68)
+    box-shadow: -1px 4px 24px rgba(0, 0, 0, 0.25)
+    backdrop-filter: blur(16px)
+
+    .SearchBox
+        width: 100%
+        .SearchIcon
+            position: absolute
+            right: 30px
+            top: 28px
+
+    input
+        border: none
+        box-sizing: inherit
+        width: calc(100% - 20px)
+        height: 2em
+        font-size: 24px
+        font-weight: lighter
+        background: #FFFFFF
+        box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.25)
+        border-radius: 11px
+        margin-bottom: 15px
+        padding: 0 10px
+
+
+    input:focus
+        outline: none
+        box-shadow:0px 0px 0px 2px #FFC671 inset
+
+    h2
+        margin: 0
+        padding: 0
+        font-size: 13px
+    p
+        margin: 0
+        padding: 0 
+        font-size: 11px
+
+.CourseSearching
+    height: 40%
+    overflow-y: scroll
+    padding: 0 20px
+    background: #FFFFFF
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.25)
+    border-radius: 11px
+    margin-bottom: 15px
+
+    ul
+        margin: 0
+        padding: 0
+
+    li
+        background-color: #FFC671
+        height: 92px
+        border-radius: 10px
+        padding: 1em
+        margin:  0.7em 0 
+        list-style: none
+        display: flex
+        justify-content: space-between
+        align-content: center
+        align-items: center
+        filter: drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.2))
+
+        p
+            margin:0
+            padding:0
+.CourseSearching::-webkit-scrollbar
+    display: none
+
+.SelectedCourses
+    height: 40%
+    overflow-y: scroll
+    padding: 0 20px
+    background: #FFFFFF
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.25)
+    border-radius: 11px
+
+    ul
+        margin: 0
+        padding: 0
+    
+
+    li
+        background-color: #9EFF71
+        height: 92px
+        border-radius: 10px
+        padding: 1em
+        margin:  0.7em 0 
+        list-style: none
+        display: flex
+        justify-content: space-between
+        align-content: center
+        align-items: center
+        filter: drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.2))
+
+        p
+            margin:0
+            padding:0
+
+
+.SelectedCourses::-webkit-scrollbar
+    display: none
+
+.Toggler
+    position: absolute
+    display: flex
+    align-items: center
+    justify-content: center
+    
+    bottom: 10px
+    right: 10px
+    
+
+    border-radius: 40px
+    z-index: 10
+    h2
+        margin: 0
+        padding: 0
+        

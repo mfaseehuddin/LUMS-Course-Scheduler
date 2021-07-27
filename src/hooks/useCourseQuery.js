@@ -12,6 +12,7 @@ export const useCourseQuery = () => {
                         Instructor_s_
                         Cr_Hrs
                         Day_and_Time
+                        Instructions_Mode
                     }
                 }
             }
