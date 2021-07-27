@@ -3,7 +3,7 @@ import { useCourseQuery } from '../../hooks/useCourseQuery'
 import tick from "./Images/Tick.png"
 import Delete from "./Images/Delete.png"
 import Search from "./Images/Search.png"
-import addNew from "./Images/addNew.png"
+
 import "./CoursesStyle.sass"
 
 
@@ -11,31 +11,9 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
     const courseData = useCourseQuery();
     const [searchCourse, setSearchCourse] = useState();
 
-    const parseDay = (inputDayTime) => {
-        var dayAndTime = inputDayTime.split(" ")
-        var days = dayAndTime[0].split("")
-        for(let i = 0; i < days.length; i++){
-            if (days[i] === "M"){
-                days[i] = "Monday"
-            } else if (days[i] === "T"){
-                days[i] = "Tuesday"
-            } else if (days[i] === "W"){
-                days[i] = "Wednesday"
-            } else if (days[i] === "R"){
-                days[i] = "Thursday"
-            } else if (days[i] === "F"){
-                days[i] = "Friday"
-            }
-        }
-        return days
-    }
-
-
+    
     return (
         <>
-        <div className="Toggler" onClick={e => {toggle()}}>
-            <img src={addNew}/>
-        </div>
         <div className="CourseComponent" style={!SelectorState ? {right:"-1000px"}: {right:0}}>
             <div className = "SearchBox">
                 <input placeholder="Course Code" onChange={e => {setSearchCourse(e.target.value.toUpperCase())}}/>
