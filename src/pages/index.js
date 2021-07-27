@@ -9,13 +9,14 @@ import "./index.sass"
 
 const IndexPage = () => {
   const data = useCourseQuery()
-  
+  const [credits, setCredits] = useState(0);
   //Course data
   const [courseCode, setCourseCode] = useState()
   const [selectedCourses, setSelectedCourses] = useState([])
-  const addCourse = (courseID) => {
+  const addCourse = (courseID, chr) => {
     if (selectedCourses.filter(course => course.id === courseID).length === 0){
       setSelectedCourses(selectedCourses.concat(data.nodes.filter(course => course.id === courseID)))
+      setCredits(credits + parseInt(chr))
       // console.log(courseID)
     }
   }
@@ -23,6 +24,7 @@ const IndexPage = () => {
   const removeCourse = (courseID) => {
     setSelectedCourses(selectedCourses.filter(course => course.id !== courseID))
     setFinalCourses(finalCourses.filter(course => !course.id.match(courseID)))
+    setCredits(credits - parseInt(finalCourses.filter(course => course.id.match(courseID))[0].Cr_Hrs))
   }
   
   const [finalCourses, setFinalCourses] = useState([])
@@ -77,25 +79,25 @@ const IndexPage = () => {
       var minutesStart = ( parseInt(timeStart.split(":")[0])*60 + parseInt(timeStart.split(":")[1].slice(0,2)))
       var minutesEnd = ( parseInt(timeEnd.split(":")[0])*60 + (60*12) + parseInt(timeEnd.split(":")[1].slice(0,2)))
       minutesDiff = (minutesEnd-minutesStart)
-      // console.log(minutesDiff + "25")      
+      console.log(minutesDiff + "5")      
     } else if((timeEnd.slice(0, 2) === "12" && timeStart.slice(-2) === "AM")){
       var minutesEnd = ( parseInt(timeEnd.split(":")[0])*60 + parseInt(timeEnd.split(":")[1].slice(0,2)))
       var minutesStart = ( parseInt(timeStart.split(":")[0])*60 + parseInt(timeStart.split(":")[1].slice(0,2)))
       minutesDiff = (minutesEnd-minutesStart)
-      // console.log(minutesDiff + "2")      
+      console.log(minutesDiff + "2")      
     } else if((timeEnd.slice(-2) === "PM"  && timeStart.slice(-2) === "AM")){
       var minutesEnd = ( parseInt(timeEnd.split(":")[0])*60 + 60*12 + parseInt(timeEnd.split(":")[1].slice(0,2)))
       var minutesStart = ( parseInt(timeStart.split(":")[0])*60 + parseInt(timeStart.split(":")[1].slice(0,2)))
       minutesDiff = (minutesEnd-minutesStart)
-      //  console.log(minutesDiff + "3")
+       console.log(minutesDiff + "3")
     } else if ((timeEnd.slice(-2) === "AM" && timeStart.slice(-2) === "AM")||(timeEnd.slice(-2) === "PM" && timeStart.slice(-2) === "PM")){
       // console.log(parseInt(timeEnd.split(":")[0])*60 + parseInt(timeEnd.slice(2)))
-      var minutesEnd = parseInt(timeEnd.split(":")[0])*60 + parseInt(timeEnd.slice(2))
-      // console.log(minutesEnd)
-      var minutesStart = parseInt(timeStart.split(":")[0])*60 + parseInt(timeStart.slice(2))
-      // console.log(minutesStart)
+      var minutesEnd = parseInt(timeEnd.split(":")[0])*60 + parseInt(timeEnd.split(":")[1].slice(0,2))
+      console.log(minutesEnd)
+      var minutesStart = parseInt(timeStart.split(":")[0])*60 + parseInt(timeStart.split(":")[1].slice(0,2))
+      console.log(minutesStart)
       minutesDiff = (minutesEnd-minutesStart)
-      // console.log(minutesDiff + "1")      
+      console.log(minutesDiff + "A")      
     }
 
     return minutesDiff
@@ -164,11 +166,12 @@ const IndexPage = () => {
                onRemove = {removeCourse} 
                SelectedCourses = {selectedCourses} 
                SelectorState = {courseSelector} 
-               toggle = {toggleCourseSelector}/>
+               toggle = {toggleCourseSelector}
+               Credits = {credits}/>
       </div>
-      <div className="Toggler" onClick={e => {toggleCourseSelector()}}>
+      <div className="Toggler" onClick={e => {toggleCourseSelector()}} style={courseSelector ? {transform: "rotate(45deg)"}: {transform:"rotate(0)"}}>
             <img src={addNew}/>
-        </div>
+      </div>
       
     </main>
   )

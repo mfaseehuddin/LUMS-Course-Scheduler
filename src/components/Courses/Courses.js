@@ -7,10 +7,10 @@ import Search from "./Images/Search.png"
 import "./CoursesStyle.sass"
 
 
-export default function Courses({onAdd, onRemove, Courses, SelectedCourses, SelectorState, toggle}) {
+export default function Courses({onAdd, onRemove, Courses, SelectedCourses, SelectorState, toggle, Credits}) {
     const courseData = useCourseQuery();
     const [searchCourse, setSearchCourse] = useState();
-
+    
     
     return (
         <>
@@ -30,9 +30,10 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                                 <p>{course.Day_and_Time}</p>
                                 <p>{course.Instructor_s_}</p>
                                 <p>{course.Instructions_Mode}</p>
+                                <p>Credits: {course.Cr_Hrs}</p>
                             </div>
                             <div>
-                                <img src={tick} className={course.id} onClick={e => onAdd(e.target.className)} />
+                                <img src={tick} className={course.id} onClick={e => onAdd(e.target.className, course.Cr_Hrs)} />
                                 
                             </div>
                         </li>
@@ -42,6 +43,7 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
 
             <div className = "SelectedCourses">
             <h3>Selected Courses:</h3>
+            
                 <ul>
                     {SelectedCourses.map(course => (
                         <li key = {course.id}>
@@ -49,6 +51,8 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                                 <h2>{course.Course_Code} | {course.Course_Title}</h2>
                                 <p>{course.Day_and_Time}</p>
                                 <p>{course.Instructor_s_}</p>
+                                <p>{course.Instructions_Mode}</p>
+                                <p>Credits: {course.Cr_Hrs}</p>
                             </div>
                             <div>
                             <img src={Delete} className={course.id} onClick={e => onRemove(e.target.className)} />
@@ -56,6 +60,7 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                         </li>
                     ))}
                 </ul>
+                <h3 className="Credits">Total Credits: {Credits}</h3>
             </div>
         </div>
         </>

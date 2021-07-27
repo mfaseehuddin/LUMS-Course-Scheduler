@@ -8,7 +8,11 @@ export default function Calender({SelectedCourses, finalCourses, onAdd, parseDay
     const [timeSlots, setTimeSlots] = useState([7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]);
     const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
     const calenderHeight = 700;
-
+    const coolColors = ["#90AFFF", "#FF9090", "#84D160", "#D1C660", "#FFCC90", "#4FC098","#4F6FC0","#C04FB5","#C04F4F","#B04FC0","#63DBDB", "#74BE91"]
+    
+    // const [lastID, setLastID] = useState(0);
+    var lastID = 0;
+    var colorID = 0
     return (
         <div className="Calender">
             <div className="InnerContainer">
@@ -61,11 +65,23 @@ export default function Calender({SelectedCourses, finalCourses, onAdd, parseDay
                             console.log(finalCourses)
                         })}
 
-
+                        
                         {finalCourses.map(course => {
-
-                            return(<div className="Class" key={course.id} style={{height:course.height, width: course.width, position:"absolute", marginLeft: course.marginLeft, marginTop: course.marginTop, backgroundColor:"#FF9090"}}>
-                                {course.Course_Code}
+                            
+                            
+                            var currentID = course.id.split(":")[0]
+                            if (currentID !== lastID && colorID < coolColors.length){
+                                colorID += 1
+                                lastID = currentID
+                                console.log("Change")
+                            }else if(colorID === coolColors.length-1){
+                                colorID = 0
+                            }
+                            return(<div className="Class" key={course.id} style={{height:course.height, width: course.width, position:"absolute", marginLeft: course.marginLeft, marginTop: course.marginTop, backgroundColor:coolColors[colorID]}}>
+                                <div className="ClassInner">
+                                <h5>{course.Course_Code}</h5>
+                                <p>{course.Instructor_s_}</p>
+                                </div>
                             </div>)
                         })}
                     </div>
