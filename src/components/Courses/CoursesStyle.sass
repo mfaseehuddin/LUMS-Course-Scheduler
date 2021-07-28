@@ -80,8 +80,17 @@
         p
             margin:0
             padding:0
+
 .CourseSearching::-webkit-scrollbar
-    display: none
+        width: 7px
+.CourseSearching::-webkit-scrollbar-track
+        display: none
+.CourseSearching::-webkit-scrollbar-thumb
+        background-color: rgba(50, 50, 50, 0.25)
+        height: 50px
+        outline: none
+
+        border-radius: 10px
 
 .SelectedCourses
     height: 40%
@@ -115,14 +124,21 @@
 
 
 .SelectedCourses::-webkit-scrollbar
-    display: none
+        width: 7px
+.SelectedCourses::-webkit-scrollbar-track
+        display: none
+.SelectedCourses::-webkit-scrollbar-thumb
+        background-color: rgba(50, 50, 50, 0.25)
+        height: 50px
+        outline: none
+
+        border-radius: 10px
+
+        
+
 
 .Toggler
-    position: absolute
-    display: flex
-    align-items: center
-    justify-content: center
-    
+    position: fixed
     bottom: 10px
     right: 10px
     

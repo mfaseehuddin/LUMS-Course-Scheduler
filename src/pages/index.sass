@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap')
 
 body
-    overflow: hidden
+    overflow-x: hidden
+    overflow-y: scroll
     margin:0
     font-family: poppins, sans-serif
 .Main
@@ -23,9 +24,12 @@ body
 
 
 .courses
-    position: absolute
+    position: fixed
     right: 0
     top: 0
 
 .toggler
+    position: fixed
+    bottom: 0
+    left: 0
     transition: all 1s
