@@ -4,4 +4,4 @@ Background Story: When planning for Fall2021, I was dumbfounded at the LACK of a
 
 Lo and Behold, THE MOST SIMPLEST COURSE SCHEDULER FOR LUMS STUDENTS!
 
-This will be live at project mirage's website once it's completely developed.
+Live at http://lums-course-scheduler.pro-mirage.com
