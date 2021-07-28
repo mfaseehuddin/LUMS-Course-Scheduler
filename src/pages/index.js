@@ -4,7 +4,13 @@ import { useState } from "react"
 import Courses from "../components/Courses/Courses"
 import addNew from "../components/Courses/Images/addNew.png"
 import Calender from "../components/Calender/Calender"
+
+import linkedin from "./linkedin.png"
+import mirage from "./projectMirage.png"
+import instagram from "./instagram.png"
+
 import "./index.sass"
+import { transform } from "lodash"
 
 
 const IndexPage = () => {
@@ -132,16 +138,6 @@ const IndexPage = () => {
     return minutesDiff
   }
 
-
-
-
-
-
-
-
-
-
-
   return (
     <main className="Main">
       <div className="Heading">
@@ -149,14 +145,16 @@ const IndexPage = () => {
         <h5>just add courses and check if they play nice together :)</h5>
       </div>
       
-      <Calender SelectedCourses = {selectedCourses}
-                parseDay = {parseDay}
-                finalCourses = {finalCourses}
-                onAdd = {addFinalCourse}
-                parseTimeLength = {parseTimeLength} 
-                parseTimeMargin = {parseTimeMargin}
-                />
-
+      <div  className = "calender">
+        <Calender
+                  SelectedCourses = {selectedCourses}
+                  parseDay = {parseDay}
+                  finalCourses = {finalCourses}
+                  onAdd = {addFinalCourse}
+                  parseTimeLength = {parseTimeLength} 
+                  parseTimeMargin = {parseTimeMargin}
+                  />
+      </div>
 
 
 
@@ -172,7 +170,20 @@ const IndexPage = () => {
       <div className="Toggler" onClick={e => {toggleCourseSelector()}} style={courseSelector ? {transform: "rotate(45deg)"}: {transform:"rotate(0)"}}>
             <img src={addNew}/>
       </div>
-      
+      <div className="credits">
+        <p>mfaseehuddin | made with ♥ by Project Mirage 2021</p>
+        <div>
+          <a href="https://instagram.com/mfaseehuddin">
+            <img src={instagram}/>
+          </a>
+          <a href="https://pro-mirage.com">
+            <img src={mirage}/>
+          </a>
+          <a href="https://www.linkedin.com/in/mfaseehuddin2001/">
+            <img src={linkedin}/>  
+          </a> 
+        </div>
+      </div>
     </main>
   )
 }
