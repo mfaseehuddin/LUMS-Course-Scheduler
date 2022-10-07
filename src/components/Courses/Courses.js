@@ -26,7 +26,8 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                     {courseData.nodes.filter(course => course.Course_Code.match(searchCourse)).filter(course => !course.Course_Code.match("w/")).filter(course => course.Course_Code !== "").map(course => (
                         <li key = {course.id}>
                             <div>
-                                <h2>{course.Course_Code} | {course.Course_Title}</h2>
+                                <h2>{course.Course_Code} </h2>
+                                <h4>{course.Course_Title}</h4>
                                 <p>{course.Day_and_Time}</p>
                                 <p>{course.Instructor}</p>
                                 <p>{course.Instructions_Mode}</p>
@@ -43,12 +44,13 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
 
             <div className = "SelectedCourses">
             <h3>Selected Courses:</h3>
-            
+            <h4>Total Credits: {Credits}</h4>
                 <ul>
                     {SelectedCourses.map(course => (
                         <li key = {course.id}>
                             <div>
-                                <h2>{course.Course_Code} | {course.Course_Title}</h2>
+                                <h2>{course.Course_Code}</h2>
+                                <h4>{course.Course_Title}</h4>
                                 <p>{course.Day_and_Time}</p>
                                 <p>{course.Instructor}</p>
                                 <p>{course.Instructions_Mode}</p>
@@ -60,7 +62,7 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                         </li>
                     ))}
                 </ul>
-                <h3 className="Credits">Total Credits: {Credits}</h3>
+                
             </div>
         </div>
         </>

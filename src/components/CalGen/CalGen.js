@@ -162,6 +162,7 @@ function generateICSFile(Courses, semStartDate, semEndDate) {
         alert("No courses selected");
         return;
     }
+    //import the ics into users local calender mime type is text/calendar
     const blob = new Blob([icsString], { type: "text/calendar" });
     const link = document.createElement("a");
     link.href = window.URL.createObjectURL(blob);
@@ -171,7 +172,7 @@ function generateICSFile(Courses, semStartDate, semEndDate) {
 
 
 
-export default function CalGen({ SelectorState, Courses }) {
+export default function CalGen({ Courses }) {
     /**
      * TODO:
      * input sem start date: ✅

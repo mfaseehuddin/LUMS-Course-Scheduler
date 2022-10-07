@@ -193,18 +193,21 @@ const IndexPage = () => {
         <main className="Main">
             <div className="Heading">
                 <h1>LUMS Course Scheduler | Project Mirage</h1>
+                
                 <h5>Updated Fall 2022</h5>
             </div>
-
-            <div className="calender">
-                <Calender
-                    SelectedCourses={selectedCourses}
-                    parseDay={parseDay}
-                    finalCourses={finalCourses}
-                    onAdd={addFinalCourse}
-                    parseTimeLength={parseTimeLength}
-                    parseTimeMargin={parseTimeMargin}
-                />
+            
+            <div className="calenderContainer">
+                <div className="calender">
+                    <Calender
+                        SelectedCourses={selectedCourses}
+                        parseDay={parseDay}
+                        finalCourses={finalCourses}
+                        onAdd={addFinalCourse}
+                        parseTimeLength={parseTimeLength}
+                        parseTimeMargin={parseTimeMargin}
+                    />
+                </div>
             </div>
 
             <div className="courses">
@@ -219,9 +222,6 @@ const IndexPage = () => {
                 />
             </div>
 
-            <div className="CalenderGenerator">
-                <CalGen SelectorState={courseSelector} Courses = {selectedCourses}/>
-            </div>
             <div
                 className="Toggler"
                 onClick={(e) => {
@@ -250,6 +250,7 @@ const IndexPage = () => {
                     </a>
                 </div>
             </div>
+            <CalGen Courses={selectedCourses} />
         </main>
     );
 };

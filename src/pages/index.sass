@@ -20,6 +20,33 @@ body
             padding-top: 0
             margin-top: 0
             font-weight: 300
+            display: flex
+            justify-content: center
+            align-items: center
+
+.calenderContainer
+    width: 100%
+    //make overflow scroll
+    display: flex
+    justify-content: center
+    align-items: center
+    
+    //center everything and make the x overflow scrollable
+    //check if the width is greater than the screen width
+    //if it is then make the overflow scrollable
+    //if not then center it
+//media query
+@media screen and (max-width: 768px)
+    .Heading
+        //make h1 small
+        h1
+            font-size: 15px
+    .calenderContainer
+        width: 100%
+        overflow-x: scroll
+        //reset display to normal
+        display: block
+    //make the scroll bar invisible
 .calender
     margin-top:-100px
     transform: scale(80%)   
