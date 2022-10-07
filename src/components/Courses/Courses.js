@@ -28,7 +28,7 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                             <div>
                                 <h2>{course.Course_Code} | {course.Course_Title}</h2>
                                 <p>{course.Day_and_Time}</p>
-                                <p>{course.Instructor_s_}</p>
+                                <p>{course.Instructor}</p>
                                 <p>{course.Instructions_Mode}</p>
                                 <p>Credits: {course.Cr_Hrs}</p>
                             </div>
@@ -50,7 +50,7 @@ export default function Courses({onAdd, onRemove, Courses, SelectedCourses, Sele
                             <div>
                                 <h2>{course.Course_Code} | {course.Course_Title}</h2>
                                 <p>{course.Day_and_Time}</p>
-                                <p>{course.Instructor_s_}</p>
+                                <p>{course.Instructor}</p>
                                 <p>{course.Instructions_Mode}</p>
                                 <p>Credits: {course.Cr_Hrs}</p>
                             </div>

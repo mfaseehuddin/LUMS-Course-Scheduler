@@ -9,10 +9,9 @@ export const useCourseQuery = () => {
                         id
                         Course_Code
                         Course_Title
-                        Instructor_s_
+                        Instructor
                         Cr_Hrs
                         Day_and_Time
-                        Instructions_Mode
                     }
                 }
             }

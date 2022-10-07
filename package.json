@@ -5,7 +5,17 @@
   "description": "LUMS Course Scheduler",
   "author": "Muhammad Faseeh Ud Din",
   "keywords": [
-    "gatsby", "LUMS", "Lahore University Of Management Sciences", "mfaseehuddin", "24100178", "Course Scheduler", "University", "Project Mirage", "pro.mirage", "faseeh", "Muhammad Faseeh Ud Din"
+    "gatsby",
+    "LUMS",
+    "Lahore University Of Management Sciences",
+    "mfaseehuddin",
+    "24100178",
+    "Course Scheduler",
+    "University",
+    "Project Mirage",
+    "pro.mirage",
+    "faseeh",
+    "Muhammad Faseeh Ud Din"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -19,6 +29,7 @@
     "gatsby-plugin-sass": "^4.10.0",
     "gatsby-source-filesystem": "^3.10.0",
     "gatsby-transformer-csv": "^3.10.0",
+    "immutable-ics": "^0.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.35.2",

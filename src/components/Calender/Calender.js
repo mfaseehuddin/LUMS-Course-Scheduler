@@ -80,7 +80,7 @@ export default function Calender({SelectedCourses, finalCourses, onAdd, parseDay
                             return(<div className="Class" key={course.id} style={{height:course.height, width: course.width, position:"absolute", marginLeft: course.marginLeft, marginTop: course.marginTop, backgroundColor:coolColors[colorID]}}>
                                 <div className="ClassInner">
                                 <h5>{course.Course_Code}</h5>
-                                <p>{course.Instructor_s_}</p>
+                                <p>{course.Instructor}</p>
                                 <p>{course.Day_and_Time.split(" ")[1]}</p>
                                 </div>
                             </div>)
