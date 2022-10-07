@@ -4,13 +4,16 @@ import { useState } from "react";
 import Courses from "../components/Courses/Courses";
 import addNew from "../components/Courses/Images/addNew.png";
 import Calender from "../components/Calender/Calender";
-import CalGen from "../components/CalGen/CalGen";
 
+import favicon from "./favicon.ico";
 import linkedin from "./linkedin.png";
 import mirage from "./projectMirage.png";
 import instagram from "./instagram.png";
 
 import "./index.sass";
+
+//add helmet for seo and metadata
+import { Helmet } from "react-helmet";
 
 const IndexPage = () => {
     const data = useCourseQuery();
@@ -190,6 +193,38 @@ const IndexPage = () => {
     };
 
     return (
+        <>
+        {/* helmet tags */}
+        <Helmet>
+            <title>LUMS Course Scheduler | Project Mirage</title>
+            {/* meta data to add:
+            - description:
+                LUMS Course Scheduler is a tool to help LUMS students plan their course schedules for the upcoming semester. Using LCS you can easily plan your course schedule and see what courses are available for you to take. LCS was created by Project Mirage.
+            - keywords:
+                - LUMS
+                - Course
+                - Scheduler
+                - Project Mirage
+                - LUMS Course Scheduler
+                - Lahore University of Management Sciences
+                - LUMS Course Scheduler Project Mirage
+                - Course Scheduler
+                - mfaseehuddin
+                - Muhammad Faseeh Ud Din
+                - LUMS Course Scheduler Muhammad Faseeh Ud Din
+                - Pro Mirage
+                - Mirage
+                - LUMS Course Planner
+            */}
+            <meta name="description" content="Course Planner" />
+            <meta name="keywords" content="Course Planner, LUMS, LUMS Course Planner, LUMS Course Scheduler, Project Mirage, LUMS Course Scheduler Project Mirage, Course Scheduler, mfaseehuddin, Muhammad Faseeh Ud Din, LUMS Course Scheduler Muhammad Faseeh Ud Din, Pro Mirage, Mirage, LUMS Course Planner" />
+            <meta name="author" content="Muhammad Faseeh Ud Din" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <meta name="theme-color" content="#000000" />
+            {/* favicon */}
+            <link rel="icon" href={favicon} />
+            
+        </Helmet>
         <main className="Main">
             <div className="Heading">
                 <h1>LUMS Course Scheduler | Project Mirage</h1>
@@ -227,13 +262,15 @@ const IndexPage = () => {
                 onClick={(e) => {
                     toggleCourseSelector();
                 }}
-                style={
+                
+            >
+                {/* <CalGen Courses={selectedCourses} /> */}
+                <img style={
                     courseSelector
                         ? { transform: "rotate(45deg)" }
                         : { transform: "rotate(0)" }
-                }
-            >
-                <img src={addNew} />
+                } src={addNew} />
+                
             </div>
 
             <div className="credits">
@@ -250,8 +287,9 @@ const IndexPage = () => {
                     </a>
                 </div>
             </div>
-            <CalGen Courses={selectedCourses} />
+            
         </main>
+        </>
     );
 };
 
