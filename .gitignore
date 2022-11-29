@@ -2,3 +2,6 @@ node_modules/
 .cache/
 public
 .DS_Store
+.VSCodeCounter
+.Backups
+.DS_Store

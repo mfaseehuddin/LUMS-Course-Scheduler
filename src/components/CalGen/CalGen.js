@@ -181,8 +181,8 @@ export default function CalGen({ Courses }) {
      * put the string into a file and make it downloadable
      */
     //pretty print the string
-    const semStartDate = new Date(2022, 8, 5);
-    const semEndDate = new Date(2022, 11, 24);
+    const semStartDate = new Date(2023, 0, 16);
+    const semEndDate = new Date(2022, 4, 10);
 
     return (
         <div className="addToCalender" onClick={()=>{

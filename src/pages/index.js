@@ -192,12 +192,15 @@ const IndexPage = () => {
         return minutesDiff;
     };
 
+    const semStartDate = new Date(2023, 0, 16);
+    const semEndDate = new Date(2022, 4, 10);
+
     return (
         <>
-        {/* helmet tags */}
-        <Helmet>
-            <title>LUMS Course Scheduler | Project Mirage</title>
-            {/* meta data to add:
+            {/* helmet tags */}
+            <Helmet>
+                <title>LUMS Course Scheduler | Project Mirage</title>
+                {/* meta data to add:
             - description:
                 LUMS Course Scheduler is a tool to help LUMS students plan their course schedules for the upcoming semester. Using LCS you can easily plan your course schedule and see what courses are available for you to take. LCS was created by Project Mirage.
             - keywords:
@@ -216,79 +219,115 @@ const IndexPage = () => {
                 - Mirage
                 - LUMS Course Planner
             */}
-            <meta name="description" content="Course Planner" />
-            <meta name="keywords" content="Course Planner, LUMS, LUMS Course Planner, LUMS Course Scheduler, Project Mirage, LUMS Course Scheduler Project Mirage, Course Scheduler, mfaseehuddin, Muhammad Faseeh Ud Din, LUMS Course Scheduler Muhammad Faseeh Ud Din, Pro Mirage, Mirage, LUMS Course Planner" />
-            <meta name="author" content="Muhammad Faseeh Ud Din" />
-            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            <meta name="theme-color" content="#000000" />
-            {/* favicon */}
-            <link rel="icon" href={favicon} />
-            
-        </Helmet>
-        <main className="Main">
-            <div className="Heading">
-                <h1>LUMS Course Scheduler | Project Mirage</h1>
-                
-                <h5>Updated Fall 2022</h5>
-            </div>
-            
-            <div className="calenderContainer">
-                <div className="calender">
-                    <Calender
+                <meta name="description" content="Course Planner" />
+                <meta
+                    name="keywords"
+                    content="Course Planner, LUMS, LUMS Course Planner, LUMS Course Scheduler, Project Mirage, LUMS Course Scheduler Project Mirage, Course Scheduler, mfaseehuddin, Muhammad Faseeh Ud Din, LUMS Course Scheduler Muhammad Faseeh Ud Din, Pro Mirage, Mirage, LUMS Course Planner"
+                />
+                <meta name="author" content="Muhammad Faseeh Ud Din" />
+                <meta
+                    name="viewport"
+                    content="width=device-width, initial-scale=1.0"
+                />
+                <meta name="theme-color" content="#000000" />
+                {/* favicon */}
+                <link rel="icon" href={favicon} />
+            </Helmet>
+            <main className="Main">
+                <div className="Heading">
+                    <h1>LUMS Course Scheduler | Project Mirage</h1>
+
+                    <h5>Updated Spring 2023</h5>
+
+                    <h5>Semester: {semStartDate.toDateString()} - {semEndDate.toDateString()}</h5>
+                    
+                </div>
+
+                <div className="calenderContainer">
+                    <div className="calender">
+                        <Calender
+                            SelectedCourses={selectedCourses}
+                            parseDay={parseDay}
+                            finalCourses={finalCourses}
+                            onAdd={addFinalCourse}
+                            parseTimeLength={parseTimeLength}
+                            parseTimeMargin={parseTimeMargin}
+                        />
+                    </div>
+                </div>
+
+                <div className="courses">
+                    <Courses
+                        className="courseSelectorPanel"
+                        onAdd={addCourse}
+                        onRemove={removeCourse}
                         SelectedCourses={selectedCourses}
-                        parseDay={parseDay}
-                        finalCourses={finalCourses}
-                        onAdd={addFinalCourse}
-                        parseTimeLength={parseTimeLength}
-                        parseTimeMargin={parseTimeMargin}
+                        SelectorState={courseSelector}
+                        toggle={toggleCourseSelector}
+                        Credits={credits}
                     />
                 </div>
-            </div>
 
-            <div className="courses">
-                <Courses
-                    className="courseSelectorPanel"
-                    onAdd={addCourse}
-                    onRemove={removeCourse}
-                    SelectedCourses={selectedCourses}
-                    SelectorState={courseSelector}
-                    toggle={toggleCourseSelector}
-                    Credits={credits}
-                />
-            </div>
-
-            <div
-                className="Toggler"
-                onClick={(e) => {
-                    toggleCourseSelector();
-                }}
-                
-            >
-                {/* <CalGen Courses={selectedCourses} /> */}
-                <img style={
-                    courseSelector
-                        ? { transform: "rotate(45deg)" }
-                        : { transform: "rotate(0)" }
-                } src={addNew} />
-                
-            </div>
-
-            <div className="credits">
-                <p>mfaseehuddin | made with ♥ by Project Mirage 2021</p>
-                <div>
-                    <a href="https://instagram.com/mfaseehuddin">
-                        <img src={instagram} />
-                    </a>
-                    <a href="https://pro-mirage.com">
-                        <img src={mirage} />
-                    </a>
-                    <a href="https://www.linkedin.com/in/mfaseehuddin2001/">
-                        <img src={linkedin} />
-                    </a>
+                <div
+                    className="Toggler"
+                    onClick={(e) => {
+                        toggleCourseSelector();
+                    }}
+                >
+                    {/* <CalGen Courses={selectedCourses} /> */}
+                    <img
+                        style={
+                            courseSelector
+                                ? { transform: "rotate(45deg)" }
+                                : { transform: "rotate(0)" }
+                        }
+                        src={addNew}
+                    />
                 </div>
-            </div>
-            
-        </main>
+
+                <div className="credits">
+                    {/* email link */}
+
+                    {/* link style should be plain under lined black text  */}
+                    <p>
+                        we are looking for developers! email at{" "}
+                        <a
+                            href="mailto:info@pro-mirage.com"
+                            style={{
+                                color: "black",
+                                textDecoration: "underline",
+                            }}
+                        >
+                            info@pro-mirage.com
+                        </a>
+                    </p>
+                    <p>
+                        mfaseehuddin | made with ♥ by{" "}
+                        <a
+                            href="https://pro-mirage.com"
+                            style={{
+                                color: "black",
+                                textDecoration: "underline",
+                            }}
+                        >
+                            {" "}
+                            Project Mirage{" "}
+                        </a>
+                        2023
+                    </p>
+                    <div>
+                        <a href="https://instagram.com/mfaseehuddin">
+                            <img src={instagram} />
+                        </a>
+                        <a href="https://pro-mirage.com">
+                            <img src={mirage} />
+                        </a>
+                        <a href="https://www.linkedin.com/in/mfaseehuddin2001/">
+                            <img src={linkedin} />
+                        </a>
+                    </div>
+                </div>
+            </main>
         </>
     );
 };

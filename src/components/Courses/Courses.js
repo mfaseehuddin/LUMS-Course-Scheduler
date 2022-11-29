@@ -26,9 +26,9 @@ export default function Courses({
         >
             <div className="SearchBox">
                 <input
-                    placeholder="Course Code"
+                    placeholder="Search" 
                     onChange={(e) => {
-                        setSearchCourse(e.target.value);
+                        setSearchCourse(e.target.value.toUpperCase());
                     }}
                 />
                 <img className="SearchIcon" src={Search} />
@@ -42,7 +42,7 @@ export default function Courses({
                             //match course code or course name -> make sure the course name is uppercase
                             //how to use .match() to match the course title and be case insensitive
                             //case insensitive regex -> /i
-                            course.Course_Title.toUpperCase().match(searchCourse.toUpperCase()) || course.Course_Code.toUpperCase().match(searchCourse.toUpperCase())
+                            course.Course_Title.toUpperCase().match(searchCourse) || course.Course_Code.toUpperCase().match(searchCourse) || course.Instructor.toUpperCase().match(searchCourse)
                         )
                         .filter((course) => !course.Course_Code.match("w/"))
                         .filter((course) => course.Course_Code !== "")
