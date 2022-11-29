@@ -239,8 +239,10 @@ const IndexPage = () => {
 
                     <h5>Updated Spring 2023</h5>
 
-                    <h5>Semester: {semStartDate.toDateString()} - {semEndDate.toDateString()}</h5>
-                    
+                    <h5>
+                        Semester: {semStartDate.toDateString()} -{" "}
+                        {semEndDate.toDateString()}
+                    </h5>
                 </div>
 
                 <div className="calenderContainer">
@@ -311,8 +313,8 @@ const IndexPage = () => {
                             }}
                         >
                             {" "}
-                            Project Mirage{" "}
-                        </a>
+                            Project Mirage
+                        </a>{" "}
                         2023
                     </p>
                     <div>
