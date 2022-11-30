@@ -193,7 +193,7 @@ const IndexPage = () => {
     };
 
     const semStartDate = new Date(2023, 0, 16);
-    const semEndDate = new Date(2022, 4, 10);
+    const semEndDate = new Date(2023, 4, 10);
 
     return (
         <>
