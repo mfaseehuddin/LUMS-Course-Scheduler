@@ -17,7 +17,8 @@ function generateRRULE(days, semEndDate) {
     days.split("").forEach((day) => {
         reqDays += RRULE_DAYS[dayDefs.indexOf(day)] + ",";
     });
-    console.log("reqDays: " + reqDays);
+    if (process.env.NODE_ENV === "development")
+        console.log("reqDays: " + reqDays);
     //remove last char of reqDays
     reqDays = reqDays.slice(0, -1);
 
@@ -43,8 +44,10 @@ function parseDayAndTimeToData(DATString, semStartDate, semEndDate) {
     const classDate = new Date(semStartDate);
     classDate.setDate(classDate.getDate() + dayIndex);
     //log
-    console.log("classDate: " + classDate);
-    console.log(semEndDate);
+    if (process.env.NODE_ENV === "development") {
+        console.log("classDate: " + classDate);
+        console.log(semEndDate);
+    }
     timeStartArray[2] = classDate.getDate();
     //year
     timeStartArray[0] = classDate.getFullYear(); //returns 2021
@@ -93,7 +96,7 @@ function parseDayAndTimeToData(DATString, semStartDate, semEndDate) {
 }
 
 function generateICSString(Courses, semStartDate, semEndDate) {
-    console.log("here");
+    if (process.env.NODE_ENV === "development") console.log("here");
     let calender;
 
     const versionProperty = new Property({ name: "VERSION", value: "2.0" });
@@ -106,7 +109,7 @@ function generateICSString(Courses, semStartDate, semEndDate) {
     calender.pushProperty(versionProperty);
     calender.pushProperty(prodIdProperty);
 
-    if(Courses.length == 0) {
+    if (Courses.length == 0) {
         return "No courses selected";
     }
 
@@ -152,13 +155,13 @@ function generateICSString(Courses, semStartDate, semEndDate) {
         calender = calender.pushComponent(event);
     });
 
-    console.log("outta here");
+    if (process.env.NODE_ENV === "development") console.log("outta here");
     return calender.toString();
 }
 
 function generateICSFile(Courses, semStartDate, semEndDate) {
     const icsString = generateICSString(Courses, semStartDate, semEndDate);
-    if(icsString == "No courses selected") {
+    if (icsString == "No courses selected") {
         alert("No courses selected");
         return;
     }
@@ -169,8 +172,6 @@ function generateICSFile(Courses, semStartDate, semEndDate) {
     link.download = "LUMS Fall 22 Schedule.ics";
     link.click();
 }
-
-
 
 export default function CalGen({ Courses }) {
     /**
@@ -185,13 +186,11 @@ export default function CalGen({ Courses }) {
     const semEndDate = new Date(2023, 4, 10);
 
     return (
-        <div className="addToCalender" onClick={()=>{
-            generateICSFile(Courses, semStartDate, semEndDate);
-        }}
-        style={{
-            userSelect: "none",
-            cursor: "pointer"
-        }}
+        <div
+            className="addToCalender"
+            onClick={() => {
+                generateICSFile(Courses, semStartDate, semEndDate);
+            }}
         >
             <p>Export To Calender</p>
         </div>

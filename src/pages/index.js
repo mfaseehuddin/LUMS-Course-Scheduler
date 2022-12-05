@@ -18,9 +18,35 @@ import { Helmet } from "react-helmet";
 const IndexPage = () => {
     const data = useCourseQuery();
     const [credits, setCredits] = useState(0);
-    //Course data
-    const [courseCode, setCourseCode] = useState();
     const [selectedCourses, setSelectedCourses] = useState([]);
+    const [finalCourses, setFinalCourses] = useState([]);
+
+    useEffect(() => {
+        //load selected courses, and final courses from local storage
+        const selectedCourses = JSON.parse(
+            localStorage.getItem("selectedCourses")
+        );
+        const finalCourses = JSON.parse(localStorage.getItem("finalCourses"));
+        const credits = JSON.parse(localStorage.getItem("credits"));
+        if (selectedCourses) {
+            setSelectedCourses(selectedCourses);
+        }
+        if (finalCourses) {
+            setFinalCourses(finalCourses);
+        }
+        if (credits) {
+            setCredits(credits);
+        }
+    }, []);
+
+    useEffect(() => {
+        //save selected courses, final courses, and credits to local storage
+        localStorage.setItem("selectedCourses", JSON.stringify(selectedCourses));
+        localStorage.setItem("finalCourses", JSON.stringify(finalCourses));
+        localStorage.setItem("credits", JSON.stringify(credits));
+    }, [selectedCourses, finalCourses, credits]);
+
+
     const addCourse = (courseID, chr) => {
         if (
             selectedCourses.filter((course) => course.id === courseID)
@@ -32,7 +58,7 @@ const IndexPage = () => {
                 )
             );
             setCredits(credits + parseInt(chr));
-            // console.log(courseID)
+            // if (process.env.NODE_ENV === "development") console.log(courseID)
         }
     };
 
@@ -53,7 +79,31 @@ const IndexPage = () => {
         );
     };
 
-    const [finalCourses, setFinalCourses] = useState([]);
+    const removeCourseCalender = (courseID) => {
+        setSelectedCourses(
+            selectedCourses.filter((course) => course.id !== courseID)
+        );
+        setFinalCourses(
+            finalCourses.filter((course) => !course.id.match(courseID))
+        );
+        setCredits(
+            credits -
+                parseInt(
+                    finalCourses.filter((course) =>
+                        course.id.match(courseID)
+                    )[0].Cr_Hrs
+                )
+        );
+    };
+
+    const deleteAllCourses = () => {
+        setSelectedCourses([]);
+        setFinalCourses([]);
+        setCredits(0);
+    };
+
+
+    
     const addFinalCourse = (courseCopyFinal) => {
         if (
             finalCourses.filter((course) => course.id === courseCopyFinal.id)
@@ -93,15 +143,15 @@ const IndexPage = () => {
     };
 
     const parseTimeLength = (dayAndTime) => {
-        // console.log(dayAndTime)
+        // if (process.env.NODE_ENV === "development") console.log(dayAndTime)
         var timeString = dayAndTime.split(" ")[1].split("-");
-        // console.log(timeString)
+        // if (process.env.NODE_ENV === "development") console.log(timeString)
 
         var timeStart = timeString[0];
         var timeEnd = timeString[1];
 
-        // console.log(timeStart)
-        // console.log(timeEnd)
+        // if (process.env.NODE_ENV === "development") console.log(timeStart)
+        // if (process.env.NODE_ENV === "development") console.log(timeEnd)
 
         var minutesDiff = 0;
 
@@ -114,7 +164,7 @@ const IndexPage = () => {
                 60 * 12 +
                 parseInt(timeEnd.split(":")[1].slice(0, 2));
             minutesDiff = minutesEnd - minutesStart;
-            console.log(minutesDiff + "5");
+            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "5");
         } else if (
             timeEnd.slice(0, 2) === "12" &&
             timeStart.slice(-2) === "AM"
@@ -126,7 +176,7 @@ const IndexPage = () => {
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
             minutesDiff = minutesEnd - minutesStart;
-            console.log(minutesDiff + "2");
+            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "2");
         } else if (timeEnd.slice(-2) === "PM" && timeStart.slice(-2) === "AM") {
             var minutesEnd =
                 parseInt(timeEnd.split(":")[0]) * 60 +
@@ -136,34 +186,34 @@ const IndexPage = () => {
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
             minutesDiff = minutesEnd - minutesStart;
-            console.log(minutesDiff + "3");
+            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "3");
         } else if (
             (timeEnd.slice(-2) === "AM" && timeStart.slice(-2) === "AM") ||
             (timeEnd.slice(-2) === "PM" && timeStart.slice(-2) === "PM")
         ) {
-            // console.log(parseInt(timeEnd.split(":")[0])*60 + parseInt(timeEnd.slice(2)))
+            // if (process.env.NODE_ENV === "development") console.log(parseInt(timeEnd.split(":")[0])*60 + parseInt(timeEnd.slice(2)))
             var minutesEnd =
                 parseInt(timeEnd.split(":")[0]) * 60 +
                 parseInt(timeEnd.split(":")[1].slice(0, 2));
-            console.log(minutesEnd);
+            if (process.env.NODE_ENV === "development") console.log(minutesEnd);
             var minutesStart =
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
-            console.log(minutesStart);
+            if (process.env.NODE_ENV === "development") console.log(minutesStart);
             minutesDiff = minutesEnd - minutesStart;
-            console.log(minutesDiff + "A");
+            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "A");
         }
 
         return minutesDiff;
     };
 
     const parseTimeMargin = (timeStart) => {
-        // console.log(timeString)
+        // if (process.env.NODE_ENV === "development") console.log(timeString)
 
         var timeInital = 420;
 
-        // console.log(timeStart)
-        // console.log(timeEnd)
+        // if (process.env.NODE_ENV === "development") console.log(timeStart)
+        // if (process.env.NODE_ENV === "development") console.log(timeEnd)
 
         var minutesDiff = 0;
 
@@ -171,22 +221,22 @@ const IndexPage = () => {
             var minutesStart =
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
-            // console.log(minutesStart)
+            // if (process.env.NODE_ENV === "development") console.log(minutesStart)
             minutesDiff = minutesStart - timeInital;
-            // console.log(minutesDiff)
+            // if (process.env.NODE_ENV === "development") console.log(minutesDiff)
         } else if (timeStart.slice(0, 2) === "12") {
             var minutesStart =
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
             minutesDiff = minutesStart - timeInital;
-            // console.log(minutesDiff)
+            // if (process.env.NODE_ENV === "development") console.log(minutesDiff)
         } else if (timeStart.slice(-2) === "PM") {
             var minutesStart =
                 parseInt(timeStart.split(":")[0]) * 60 +
                 60 * 12 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
             minutesDiff = minutesStart - timeInital;
-            // console.log(minutesDiff)
+            // if (process.env.NODE_ENV === "development") console.log(minutesDiff)
         }
 
         return minutesDiff;
@@ -266,8 +316,10 @@ const IndexPage = () => {
                     <div className="calender">
                         <Calender
                             SelectedCourses={selectedCourses}
+                            credits={credits}
                             parseDay={parseDay}
                             finalCourses={finalCourses}
+                            onCalenderRemove={removeCourseCalender}
                             onAdd={addFinalCourse}
                             parseTimeLength={parseTimeLength}
                             parseTimeMargin={parseTimeMargin}
@@ -284,6 +336,7 @@ const IndexPage = () => {
                         SelectorState={courseSelector}
                         toggle={toggleCourseSelector}
                         Credits={credits}
+                        deleteAllCourses={deleteAllCourses}
                     />
                 </div>
 

@@ -3,6 +3,7 @@ import { useCourseQuery } from "../../hooks/useCourseQuery";
 import tick from "./Images/Tick.png";
 import Delete from "./Images/Delete.png";
 import Search from "./Images/Search.png";
+import DeleteAll from "./Images/DeleteAll.png";
 
 import "./CoursesStyle.sass";
 import CalGen from "../CalGen/CalGen";
@@ -13,6 +14,7 @@ export default function Courses({
     Courses,
     SelectedCourses,
     SelectorState,
+    deleteAllCourses,
     toggle,
     Credits,
 }) {
@@ -97,6 +99,7 @@ export default function Courses({
             <div className="SelectedCourses">
                 <h3>Selected Courses:</h3>
                 <h4>Total Credits: {Credits}</h4>
+
                 <ul>
                     {SelectedCourses.map((course) => (
                         <li key={course.id}>
@@ -121,8 +124,20 @@ export default function Courses({
                     ))}
                 </ul>
             </div>
-            <div className="CalGen">
-                <CalGen Courses={SelectedCourses} />
+            <div style={{ display: "flex", alignItems: "center" }}>
+                <div className="Calgeny">
+                    <CalGen Courses={SelectedCourses} />
+                </div>
+                <div>
+                    <div
+                        className="addToCalender"
+                        onClick={() => {
+                            deleteAllCourses();
+                        }}
+                    >
+                        <p>Remove All Courses</p>
+                    </div>
+                </div>
             </div>
         </div>
     );
