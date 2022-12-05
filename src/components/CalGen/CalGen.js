@@ -187,8 +187,13 @@ export default function CalGen({ Courses }) {
     return (
         <div className="addToCalender" onClick={()=>{
             generateICSFile(Courses, semStartDate, semEndDate);
-        }}>
-            <p>Add To Calender</p>
+        }}
+        style={{
+            userSelect: "none",
+            cursor: "pointer"
+        }}
+        >
+            <p>Export To Calender</p>
         </div>
     );
 }

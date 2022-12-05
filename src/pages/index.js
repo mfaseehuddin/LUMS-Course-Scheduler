@@ -1,6 +1,6 @@
 import * as React from "react";
 import { useCourseQuery } from "../hooks/useCourseQuery";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Courses from "../components/Courses/Courses";
 import addNew from "../components/Courses/Images/addNew.png";
 import Calender from "../components/Calender/Calender";
@@ -195,6 +195,23 @@ const IndexPage = () => {
     const semStartDate = new Date(2023, 0, 16);
     const semEndDate = new Date(2023, 4, 10);
 
+    // check if user pressed / key to open search bar
+    const handleKeyDown = (e) => {
+        if (e.key === "/") {
+            e.preventDefault();
+            setCourseSelector(!courseSelector);
+        }
+    };
+    // add event listener to listen for key presses, with delay of 100ms
+    useEffect(() => {
+        const listener = setTimeout(() => {
+            document.addEventListener("keydown", handleKeyDown);
+        }, 100);
+        return () => {
+            document.removeEventListener("keydown", handleKeyDown);
+        };
+    }, [courseSelector]);
+
     return (
         <>
             {/* helmet tags */}
@@ -237,7 +254,7 @@ const IndexPage = () => {
                 <div className="Heading">
                     <h1>LUMS Course Scheduler | Project Mirage</h1>
 
-                    <h5>Updated Spring 2023</h5>
+                    <h5>Updated Spring 2023 | 6 Dec 2023</h5>
 
                     <h5>
                         Semester: {semStartDate.toDateString()} -{" "}
@@ -271,18 +288,22 @@ const IndexPage = () => {
                 </div>
 
                 <div
-                    className="Toggler"
+                    className="Toggler buttu"
                     onClick={(e) => {
                         toggleCourseSelector();
                     }}
                 >
                     {/* <CalGen Courses={selectedCourses} /> */}
                     <img
-                        style={
-                            courseSelector
-                                ? { transform: "rotate(45deg)" }
-                                : { transform: "rotate(0)" }
-                        }
+                        style={{
+                            transition: "all 0.4s ease-in-out",
+                            ...(courseSelector
+                                ? {
+                                      transform: "rotate(45deg)",
+                                      translate: "0px -7px 0px",
+                                  }
+                                : { transform: "rotate(0)" }),
+                        }}
                         src={addNew}
                     />
                 </div>

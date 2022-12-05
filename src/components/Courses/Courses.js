@@ -19,6 +19,11 @@ export default function Courses({
     const courseData = useCourseQuery();
     const [searchCourse, setSearchCourse] = useState();
 
+    //if selector state is true then set focus on search box
+    if (SelectorState) {
+        document.querySelector(".SearchBox input").focus();
+    }
+
     return (
         <div
             className="CourseComponent"
@@ -26,8 +31,13 @@ export default function Courses({
         >
             <div className="SearchBox">
                 <input
-                    placeholder="Search" 
+                    placeholder="Search"
                     onChange={(e) => {
+                        // donot allow to input regex
+                        if (e.target.value.match(/[^\w\s]/)) {
+                            return;
+                        }
+
                         setSearchCourse(e.target.value.toUpperCase());
                     }}
                 />
@@ -38,11 +48,20 @@ export default function Courses({
                 <h3>Available Courses:</h3>
                 <ul>
                     {courseData.nodes
-                        .filter((course) =>
-                            //match course code or course name -> make sure the course name is uppercase
-                            //how to use .match() to match the course title and be case insensitive
-                            //case insensitive regex -> /i
-                            course.Course_Title.toUpperCase().match(searchCourse) || course.Course_Code.toUpperCase().match(searchCourse) || course.Instructor.toUpperCase().match(searchCourse)
+                        .filter(
+                            (course) =>
+                                //match course code or course name -> make sure the course name is uppercase
+                                //how to use .match() to match the course title and be case insensitive
+                                //case insensitive regex -> /i
+                                course.Course_Title.toUpperCase().match(
+                                    searchCourse
+                                ) ||
+                                course.Course_Code.toUpperCase().match(
+                                    searchCourse
+                                ) ||
+                                course.Instructor.toUpperCase().match(
+                                    searchCourse
+                                )
                         )
                         .filter((course) => !course.Course_Code.match("w/"))
                         .filter((course) => course.Course_Code !== "")
@@ -56,10 +75,12 @@ export default function Courses({
                                     <p>{course.Instructions_Mode}</p>
                                     <p>Credits: {course.Cr_Hrs}</p>
                                 </div>
-                                <div>
+                                <div style={{}} className="buttu">
                                     <img
                                         src={tick}
                                         className={course.id}
+                                        //how to add hover in css in js
+
                                         onClick={(e) =>
                                             onAdd(
                                                 e.target.className,
@@ -87,7 +108,7 @@ export default function Courses({
                                 <p>{course.Instructions_Mode}</p>
                                 <p>Credits: {course.Cr_Hrs}</p>
                             </div>
-                            <div>
+                            <div className="buttu">
                                 <img
                                     src={Delete}
                                     className={course.id}
@@ -103,7 +124,6 @@ export default function Courses({
             <div className="CalGen">
                 <CalGen Courses={SelectedCourses} />
             </div>
-            
         </div>
     );
 }
