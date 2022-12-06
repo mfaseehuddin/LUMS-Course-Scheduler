@@ -24,7 +24,7 @@ jobs:
         cache: 'yarn'
 
     - run: yarn install --frozen-lockfile
-    - run: yarn build --if-present
+    - run: yarn build
 
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
