@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Courses from "../components/Courses/Courses";
 import addNew from "./AddNew.png";
 import Calender from "../components/Calender/Calender";
-
+import StatusOverlay from "../components/StatusOverlay/StatusOverlay";
 import favicon from "./favicon.ico";
 import linkedin from "./linkedin.png";
 import mirage from "./projectMirage.png";
@@ -41,11 +41,13 @@ const IndexPage = () => {
 
     useEffect(() => {
         //save selected courses, final courses, and credits to local storage
-        localStorage.setItem("selectedCourses", JSON.stringify(selectedCourses));
+        localStorage.setItem(
+            "selectedCourses",
+            JSON.stringify(selectedCourses)
+        );
         localStorage.setItem("finalCourses", JSON.stringify(finalCourses));
         localStorage.setItem("credits", JSON.stringify(credits));
     }, [selectedCourses, finalCourses, credits]);
-
 
     const addCourse = (courseID, chr) => {
         if (
@@ -102,8 +104,6 @@ const IndexPage = () => {
         setCredits(0);
     };
 
-
-    
     const addFinalCourse = (courseCopyFinal) => {
         if (
             finalCourses.filter((course) => course.id === courseCopyFinal.id)
@@ -164,7 +164,8 @@ const IndexPage = () => {
                 60 * 12 +
                 parseInt(timeEnd.split(":")[1].slice(0, 2));
             minutesDiff = minutesEnd - minutesStart;
-            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "5");
+            if (process.env.NODE_ENV === "development")
+                console.log(minutesDiff + "5");
         } else if (
             timeEnd.slice(0, 2) === "12" &&
             timeStart.slice(-2) === "AM"
@@ -176,7 +177,8 @@ const IndexPage = () => {
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
             minutesDiff = minutesEnd - minutesStart;
-            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "2");
+            if (process.env.NODE_ENV === "development")
+                console.log(minutesDiff + "2");
         } else if (timeEnd.slice(-2) === "PM" && timeStart.slice(-2) === "AM") {
             var minutesEnd =
                 parseInt(timeEnd.split(":")[0]) * 60 +
@@ -186,7 +188,8 @@ const IndexPage = () => {
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
             minutesDiff = minutesEnd - minutesStart;
-            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "3");
+            if (process.env.NODE_ENV === "development")
+                console.log(minutesDiff + "3");
         } else if (
             (timeEnd.slice(-2) === "AM" && timeStart.slice(-2) === "AM") ||
             (timeEnd.slice(-2) === "PM" && timeStart.slice(-2) === "PM")
@@ -199,9 +202,11 @@ const IndexPage = () => {
             var minutesStart =
                 parseInt(timeStart.split(":")[0]) * 60 +
                 parseInt(timeStart.split(":")[1].slice(0, 2));
-            if (process.env.NODE_ENV === "development") console.log(minutesStart);
+            if (process.env.NODE_ENV === "development")
+                console.log(minutesStart);
             minutesDiff = minutesEnd - minutesStart;
-            if (process.env.NODE_ENV === "development") console.log(minutesDiff + "A");
+            if (process.env.NODE_ENV === "development")
+                console.log(minutesDiff + "A");
         }
 
         return minutesDiff;
@@ -313,7 +318,10 @@ const IndexPage = () => {
                 </div>
 
                 <div className="calenderContainer">
-                    <div className="calender">
+                    <div className="calender" style={{
+                        position: "relative",
+                    }}>
+                        <StatusOverlay credits={credits} courses={selectedCourses}/>
                         <Calender
                             SelectedCourses={selectedCourses}
                             credits={credits}
