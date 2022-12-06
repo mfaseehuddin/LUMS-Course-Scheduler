@@ -1,36 +1,36 @@
 name: Hostinger CI/CD
 
-  on:
-    push:
-      branches: [ main ]
-    workflow_dispatch:
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
 
-  jobs:
-    build:
+jobs:
+  build:
 
-      runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-      strategy:
-        matrix:
-          node-version: [18.x]
-          # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+    strategy:
+      matrix:
+        node-version: [18.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
-      steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'yarn'
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'yarn'
 
-      - run: yarn install --frozen-lockfile
-      - run: yarn build --if-present
+    - run: yarn install --frozen-lockfile
+    - run: yarn build --if-present
 
-      - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@4.1.0
-        with:
-          server: ftp.pro-mirage.com
-          #upload only the compiled files
-          local-dir: ./public/
-          username: ${{secrets.ftp_username}}
-          password: ${{ secrets.ftp_password }}
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      with:
+        server: ftp.pro-mirage.com
+        #upload only the compiled files
+        local-dir: ./public/
+        username: ${{secrets.ftp_username}}
+        password: ${{ secrets.ftp_password }}
