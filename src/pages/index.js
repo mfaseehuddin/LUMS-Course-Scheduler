@@ -2,7 +2,7 @@ import * as React from "react";
 import { useCourseQuery } from "../hooks/useCourseQuery";
 import { useState, useEffect } from "react";
 import Courses from "../components/Courses/Courses";
-import addNew from "../components/Courses/Images/addNew.png";
+import addNew from "./AddNew.png";
 import Calender from "../components/Calender/Calender";
 
 import favicon from "./favicon.ico";
