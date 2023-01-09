@@ -10,7 +10,7 @@ function generateRRULE(days, semEndDate) {
     const interval = 1;
     const until = new Property({
         name: "DTSTART",
-        value: new Date(2022, 11, 24),
+        value: semEndDate,
     }); //returns 2021-12-31T00:00:00.000Z
 
     var reqDays = "";
@@ -169,7 +169,7 @@ function generateICSFile(Courses, semStartDate, semEndDate) {
     const blob = new Blob([icsString], { type: "text/calendar" });
     const link = document.createElement("a");
     link.href = window.URL.createObjectURL(blob);
-    link.download = "LUMS Fall 22 Schedule.ics";
+    link.download = "LUMS Spring 23 Schedule.ics";
     link.click();
 }
 
