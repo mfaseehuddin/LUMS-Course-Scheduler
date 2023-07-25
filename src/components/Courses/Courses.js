@@ -63,7 +63,12 @@ export default function Courses({
                                 ) ||
                                 course.Instructor.toUpperCase().match(
                                     searchCourse
-                                )
+                                ) ||
+                                ((searchCourse.length > 3) && //check if query at least 3 characters (arbitrary number for better performance) 
+                                 (searchCourse).toUpperCase().split(" ").every(
+                                    //tokenize query and compare each word with each field
+                                    i => (course.Course_Code + course.Course_Title + course.Instructor).toUpperCase().includes(i)
+                                ))
                         )
                         .filter((course) => !course.Course_Code.match("w/"))
                         .filter((course) => course.Course_Code !== "")
