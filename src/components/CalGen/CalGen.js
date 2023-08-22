@@ -1,6 +1,5 @@
 import React from "react";
 import { Component, Property } from "immutable-ics";
-
 import "./CalGen.sass";
 
 const dayDefs = ["M", "T", "W", "R", "F", "S", "U"];
@@ -169,7 +168,7 @@ function generateICSFile(Courses, semStartDate, semEndDate) {
     const blob = new Blob([icsString], { type: "text/calendar" });
     const link = document.createElement("a");
     link.href = window.URL.createObjectURL(blob);
-    link.download = "LUMS Spring 23 Schedule.ics";
+    link.download = "LUMS Fall 23 Schedule.ics";
     link.click();
 }
 
@@ -182,8 +181,8 @@ export default function CalGen({ Courses }) {
      * put the string into a file and make it downloadable
      */
     //pretty print the string
-    const semStartDate = new Date(2023, 0, 16);
-    const semEndDate = new Date(2023, 4, 10);
+    const semStartDate = new Date(2023, 8, 4);
+    const semEndDate = new Date(2023, 11, 20);
 
     return (
         <div
