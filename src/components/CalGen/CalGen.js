@@ -181,8 +181,8 @@ export default function CalGen({ Courses }) {
      * put the string into a file and make it downloadable
      */
     //pretty print the string
-    const semStartDate = new Date(2023, 8, 4);
-    const semEndDate = new Date(2023, 11, 20);
+    const semStartDate = new Date(2024, 0, 15);
+    const semEndDate = new Date(2024, 4, 15);
 
     return (
         <div

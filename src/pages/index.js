@@ -247,8 +247,8 @@ const IndexPage = () => {
         return minutesDiff;
     };
 
-    const semStartDate = new Date(2023, 8, 4);
-    const semEndDate = new Date(2024, 11, 15);
+    const semStartDate = new Date(2024, 0, 15);
+    const semEndDate = new Date(2024, 4, 15);
 
     // check if user pressed / key to open search bar
     const handleKeyDown = (e) => {
@@ -309,7 +309,7 @@ const IndexPage = () => {
                 <div className="Heading">
                     <h1>LUMS Course Scheduler | Project Mirage</h1>
 
-                    <h5>Updated Fall 2023 | 10 Jul 2023</h5>
+                    <h5>Updated Spring 2024 | 27 Nov 2023</h5>
 
                     <h5>
                         Semester: {semStartDate.toDateString()} -{" "}
@@ -403,7 +403,7 @@ const IndexPage = () => {
                             {" "}
                             Project Mirage
                         </a>{" "}
-                        2023
+                        2024
                     </p>
                     <div>
                         <a href="https://instagram.com/mfaseehuddin">
