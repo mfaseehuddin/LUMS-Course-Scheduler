@@ -1,693 +1,741 @@
 Course Code,Course Title,Session,Cr Hrs,Day and Time,Instructor
-ACCT 100 LEC 1,Principles of Financial Accounting,16W,3,TR 9:30AM-10:45AM,
-ACCT 100 LEC 2,Principles of Financial Accounting,16W,3,MW 11:00AM-12:15PM,Abdul Rauf
-ACCT 130 LEC 1,Principles of Management Accounting,16W,3,TR 12:30PM-1:45PM,Mahin Moazzam
-ACCT 220 LEC 1,Corporate Financial Reporting I,16W,3,MW 2:00PM-3:15PM,Saira Rizwan
-ACCT 250 LEC 1,Auditing,16W,3,TR 11:00AM-12:15PM,Syed Zain ul Abidin
-ACCT 250 LEC 2,Auditing,16W,3,TR 12:30PM-1:45PM,Syed Zain ul Abidin
-ACCT 250 LEC 3,Auditing,16W,3,TR 9:30AM-10:45AM,Mahin Moazzam
-ACCT 320 LEC 1,Corporate Financial Reporting II,16W,3,MW 11:00AM-12:15PM,Samia Ahmed Ali
-ACCT 320 LEC 2,Corporate Financial Reporting II,16W,3,Spring24_Formatted.csv,Samia Ahmed Ali
-ACCT 320 LEC 3,Corporate Financial Reporting II,16W,3,TR 2:00PM-3:15PM,Samia Ahmed Ali
-ACCT 352 LEC 1,Advanced Auditing,16W,3,MW 9:30AM-10:45AM,Abdul Rauf
-ACCT 370 LEC 1,Applied Taxation,16W,3,TR 11:00AM-12:15PM,
-ACCT 370 LEC 2,Applied Taxation,16W,3,TR 12:30PM-1:45PM,
-ACCT 411 LEC 1,Applied Financial Analysis,16W,3,MW 3:30PM-4:45PM,Saira Rizwan
-ACF 5101 LEC 1,Financial Management and Accounting,MS2,3,SU 2:00PM-4:00PM,"Asad Alam
+ACCT 100 LEC 1,Principles of Financial Accounting,16W,3,TR 11:00AM-12:15PM,Syed Zain ul Abidin
+ACCT 100 LEC 2,Principles of Financial Accounting,16W,3,TR 12:30PM-1:45PM,Syed Zain ul Abidin
+ACCT 100 LEC 3,Principles of Financial Accounting,16W,3,TR 2:00PM-3:15PM,Syed Zain ul Abidin
+ACCT 100 LEC 4,Principles of Financial Accounting,16W,3,TR 3:30PM-4:45PM,Zainab Mehmood
+ACCT 100 LEC 5,Principles of Financial Accounting,16W,3,TR 5:00PM-6:15PM,Zainab Mehmood
+ACCT 100 LEC 6,Principles of Financial Accounting,16W,3,MW 9:30AM-10:45AM,Saira Rizwan
+ACCT 100 LEC 7,Principles of Financial Accounting,16W,3,MW 11:00AM-12:15PM,Saira Rizwan
+ACCT 130 LEC 1,Principles of Management Accounting,16W,3,TR 9:30AM-10:45AM,Ayesha Bhatti
+ACCT 130 LEC 2,Principles of Management Accounting,16W,3,TR 11:00AM-12:15PM,Ayesha Bhatti
+ACCT 130 LEC 3,Principles of Management Accounting,16W,3,TR 2:00PM-3:15PM,Ayesha Bhatti
+ACCT 130 LEC 4,Principles of Management Accounting,16W,3,TR 12:30PM-1:45PM,Ayesha Bhatti
+ACCT 130 LEC 5,Principles of Management Accounting,16W,3,TR 9:30AM-10:45AM,Mahin Moazzam
+ACCT 130 LEC 6,Principles of Management Accounting,16W,3,TR 11:00AM-12:15PM,Mahin Moazzam
+ACCT 130 LEC 7,Principles of Management Accounting,16W,3,TR 2:00PM-3:15PM,Mahin Moazzam
+ACCT 202 LEC 1,"Theory and Concepts of Accounting - Islamic
+Perspective",16W,3,MW 9:30AM-10:45AM,Abdul Rauf
+ACCT 202 LEC 2,"Theory and Concepts of Accounting - Islamic
+Perspective",16W,3,MW 11:00AM-12:15PM,Abdul Rauf
+ACCT 220 LEC 1,Corporate Financial Reporting I,16W,3,MW 11:00AM-12:15PM,Samia Ahmed Ali
+ACCT 220 LEC 2,Corporate Financial Reporting I,16W,3,MW 12:30PM-1:45PM,Samia Ahmed Ali
+ACCT 220 LEC 3,Corporate Financial Reporting I,16W,3,MW 2:00PM-3:15PM,Samia Ahmed Ali
+ACCT 411 LEC 1,Applied Financial Analysis,16W,3,MW 2:00PM-3:15PM,Saira Rizwan
+ACCT 482 LEC 1,"Governance, Risk and Compliance",16W,3,MW 8:00AM-9:15AM,Ali Qamar
+ACF 2101 LEC 1,Introduction to Finance and Accounting,SDSB-Foundation,1.5,MTHFSSU 2:00PM-4:10PM,Syed Zain ul Abidin
+ACF 2101 LEC 2,Introduction to Finance and Accounting,SDSB-Foundation,1.5,MTHFSSU 11:00AM-1:10PM,
+ACF 5101 LEC 1,Financial Management and Accounting,MS1,3,FSSU 2:00PM-4:00PM,"Samia Ahmed Ali
 Syed Mubashir Ali"
-ACTA 6201 LEC 1,Business Analytics - Foundations,MS2,3,SU 10:45AM-12:45PM,Maheen Aamir Syed
-ACTA 6202 LEC 1,Analytics in Accounting and Control,MS2,3,SU 4:30PM-6:30PM,Ali Qamar
-ACTA 6301 LEC 1,Information Systems - Design and Security,MS2,3,SU 8:30AM-10:30AM,
-ACTA 6302 LEC 1,Business Intelligence and Big Data Statistics,MS2,3,SU 2:00PM-4:00PM,Ussama Yaqub
-ANR 100 LEC 1,Introduction to Cultural AnRropology,16W,4,MW 12:00PM-1:50PM,Lukas Albert Paul WerR
-ANR 100 LEC 2,Introduction to Cultural AnRropology,16W,4,MW 2:00PM-3:50PM,Dominic William Esler
-ANR 244 LEC 1,Political AnRropology,16W,4,TR 10:00AM-11:50AM,Ghazal Asif
-ANR 253 LEC 1,Women's Lives Across Cultures,16W,4,TR 4:00PM-5:50PM,Rabia Kamal
-ANR 266 LEC 1,Kinship: Making Sense of Human Relations,16W,4,MW 2:00PM-3:50PM,Syeedda Anjum Ara Alvi
-ANR 310 LEC 1,Classical AnRropological Reory,16W,4,TR 8:00AM-9:50AM,Lukas Albert Paul WerR
-ANR 320 LEC 1,Qualitative Research MeRods,16W,4,MW 2:00PM-3:50PM,Ghazal Asif
-ANR 363 LEC 1,Muslim Veiling: Re Struggle for Identities in Dias,16W,4,TR 10:00AM-11:50AM,Syeedda Anjum Ara Alvi
-ANR 483 LEC 1,Caste in SouR Asia and Beyond,16W,4,MW 10:00AM-11:50AM,Dominic William Esler
-BIO 100 LEC 1,Biology Laboratory,8Wk2,1,R 9:00AM-9:50AM,"Muhammad Tariq
-Khurram Bashir
-Zaigham Shahzad"
-BIO 100 LEC 2,Biology Laboratory,8Wk2,1,M 9:00AM-9:50AM,"Zaigham Shahzad
+ACTA 6202 LEC 1,Analytics in Accounting and Control,MS1,3,FSSU 10:45AM-12:45PM,Ali Qamar
+AI 500 LEC 1,Foundations of AI,16W,3,S 12:30PM-3:30PM,Murtaza Taj
+AI 501 LEC 1,Mathematics for AI,16W,3,S 9:30AM-12:30PM,Zubair Khalid
+ANTH 100 LEC 1,Introduction to Cultural Anthropology,16W,4,MW 4:00PM-5:50PM,Syeedda Anjum Ara Alvi
+ANTH 100 LEC 2,Introduction to Cultural Anthropology,16W,4,MW 2:00PM-3:50PM,Sadaf Ahmad
+ANTH 276 LEC 1,Anthropology of Social Media,16W,4,TR 4:00PM-5:50PM,Rabia Kamal
+ANTH 312 LEC 1,Modernity as a Way of Life,16W,4,TR 10:00AM-11:50AM,Lukas Albert Paul Werth
+ANTH 434 LEC 1,"Putting Social Science to the Test: Mixed-Methods
+Approaches to Lahore’s Developmental Challenges",16W,4,TR 12:00PM-1:50PM,"Ameem Lutfi
+Farah Said"
+ANTH 464 LEC 1,Children of Abraham,16W,4,TR 2:00PM-3:50PM,Lukas Albert Paul Werth
+ANTH 483 LEC 1,Caste in South Asia and Beyond,16W,4,MW 12:00PM-1:50PM,Dominic William Esler
+BIO 101 LEC 1,Introductory Biology,16W,3,MW 5:00PM-6:15PM,"Muhammad Shoaib
 Muhammad Tariq
-Khurram Bashir"
-BIO 100 LEC 3,Biology Laboratory,8Wk2,1,W 9:00AM-9:50AM,"Muhammad Tariq
-Khurram Bashir
-Zaigham Shahzad"
-BIO 100 LEC 4,Biology Laboratory,8Wk2,1,T 9:00AM-9:50AM,"Zaigham Shahzad
-Muhammad Tariq
-Khurram Bashir"
-BIO 100 LEC 5,Biology Laboratory,8Wk1,1,R 9:00AM-9:50AM,"Muhammad Tariq
-Khurram Bashir
-Zaigham Shahzad"
-BIO 100 LEC 6,Biology Laboratory,8Wk1,1,M 9:00AM-9:50AM,"Zaigham Shahzad
-Muhammad Tariq
-Khurram Bashir"
-BIO 100 LEC 7,Biology Laboratory,8Wk1,1,W 9:00AM-9:50AM,"Muhammad Tariq
-Khurram Bashir
-Zaigham Shahzad"
-BIO 100 LEC 8,Biology Laboratory,8Wk1,1,T 9:00AM-9:50AM,"Zaigham Shahzad
-Muhammad Tariq
-Khurram Bashir"
-BIO 100 LAB 1,Biology Laboratory,8Wk2,1,R 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 2,Biology Laboratory,8Wk2,1,M 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 3,Biology Laboratory,8Wk2,1,W 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 4,Biology Laboratory,8Wk2,1,T 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 5,Biology Laboratory,8Wk1,1,R 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 6,Biology Laboratory,8Wk1,1,M 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 7,Biology Laboratory,8Wk1,1,W 10:00AM-12:50PM,Khalida Mazhar
-BIO 100 LAB 8,Biology Laboratory,8Wk1,1,T 10:00AM-12:50PM,Khalida Mazhar
-BIO 101 LEC 1,Introductory Biology,16W,3,MW 10:30AM-11:45AM,"Muhammad Shoaib
-Safee Ullah Chaudhary
-Muhammad Tariq
-Zaigham Shahzad
-Khurram Bashir"
-BIO 101 LEC 2,Introductory Biology,16W,3,MW 4:30PM-5:45PM,"Zaigham Shahzad
-Khurram Bashir
-Muhammad Tariq
-Muhammad Shoaib
 Safee Ullah Chaudhary"
-BIO 212 LEC 1,Biochemistry,16W,3,TR 12:30PM-1:45PM,Muhammad Shoaib
-BIO 231 LEC 1,Computational Biology I,16W,3,MW 1:30PM-2:45PM,Safee Ullah Chaudhary
-BIO 314 LEC 1,Virology and Microbiology,16W,3,MW 3:00PM-4:15PM,Shaper Mirza
-BIO 402 SEM 1,Seminar in Biology II,16W,1,M 12:00PM-12:50PM,Khurram Bashir
-BIO 415 LEC 1,Developmental Biology I,16W,4,TR 10:30AM-12:20PM,"Muhammad Shoaib
+BIO 216 LEC 1,Molecular Biology,16W,3,MW 1:00PM-2:15PM,"Muhammad Shoaib
 Muhammad Tariq"
-BIO 512 LEC 1,Advance Biochemistry,16W,3,MW 12:00PM-1:15PM,
-BIO 519 LEC 1,Immunology,16W,3,TR 12:30PM-1:45PM,Shaper Mirza
-BIO 5311 LEC 1,Advanced Biostatistics,16W,3,TR 2:00PM-3:15PM,Safee Ullah Chaudhary
-BIO 611 LEC 1,Cell Signaling,16W,3,TR 3:30PM-4:45PM,"Muhammad Shoaib
+BIO 221 LEC 1,Genetics,16W,4,MW 10:30AM-12:20PM,"Khurram Bashir
 Muhammad Tariq"
-BIO 621 LEC 1,Genetics and Genomics,16W,3,MW 3:00PM-4:15PM,"Zaigham Shahzad
-Muhammad Tariq
-Khurram Bashir"
-BPP 6101 LEC 1,Policy Design and Delivery,MS2,3,SU 2:00PM-4:00PM,Muhammad Ahsan Rana
-BPP 6102 LEC 1,Business and Government Relations,MS2,3,SU 4:15PM-6:15PM,Ghazal Mir Zulfiqar
-BPP 6103 LEC 1,Policy Analysis and Communication,MS2,3,SU 8:30AM-10:30AM,
-BPP 6104 LEC 1,"Firms, Markets and Public Policy",MS2,3,SU 11:00AM-1:00PM,Misbah Tanveer Chaudhry
-CHE 230 LEC 1,Chemical Engineering Rermodynamics,16W,3,TR 10:00AM-11:15AM,Faheem Hassan Akhtar
-CHE 273 LEC 1,Fluid Mechanics,16W,3,TR 8:00AM-9:15AM,Qasim Imtiaz
-CHE 280 LEC 1,MaR MeRods in Chemical Engineering I,16W,3,TR 3:00PM-4:15PM,Rofice Dickson
-CHE 300B LAB 1,Chemical Engineering Lab III,16W,1,M 1:30PM-4:20PM,"Faheem Hassan Akhtar
+BIO 300 LAB 1,Methods in Cell and Molecular Biology,16W,4,MWF 9:00AM-9:50AM,"Khurram Bashir
+Shaper Mirza
+Zaigham Shahzad
+Muhammad Shoaib
+Muhammad Tariq"
+BIO 300 LAB 1a,Methods in Cell and Molecular Biology,16W,4,MWF 10:00AM-12:50PM,Khalida Mazhar
+BIO 313 LEC 1,Cell Biology,16W,3,TR 11:30AM-12:45PM,"Khurram Bashir
+Faiz Ul Hassan Nasim"
+BIO 331 LEC 1,Computational Biology II,16W,3,MW 2:30PM-3:45PM,Safee Ullah Chaudhary
+BIO 401 SEM 1,Seminars in Biology,16W,1,M 1:00PM-1:50PM,Khurram Bashir
+BIO 403 LEC 1,"Critical thinking, Scientific Writing and Ethics",16W,3,TR 3:00PM-4:15PM,"Khurram Bashir
+Muhammad Shoaib"
+BIO 513 LEC 1,Biophysical Techniques,16W,3,TR 2:30PM-3:45PM,Faiz Ul Hassan Nasim
+BIO 516 LEC 1,Advanced Molecular and Cell Biology,16W,3,TR 4:00PM-5:15PM,"Shaper Mirza
+Zaigham Shahzad"
+BIO 517 LEC 1,Molecular Mechanisms of Bacterial Pathagenesis,16W,3,TR 1:00PM-2:15PM,Shaper Mirza
+BIO 523 LEC 1,RNA Biology,16W,3,TR 4:30PM-5:45PM,Faiz Ul Hassan Nasim
+BIO 524 LEC 1,Evolution,16W,3,TR 10:00AM-11:15AM,Zaigham Shahzad
+BIO 531 LEC 1,Computational Biology,16W,3,TR 11:30AM-12:45PM,Safee Ullah Chaudhary
+CHE 210 LEC 1,Physical Chemistry,16W,3,MW 10:30AM-11:45AM,Falak Sher
+CHE 260 LEC 1,Principles of Chemical Engineering,16W,3,MW 12:00PM-1:15PM,Qandeel Almas
+CHE 262 LEC 1,Particle Science and Engineering,16W,3,TR 5:00PM-6:15PM,Muhammad Faheem
+CHE 300A LAB 1,Chemical Engineering Lab II,16W,1,W 11:00AM-1:50PM,Faheem Hassan Akhtar
+CHE 302 LEC 1,Air Pollution,16W,3,TR 12:00PM-1:15PM,Shahana Khurshid
+CHE 320 LEC 1,Separation Processes,16W,3,TR 9:00AM-10:15AM,Tauqeer Abbas
+CHE 330 LEC 1,Math Methods in Chemical Engineering II,16W,3,MW 9:00AM-10:15AM,Usman Bin Shahid
+CHE 352 LEC 1,Heat and Mass Transfer,16W,3,TR 3:00PM-4:15PM,Ali Rauf
+CHE 401 LEC 1,Chemical Process Design,16W,4,TR 2:00PM-3:15PM,Qandeel Almas
+CHE 401 LAB 1,Chemical Process Design,16W,4,F 2:00PM-4:50PM,Qandeel Almas
+CHE 401A LAB 1,Chemical Engineering Lab - V,16W,1,TH 8:00AM-10:50AM,"Qandeel Almas
+Usman Bin Shahid"
+CHE 401B LAB 1,Chemical Engineering Lab - VI,16W,1,T 8:00AM-10:50AM,"Qasim Imtiaz
 Ali Rauf"
-CHE 300C LAB 1,Chemical Engineering Lab IV,16W,1,M 1:30PM-4:20PM,"Tauqeer Abbas
-Shahana Khurshid"
-CHE 313 LEC 1,Material Science and Engineering,16W,3,TR 4:00PM-5:15PM,Salman Noshear Arshad
-CHE 315 LEC 1,Chemical Process Simulation,16W,2,TR 12:30PM-1:20PM,Rofice Dickson
-CHE 360 LEC 1,Chemical Kinetics and Reaction Engineering,16W,3,TR 2:00PM-3:15PM,Ali Rauf
-CHE 390 LEC 1,Transport Phenomena,16W,3,MW 8:00AM-9:15AM,Qasim Imtiaz
-CHE 412 LEC 1,Membrane Science and Engineering,16W,3,MW 11:00AM-12:15PM,Faheem Hassan Akhtar
-CHE 414 LEC 1,Biochemical Engineering,16W,3,TR 11:00AM-12:15PM,Shahana Khurshid
-CHE 430 LEC 1,Chemical Process Control,16W,3,MW 12:00PM-1:15PM,Qandeel Almas
-CHE 712 LEC 1,Advanced Reaction Engineering,16W,3,MW 11:30AM-12:45PM,Tauqeer Abbas
-CHE 713 LEC 1,Engineering Rermodynamics,16W,3,TR 8:00AM-9:15AM,Faheem Hassan Akhtar
-CHEM 100 LEC 1,Experimental Chemistry,8Wk1,1,R 9:00AM-9:50AM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LEC 2,Experimental Chemistry,8Wk1,1,M 9:00AM-9:50AM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 100 LEC 3,Experimental Chemistry,8Wk1,1,W 9:00AM-9:50AM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LEC 4,Experimental Chemistry,8Wk1,1,T 9:00AM-9:50AM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 100 LEC 5,Experimental Chemistry,8Wk2,1,R 9:00AM-9:50AM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LEC 6,Experimental Chemistry,8Wk2,1,M 9:00AM-9:50AM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 100 LEC 7,Experimental Chemistry,8Wk2,1,W 9:00AM-9:50AM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LEC 8,Experimental Chemistry,8Wk2,1,T 9:00AM-9:50AM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LAB 1,Experimental Chemistry,8Wk1,1,R 10:00AM-12:50PM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 100 LAB 2,Experimental Chemistry,8Wk1,1,M 10:00AM-12:50PM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LAB 3,Experimental Chemistry,8Wk1,1,W 10:00AM-12:50PM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LAB 4,Experimental Chemistry,8Wk1,1,T 10:00AM-12:50PM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LAB 5,Experimental Chemistry,8Wk2,1,R 10:00AM-12:50PM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 100 LAB 6,Experimental Chemistry,8Wk2,1,M 10:00AM-12:50PM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 100 LAB 7,Experimental Chemistry,8Wk2,1,W 10:00AM-12:50PM,"Basit Yameen
-Habib-ur- Rehman"
-CHEM 100 LAB 8,Experimental Chemistry,8Wk2,1,T 10:00AM-12:50PM,"Habib-ur- Rehman
-Basit Yameen"
-CHEM 230 LAB 1,Organic Chemistry Lab I,16W,2,F 8:00AM-1:50PM,Irshad Hussain
-CHEM 233 LEC 1,Molecular Spectroscopy,16W,3,MW 11:00AM-12:15PM,Muhammad Saeed
-CHEM 311 LEC 1,Chemical Rermodynamics,16W,3,MW 9:00AM-10:15AM,Falak Sher
-CHEM 313 LEC 1,Special Topics in Physical Chemistry,16W,3,TR 11:30AM-12:45PM,Salman Noshear Arshad
-CHEM 320 LEC 1,Inorganic Chemistry Lab,16W,2,F 2:00PM-2:50PM,Muhammad Zaheer
-CHEM 320 LAB 1,Inorganic Chemistry Lab,16W,2,F 3:00PM-5:50PM,Muhammad Zaheer
-CHEM 334 LEC 1,Advanced Organic Chemistry,16W,3,MW 2:00PM-3:15PM,Muhammad Saeed
-CHEM 503 LAB 1,Experimental MeRods in Chemical Research,16W,3,R 12:30PM-6:20PM,"Habib-ur- Rehman
-Irshad Hussain
+CHE 415 LEC 1,"Renewable Energy: Fundamentals, Applications,
+and Economics",16W,3,TR 2:00PM-3:15PM,Tauqeer Abbas
+CHE 422 LEC 1,Chemical Process Safety,16W,2,MW 10:00AM-10:50AM,Faheem Hassan Akhtar
+CHE 710 LEC 1,Transport Processes in the Environment,16W,3,TR 8:00AM-9:15AM,Shahana Khurshid
+CHEM 101 LEC 1,Principles of Chemistry,16W,3,MW 3:30PM-4:45PM,Habib-ur- Rehman
+CHEM 101 LEC 2,Principles of Chemistry,16W,3,TR 5:00PM-6:15PM,Basit Yameen
+CHEM 221 LEC 1,Molecular Symmetry I,16W,3,TR 5:00PM-6:15PM,Muhammad Zaheer
+CHEM 231 LEC 1,Fundamentals of Organic Chemistry,16W,3,MW 3:00PM-4:15PM,Irshad Hussain
+CHEM 314 LEC 1,Quantum Chemistry,16W,3,MW 10:00AM-11:15AM,Habib-ur- Rehman
+CHEM 324 LEC 1,Inorganic Chemistry I,16W,3,TR 2:00PM-3:15PM,Ghayoor Abbas Chotana
+CHEM 332 LEC 1,Chemistry of the Organic Functional Groups,16W,3,TR 10:30AM-11:45AM,Muhammad Saeed
+CHEM 342 LEC 1,Analytical Chemistry I,16W,3,MW 8:00AM-9:15AM,"Muhammad Saeed
 Muhammad Zaheer"
-CHEM 503 LEC 1,Experimental MeRods in Chemical Research,16W,3,M 1:00PM-1:50PM,"Irshad Hussain
-Muhammad Zaheer
-Habib-ur- Rehman"
-CHEM 511 LEC 1,Advanced Physical Chemistry I,16W,3,MW 3:30PM-4:45PM,Falak Sher
-CHEM 513 LEC 1,Electrochemical Energy Storage and Conversion,16W,3,TR 10:00AM-11:15AM,Ali Rauf
-CHEM 515 LEC 1,Polymer Science and Technology,16W,3,TR 4:00PM-5:15PM,Basit Yameen
-CHEM 523 LEC 1,Organotransition Metal Chemistry,16W,3,MW 10:00AM-11:15AM,Ghayoor Abbas Chotana
-CHEM 533 LEC 1,Organic Spectroscopy,16W,3,MW 5:00PM-6:15PM,Muhammad Saeed
-CHEM 711 LEC 1,Selected Topics in Physical Chemistry,16W,3,MW 3:30PM-4:45PM,Falak Sher
-CHEM 712 LEC 1,Quantum Chemistry and Spectroscopy,16W,3,MW 2:00PM-3:15PM,Habib-ur- Rehman
-CLCS 1122 LEC 1,Re Art of Reading and Writing Urdu,16W,4,MW 2:00PM-3:50PM,Zahid Hussain
-CLCS 1212 LEC 1,Elements of a Screenplay,16W,4,TR 10:00AM-11:50AM,Usama Mumtaz Lali
-CLCS 2116 LEC 1,Shahnameh: Re Story of Our World,16W,4,TR 2:00PM-3:50PM,Fatima Fayyaz
-CLCS 2124 LEC 1,Naya Urdu Afsana,16W,4,MW 4:00PM-5:50PM,Zia Ul Hassan
-CLCS 2223 LEC 1,Contemporary Screens: Re Art of Re Web Serie,16W,4,MW 12:00PM-1:50PM,Raja Mohammad Tabish Habib
-CLCS 2310 LEC 1,Fiction Writing Workshop,16W,4,TR 12:00PM-1:50PM,Bilal Tanweer
-CLCS 2522 LEC 1,"Introduction to Reatre Making: Text, Production",16W,4,MW 12:30PM-2:20PM,
-CLCS 3124 LEC 1,Post-Colonial Rought in Urdu Literature,16W,4,MW 4:00PM-5:50PM,Nasir Abbas
-CLCS 3125 LEC 1,Marsiya: Anis and Dabir,16W,4,TR 4:00PM-5:50PM,Ghulam Moeenuddin
-CLCS 3212 LEC 1,Re Chromatic Lens: Re Evolution of Colour fro,m16W,4,TR 2:00PM-3:50PM,Raja Mohammad Tabish Habib
-CLCS 3215 LEC 1,Gender and Urban Screen Narratives,16W,4,MW 2:00PM-3:50PM,Zebunnisa Hamid
-CLCS 4113 SEM 1,Orientalism,16W,4,F 9:00AM-12:50PM,Maryam Wasif Khan
-CS 100 LEC 1,Computational Problem Solving,16W,3,MW 8:00AM-8:50AM,Muhammad Fareed Zaffar
-CS 100 LEC 2,Computational Problem Solving,16W,3,MW 1:00PM-1:50PM,Muhammad Fareed Zaffar
-CS 100 LAB 1,Computational Problem Solving,16W,3,W 3:30PM-6:20PM,Muhammad Fareed Zaffar
-CS 100 LAB 2,Computational Problem Solving,16W,3,W 10:00AM-12:50PM,Muhammad Fareed Zaffar
-CS 200 LEC 1,Introduction to Programming,16W,4,TR 11:00AM-12:15PM,Shafay Shamail
-CS 200 LEC 2,Introduction to Programming,16W,4,TR 2:00PM-3:15PM,
-CS 200 LAB 1,Introduction to Programming,16W,4,F 3:00PM-5:50PM,Shafay Shamail
-CS 200 LAB 2,Introduction to Programming,16W,4,F 10:00AM-12:50PM,
-CS 202 LEC 1,Data Structures,16W,3,MW 3:30PM-4:45PM,Ihsan Ayyub Qazi
-CS 202 LEC 2,Data Structures,16W,3,TR 8:00AM-9:15AM,Malik Jahan Khan
-CS 202 LEC 3,Data Structures,16W,3,TR 9:30AM-10:45AM,Malik Jahan Khan
-CS 300 LEC 1,Advanced Programming,16W,3,TR 10:00AM-11:15AM,Waqar Ahmad
-CS 300 LEC 2,Advanced Programming,16W,3,TR 11:30AM-12:45PM,Waqar Ahmad
-CS 315 LEC 1,Reory of Automata,16W,3,TR 3:30PM-4:45PM,Imdad ullah khan
-CS 331 LEC 1,Introduction to Artificial Intelligence,16W,3,TR 8:00AM-9:15AM,Mian Muhammad Awais
-CS 331 LEC 2,Introduction to Artificial Intelligence,16W,3,MW 2:00PM-3:15PM,Muhammad Tahir
-CS 334 LEC 1,Principles and Techniques of Data Science,16W,3,MW 10:00AM-11:15AM,Mobin Javed
-CS 360 LEC 1,Software Engineering,16W,3,TR 12:30PM-1:45PM,Maryam Abdul Ghafoor
-CS 360 LEC 2,Software Engineering,16W,3,TR 2:00PM-3:15PM,"Maryam Abdul Ghafoor
-Uleman Shahid"
-CS 3812 LEC 1,Introduction to Blockchain: Technology and Appl,16W,3,MW 9:30AM-10:45AM,"Basit Shafiq
-Naveed Ul Hassan
-Zartash Afzal Uzmi"
-CS 382 LEC 1,Network-Centric Computing,16W,3,MW 11:00AM-12:15PM,Zafar Ayyub Qazi
-CS 382 LEC 2,Network-Centric Computing,16W,3,MW 12:30PM-1:45PM,Zartash Afzal Uzmi
-CS 437 LEC 1,4Deep Learning,16W,3,MW 9:00AM-10:15AM,Murtaza Taj
-CS 466 LEC 1,Human-Computer Interaction and Design,16W,3,TR 10:30AM-11:45AM,Uleman Shahid
-CS 473 LEC 1,3Network Security,16W,3,MW 2:00PM-3:15PM,Mobin Javed
-CS 5302 LEC 1,Speech and Language Processing wiR Generativ,e16W,3,TR 2:00PM-3:15PM,Agha Ali Raza
-CS 532 LEC 1,Intelligent Computing,16W,3,MW 9:30AM-10:45AM,Mian Muhammad Awais
-CS 5620 LEC 1,Information and Communication Technology for,16W,3,MW 11:00AM-12:15PM,Maryam Mustafa
-CS 564 LEC 1,Software Development: Tools and Processes,16W,3,TR 3:30PM-4:45PM,Shafay Shamail
-CS 585 LEC 1,Service Oriented Computing,16W,3,MW 12:30PM-1:45PM,Basit Shafiq
-CS 677 LEC 1,Internet of Rings,16W,3,TR 5:00PM-6:15PM,"Naveed Anwar Bhatti
+CHEM 410 LAB 1,Physical Chemistry Lab,16W,2,F 3:00PM-5:50PM,Salman Noshear Arshad
+CHEM 410 LEC 1,Physical Chemistry Lab,16W,2,F 12:00PM-12:50PM,Salman Noshear Arshad
+CHEM 430 LAB 1,Organic Chemistry Lab II,16W,2,F 9:00AM-11:50AM,Muhammad Saeed
+CHEM 430 LEC 1,Organic Chemistry Lab II,16W,2,F 8:00AM-8:50AM,Muhammad Saeed
+CHEM 516 LEC 1,Characterization Techniques for Materials,16W,3,TR 11:00AM-12:15PM,Salman Noshear Arshad
+CHEM 521 LEC 1,Advanced Inorganic Chemistry I,16W,3,TR 9:00AM-10:15AM,Ghayoor Abbas Chotana
+CHEM 531 LEC 1,Advanced Organic Chemistry I,16W,3,MW 1:00PM-2:15PM,Irshad Hussain
+CHEM 532 LEC 1,Chemistry of Biomolecule,16W,3,MW 10:00AM-11:15AM,Muhammad Saeed
+CHEM 721 LEC 1,Selected Topics in Inorganic Chemistry,16W,3,MW 9:00AM-10:15AM,Ghayoor Abbas Chotana
+CHEM 731 LEC 1,Selected Topics in Organic Chemistry,16W,3,MW 1:00PM-2:15PM,Irshad Hussain
+CLCA 1000 LEC 1,Engaging with Texts and Contexts,16W,4,TR 10:00AM-11:50AM,"Fatima Fayyaz
+Maryam Wasif Khan"
+CLCA 2119 LEC 1,Mechanics of Fiction,16W,4,MW 12:00PM-1:50PM,Bilal Tanweer
+CLCA 2122 LEC 1,Urdu Afsana,16W,4,TR 4:30PM-6:20PM,Zia Ul Hassan
+CLCA 2133 LEC 1,Fountain of the Sun: Rumi’s Masnavi and Divan,16W,4,TR 1:30PM-3:20PM,Fatima Fayyaz
+CLCA 2222 LEC 1,The Critical Lens: The Art of Filmmaking,16W,4,MW 2:00PM-3:50PM,Raja Mohammad Tabish Habib
+CLCA 2523 LEC 1,Introduction to Illustrative Storytelling,16W,4,MW 10:00AM-11:50AM,
+CLCA 3123 LEC 1,Aag ka Darya: A Close Reading,16W,4,MW 4:00PM-5:50PM,Nasir Abbas
+CLCA 3211 LEC 1,Film and Screen Studies Research Seminar,16W,4,TR 12:00PM-1:50PM,Zebunnisa Hamid
+CLCA 3324 LEC 1,The Craft of Translation,16W,4,TR 2:00PM-3:50PM,Bilal Tanweer
+CLCA 3325 LEC 1,Life Writing and the Multilingual Self,16W,4,MW 8:00AM-9:50AM,Usama Mumtaz Lali
+CS 100 LEC 1,Computational Problem Solving,16W,3,TR 4:00PM-4:50PM,"Maryam Mustafa
+Shafay Shamail"
+CS 100 LEC 2,Computational Problem Solving,16W,3,MW 12:00PM-12:50PM,"Maryam Mustafa
+Shafay Shamail"
+CS 100 LAB 1,Computational Problem Solving,16W,3,M 8:00AM-10:50AM,"Maryam Mustafa
+Shafay Shamail"
+CS 100 LAB 2,Computational Problem Solving,16W,3,F 2:00PM-4:50PM,"Maryam Mustafa
+Shafay Shamail"
+CS 200 LEC 1,Introduction to Programming,16W,4,MW 10:00AM-11:15AM,Zartash Afzal Uzmi
+CS 200 LEC 2,Introduction to Programming,16W,4,TR 10:00AM-11:15AM,Zartash Afzal Uzmi
+CS 200 LAB 1,Introduction to Programming,16W,4,M 1:00PM-3:50PM,Zartash Afzal Uzmi
+CS 200 LAB 2,Introduction to Programming,16W,4,F 10:00AM-12:50PM,Zartash Afzal Uzmi
+CS 202 LEC 1,Data Structures,16W,3,TR 10:00AM-11:15AM,"Waqar Ahmad
+Muhammad Sohaib Ayub"
+CS 210 LEC 1,Discrete Mathematics,16W,4,TR 1:00PM-2:50PM,Malik Jahan Khan
+CS 210 LEC 2,Discrete Mathematics,16W,4,TR 3:00PM-4:50PM,Malik Jahan Khan
+CS 225 LEC 1,Fundamentals of Computer Systems,16W,4,TR 8:00AM-9:50AM,Muhammad Jahangir Ikram
+CS 225 LEC 2,Fundamentals of Computer Systems,16W,4,TR 4:00PM-5:50PM,Muhammad Adeel Ahmed Pasha
+CS 310 LEC 1,Algorithms,16W,3,TR 1:30PM-2:45PM,Imdad ullah khan
+CS 334 LEC 1,Principles and Techniques of Data Science,16W,3,TR 12:00PM-1:15PM,Ihsan Ayyub Qazi
+CS 340 LEC 1,Databases,16W,3,MW 9:00AM-10:15AM,"Asim Karim
+Basit Shafiq"
+CS 340 LEC 2,Databases,16W,3,TR 9:00AM-10:15AM,"Asim Karim
+Basit Shafiq"
+CS 370 LEC 1,Operating Systems,16W,3,MW 10:00AM-11:15AM,"Naveed Anwar Bhatti
 Muhammad Hammad Alizai"
-CS 678 LEC 1,Topics in Internet Research,16W,3,MW 5:00PM-6:15PM,"Ihsan Ayyub Qazi
+CS 370 LEC 2,Operating Systems,16W,3,MW 4:00PM-5:15PM,"Naveed Anwar Bhatti
+Muhammad Hammad Alizai"
+CS 436 LEC 1,Computer Vision Fundamentals,16W,3,TR 12:00PM-1:15PM,Murtaza Taj
+CS 452 LEC 1,Computer Graphics,16W,3,TR 5:00PM-6:15PM,Murtaza Taj
+CS 4602 SEM 1,Coding for Careers,16W,3,F 9:30AM-10:45AM,Maryam Abdul Ghafoor
+CS 4602 SEM 2,Coding for Careers,16W,3,F 9:30AM-10:45AM,Mobin Javed
+CS 4602 SEM 1a,Coding for Careers,16W,3,F 11:00AM-12:15PM,Mobin Javed
+CS 4602 SEM 2a,Coding for Careers,16W,3,F 11:00AM-12:15PM,Maryam Abdul Ghafoor
+CS 487 LEC 1,Cloud Development,16W,3,TR 10:00AM-11:15AM,
+CS 501 LEC 1,Applied Probability,16W,3,TR 3:00PM-4:15PM,Momin Ayub Uppal
+CS 535 LEC 1,Machine Learning,16W,3,MW 12:00PM-1:15PM,Agha Ali Raza
+CS 535 LEC 2,Machine Learning,16W,3,MW 1:30PM-2:45PM,Agha Ali Raza
+CS 553 LEC 1,Computer Graphics,16W,3,MW 9:30AM-10:45AM,Murtaza Taj
+CS 5602 LEC 1,Game Design and Development,16W,3,MW 5:00PM-6:15PM,Salman Arif
+CS 582 LEC 1,Distributed Systems,16W,3,MW 12:00PM-1:15PM,Zafar Ayyub Qazi
+CS 6303 LEC 1,"Topics in Large Language Models: Systems,
+Applications and Impacts",16W,3,MW 3:00PM-4:15PM,"Ihsan Ayyub Qazi
 Zafar Ayyub Qazi"
-DISC 112 LEC 1,Computer and Problem Solving,16W,4,MW 9:30AM-10:45AM,Mahira Ilyas
-DISC 112 LEC 2,Computer and Problem Solving,16W,4,MW 11:00AM-12:15PM,Mahira Ilyas
-DISC 112 LEC 3,Computer and Problem Solving,16W,4,MW 12:30PM-1:45PM,Mahira Ilyas
-DISC 112 LEC 4,Computer and Problem Solving,16W,4,MW 9:30AM-10:45AM,Humbal Tariq
-DISC 112 LAB 1,Computer and Problem Solving,16W,4,W 3:30PM-6:20PM,Mahira Ilyas
-DISC 112 LAB 2,Computer and Problem Solving,16W,4,W 3:30PM-6:20PM,Mahira Ilyas
-DISC 112 LAB 3,Computer and Problem Solving,16W,4,W 3:30PM-6:20PM,Mahira Ilyas
-DISC 112 LAB 4,Computer and Problem Solving,16W,4,F 10:00AM-12:50PM,Humbal Tariq
-DISC 112 LEC 5,Computer and Problem Solving,8Wk1,4,MW 9:30AM-10:45AM,
-DISC 112 LEC 5,Computer and Problem Solving,8Wk2,4,MW 9:30AM-10:45AM,
-DISC 112 LEC 6,Computer and Problem Solving,8Wk1,4,MW 11:00AM-12:15PM,
-DISC 112 LEC 6,Computer and Problem Solving,8Wk2,4,MW 11:00AM-12:15PM,
-DISC 112 LAB 5,Computer and Problem Solving,16W,4,F 2:30PM-5:20PM,
-DISC 112 LAB 6,Computer and Problem Solving,16W,4,F 2:30PM-5:20PM,
-DISC 203 LEC 1,Probability and Statistics,16W,3,MW 9:30AM-10:45AM,Muhammad Asim
-DISC 212 LEC 1,Introduction to Management Science,16W,3,TR 8:00AM-9:15AM,Muhammad Adeel Zaffar
-DISC 212 LEC 2,Introduction to Management Science,16W,3,TR 12:30PM-1:45PM,Maheen Aamir Syed
-DISC 231 LEC 1,Operations Management,16W,3,MW 2:00PM-3:15PM,Raja Usman Khalid
-DISC 231 LEC 2,Operations Management,16W,3,TR 2:00PM-3:15PM,Sheikh Attique Ur Rehman
-DISC 231 LEC 3,Operations Management,16W,3,MW 3:30PM-4:45PM,Sheikh Attique Ur Rehman
-DISC 320 LEC 1,Qualitative and Quantitative MeRods in Busines,s16W,3,TR 5:00PM-6:15PM,Fariha Zahid
-DISC 321 LEC 1,Decision Analysis,16W,4,TR 9:30AM-11:20AM,Sheikh Attique Ur Rehman
-DISC 322 LEC 1,Optimization MeRods in Management Science,16W,3,MW 9:30AM-10:45AM,Kamran Rashid
-DISC 322 LEC 2,Optimization MeRods in Management Science,16W,3,MW 11:00AM-12:15PM,Kamran Rashid
-DISC 322 LEC 3,Optimization MeRods in Management Science,16W,3,MW 12:30PM-1:45PM,Kamran Rashid
-DISC 323 LEC 1,Decision Behaviour,16W,3,TR 9:30AM-10:45AM,Muhammad Abdur Rahman Malik
-DISC 323 LEC 2,Decision Behaviour,16W,3,TR 11:00AM-12:15PM,Muhammad Abdur Rahman Malik
-DISC 325 LEC 1,Business Data Management,16W,3,TR 5:00PM-6:15PM,Ussama Yaqub
-DISC 333 LEC 1,Upply Chain and Logistics Management,16W,3,MW 3:30PM-4:45PM,Raja Usman Khalid
-DISC 333 LEC 2,Upply Chain and Logistics Management,16W,3,MW 5:00PM-6:15PM,Raja Usman Khalid
-DISC 335 LEC 1,Transportation and Logistics Management,16W,3,MW 11:00AM-12:15PM,"Raja Usman Khalid
-Tabjeel Ashraf"
-DISC 420 LEC 1,Business Analytics,16W,3,TR 2:00PM-3:15PM,Maheen Aamir Syed
-DISC 7201 LEC 1,Decision Behaviour,16W,3,M 2:00PM-5:00PM,Muhammad Adeel Zaffar
-DISC 7601 LEC 1,Research MeRods,16W,2,T 2:00PM-5:00PM,Ghazal Mir Zulfiqar
-DISC 7602 LEC 1,Advanced Research MeRods,16W,3,R 9:00AM-12:00PM,Muhammad Ghufran Ahmad
-DISC 8302 SEM 1,Seminar in Production Analysis,16W,3,F 9:00AM-12:00PM,Sheikh Attique Ur Rehman
-ECON 100 LEC 1,Principles of Economics,16W,4,MW 3:00PM-4:50PM,Nadia Mukhtar Sayed
-ECON 100 LEC 2,Principles of Economics,16W,4,TR 9:00AM-10:50AM,Nadia Mukhtar Sayed
-ECON 111 LEC 1,Principles of Microeconomics,16W,4,MW 10:00AM-11:15AM,Sher Afghan Asad
-ECON 111 LEC 2,Principles of Microeconomics,16W,4,MW 2:00PM-3:15PM,Uzma Afzal
-ECON 111 LEC 3,Principles of Microeconomics,16W,4,TR 5:00PM-6:15PM,Sher Afghan Asad
-ECON 111 RAC 1,Principles of Microeconomics,16W,4,F 3:00PM-3:50PM,
-ECON 111 RAC 2,Principles of Microeconomics,16W,4,F 9:00AM-9:50AM,
-ECON 111 RAC 3,Principles of Microeconomics,16W,4,F 8:00AM-8:50AM,
-ECON 111 RAC 4,Principles of Microeconomics,16W,4,F 10:00AM-10:50AM,Ayesha Karim Malik
-ECON 111 RAC 5,Principles of Microeconomics,16W,4,F 11:00AM-11:50AM,Ayesha Karim Malik
-ECON 111 RAC 6,Principles of Microeconomics,16W,4,F 12:00PM-12:50PM,Ayesha Karim Malik
-ECON 111 RAC 7,Principles of Microeconomics,16W,4,F 5:00PM-5:50PM,Verda Arif
-ECON 111 RAC 8,Principles of Microeconomics,16W,4,F 2:00PM-2:50PM,Verda Arif
-ECON 111 RAC 9,Principles of Microeconomics,16W,4,F 4:00PM-4:50PM,Verda Arif
+CS 682 LEC 1,Topics in Computer and Network Security,16W,3,TR 3:00PM-4:15PM,Muhammad Fareed Zaffar
+DISC 112 LEC 1,Computer and Problem Solving,16W,4,MW 8:00AM-9:15AM,Humbal Tariq
+DISC 112 LAB 1,Computer and Problem Solving,16W,4,F 9:00AM-11:50AM,Humbal Tariq
+DISC 203 LEC 1,Probability and Statistics,16W,3,TR 9:30AM-10:45AM,Ijaz Haider Naqvi
+DISC 203 LEC 2,Probability and Statistics,16W,3,TR 11:00AM-12:15PM,Ijaz Haider Naqvi
+DISC 203 LEC 3,Probability and Statistics,16W,3,TR 12:30PM-1:45PM,Ijaz Haider Naqvi
+DISC 203 LEC 4,Probability and Statistics,16W,3,MW 5:00PM-6:15PM,
+DISC 203 LEC 5,Probability and Statistics,16W,3,TR 5:00PM-6:15PM,
+DISC 212 LEC 1,Introduction to Management Science,16W,3,MW 9:30AM-10:45AM,Kamran Rashid
+DISC 212 LEC 2,Introduction to Management Science,16W,3,MW 11:00AM-12:15PM,Kamran Rashid
+DISC 212 LEC 3,Introduction to Management Science,16W,3,TR 8:00AM-9:15AM,
+DISC 212 LEC 4,Introduction to Management Science,16W,3,TR 9:30AM-10:45AM,
+DISC 212 LEC 5,Introduction to Management Science,16W,3,TR 11:00AM-12:15PM,
+DISC 231 LEC 1,Operations Management,16W,3,MW 2:00PM-3:15PM,Hassan Rauf Chaudhry
+DISC 320 LEC 1,Qualitative and Quantitative Methods in Business,16W,3,MW 3:30PM-4:45PM,
+DISC 320 LEC 2,Qualitative and Quantitative Methods in Business,16W,3,MW 5:00PM-6:15PM,
+DISC 321 LEC 1,Decision Analysis,16W,4,MW 9:00AM-10:50AM,Sheikh Attique Ur Rehman
+DISC 321 LEC 2,Decision Analysis,16W,4,MW 12:30PM-2:20PM,Sheikh Attique Ur Rehman
+DISC 322 LEC 1,Optimization Methods in Management Science,16W,3,MW 12:30PM-1:45PM,Kamran Rashid
+DISC 322 LEC 2,Optimization Methods in Management Science,16W,3,MW 2:00PM-3:15PM,Kamran Rashid
+DISC 323 LEC 1,Decision Behaviour,16W,3,TR 2:00PM-3:15PM,Shoaib Amjad Hussain
+DISC 323 LEC 2,Decision Behaviour,16W,3,TR 3:30PM-4:45PM,Shoaib Amjad Hussain
+DISC 323 LEC 3,Decision Behaviour,16W,3,TR 12:30PM-1:45PM,Sheikh Attique Ur Rehman
+DISC 327 LEC 1,Risk Management Process,16W,3,TR 5:00PM-6:15PM,Ahmed Majeed Khan
+DISC 331 LEC 1,Project Management,16W,3,MW 9:30AM-10:45AM,Zehra Waheed
+DISC 333 LEC 1,Supply Chain and Logistics Management,16W,3,TR 5:00PM-6:15PM,Ahsan Umar
+DISC 420 LEC 1,Business Analytics,16W,3,TR 12:30PM-1:45PM,Maheen Aamir Syed
+DISC 420 LEC 2,Business Analytics,16W,3,TR 2:00PM-3:15PM,Maheen Aamir Syed
+DISC 7005 LEC 1,Applied Statistics,16W,3,TH 3:00PM-6:00PM,Ussama Yaqub
+DISC 8402 SEM 1,Seminar in Supply Chain Analysis,16W,3,F 2:00PM-5:00PM,Sheikh Attique Ur Rehman
+DISC 8502 LEC 1,"Seminar in Technology and Innovation
+Management",16W,3,TH 12:30PM-3:30PM,Muhammad Adeel Zaffar
+ECON 100 LEC 1,Principles of Economics,16W,4,MW 9:30AM-11:20AM,Nadia Mukhtar Sayed
+ECON 111 LEC 1,Principles of Microeconomics,16W,4,TR 4:00PM-5:15PM,Faisal Bari
+ECON 111 LEC 2,Principles of Microeconomics,16W,4,TR 10:00AM-11:15AM,Faisal Bari
+ECON 111 LEC 3,Principles of Microeconomics,16W,4,TR 12:30PM-1:45PM,Faisal Bari
+ECON 111 RAC 1,Principles of Microeconomics,16W,4,M 10:00AM-10:50AM,Ayesha Karim Malik
+ECON 111 RAC 2,Principles of Microeconomics,16W,4,M 11:00AM-11:50AM,Ayesha Karim Malik
+ECON 111 RAC 3,Principles of Microeconomics,16W,4,M 12:00PM-12:50PM,Ayesha Karim Malik
+ECON 111 RAC 4,Principles of Microeconomics,16W,4,W 11:00AM-11:50AM,Ayesha Karim Malik
+ECON 111 RAC 5,Principles of Microeconomics,16W,4,W 12:00PM-12:50PM,Ayesha Karim Malik
+ECON 111 RAC 6,Principles of Microeconomics,16W,4,W 10:00AM-10:50AM,Ayesha Karim Malik
+ECON 111 RAC 7,Principles of Microeconomics,16W,4,F 11:00AM-11:50AM,Ayesha Karim Malik
+ECON 111 RAC 8,Principles of Microeconomics,16W,4,F 9:00AM-9:50AM,Ayesha Karim Malik
+ECON 111 RAC 9,Principles of Microeconomics,16W,4,F 10:00AM-10:50AM,Ayesha Karim Malik
 ECON 121 LEC 1,Principles of Macroeconomics,16W,4,MW 12:00PM-1:15PM,Kashif Zaheer Malik
-ECON 121 LEC 2,Principles of Macroeconomics,16W,4,MW 8:00AM-9:15AM,Mohammad Usman Khan
-ECON 121 LEC 3,Principles of Macroeconomics,16W,4,MW 9:30AM-10:45AM,Mohammad Usman Khan
-ECON 121 RAC 1,Principles of Macroeconomics,16W,4,T 1:00PM-1:50PM,Verda Arif
-ECON 121 RAC 2,Principles of Macroeconomics,16W,4,T 4:00PM-4:50PM,Verda Arif
-ECON 121 RAC 3,Principles of Macroeconomics,16W,4,T 10:00AM-10:50AM,Verda Arif
-ECON 121 RAC 4,Principles of Macroeconomics,16W,4,R 4:00PM-4:50PM,Anum Fatima
-ECON 121 RAC 5,Principles of Macroeconomics,16W,4,R 3:00PM-3:50PM,Anum Fatima
-ECON 121 RAC 6,Principles of Macroeconomics,16W,4,R 2:00PM-2:50PM,Anum Fatima
-ECON 121 RAC 7,Principles of Macroeconomics,16W,4,R 2:00PM-2:50PM,Eeman Shehzad Qureshi
-ECON 121 RAC 8,Principles of Macroeconomics,16W,4,R 12:30PM-1:20PM,Eeman Shehzad Qureshi
-ECON 121 RAC 9,Principles of Macroeconomics,16W,4,F 5:00PM-5:50PM,Eeman Shehzad Qureshi
-ECON 202 LEC 1,Readings in Economics,16W,4,MW 10:00AM-11:50AM,Khalid Mir
-ECON 203 LEC 1,Reading Marx wiR Dickens,16W,4,MW 3:00PM-4:50PM,
-ECON 211 LEC 1,Intermediate Microeconomics,16W,4,MW 10:00AM-11:50AM,Mushtaq Ahmad Khan
+ECON 121 LEC 2,Principles of Macroeconomics,16W,4,MW 10:30AM-11:45AM,Kashif Zaheer Malik
+ECON 121 LEC 3,Principles of Macroeconomics,16W,4,TR 10:30AM-11:45AM,Sheraz Latif Malik
+ECON 121 RAC 1,Principles of Macroeconomics,16W,4,W 4:00PM-4:50PM,Anum Fatima
+ECON 121 RAC 2,Principles of Macroeconomics,16W,4,W 3:00PM-3:50PM,Anum Fatima
+ECON 121 RAC 3,Principles of Macroeconomics,16W,4,W 2:00PM-2:50PM,Anum Fatima
+ECON 121 RAC 4,Principles of Macroeconomics,16W,4,TH 2:00PM-2:50PM,Anum Fatima
+ECON 121 RAC 5,Principles of Macroeconomics,16W,4,TH 4:30PM-5:20PM,Anum Fatima
+ECON 121 RAC 6,Principles of Macroeconomics,16W,4,TH 3:00PM-3:50PM,Anum Fatima
+ECON 121 RAC 7,Principles of Macroeconomics,16W,4,F 10:00AM-10:50AM,
+ECON 121 RAC 8,Principles of Macroeconomics,16W,4,F 11:00AM-11:50AM,
+ECON 121 RAC 9,Principles of Macroeconomics,16W,4,W 9:00AM-9:50AM,
+ECON 211 LEC 1,Intermediate Microeconomics,16W,4,MW 10:00AM-11:50AM,Ayesha Ali
 ECON 211 LEC 2,Intermediate Microeconomics,16W,4,TR 10:00AM-11:50AM,Ayesha Ali
-ECON 213 LEC 1,Behavioral Economics,16W,4,MW 3:00PM-4:50PM,Farah Said
-ECON 221 LEC 1,Intermediate Macroeconomics,16W,4,MW 4:00PM-5:50PM,Daniyal Khan
-ECON 221 LEC 2,Intermediate Macroeconomics,16W,4,TR 8:00AM-9:50AM,Antonio Marasco
-ECON 230 LEC 1,Statistics and Data Analysis,16W,4,TR 12:00PM-1:30PM,Usman Elahi
-ECON 230 LEC 2,Statistics and Data Analysis,16W,4,MW 9:30AM-11:00AM,Adeel Tariq
-ECON 230 LAB 1,Statistics and Data Analysis,16W,4,R 2:00PM-2:50PM,Rimsha Arif
-ECON 230 LAB 2,Statistics and Data Analysis,16W,4,R 4:00PM-4:50PM,Rimsha Arif
-ECON 230 LAB 3,Statistics and Data Analysis,16W,4,T 2:00PM-2:50PM,Eeman Shehzad Qureshi
-ECON 230 LAB 4,Statistics and Data Analysis,16W,4,T 4:00PM-4:50PM,Eeman Shehzad Qureshi
-ECON 233 LEC 1,Introduction to Game Reory,16W,4,MW 10:00AM-11:50AM,Lyyla Khalid
-ECON 233 LEC 2,Introduction to Game Reory,16W,4,TR 10:00AM-11:50AM,Lyyla Khalid
-ECON 247 LEC 1,Sectors and Policy in Development,16W,4,TR 9:30AM-11:20AM,Hadia Majid
-ECON 261 LEC 1,Principles of Finance,16W,4,TR 2:00PM-3:50PM,Sheraz Latif Malik
-ECON 3110 LEC 1,Economics of Organizations and Management,16W,4,TR 2:00PM-3:50PM,Daud Ahmed Dard
-ECON 314 LEC 1,Law and Economics,16W,4,TR 12:00PM-1:50PM,Syed Ali Hasanain
-ECON 330 LEC 1,Econometrics,16W,4,TR 5:00PM-6:30PM,Muhammad Farooq Naseer
-ECON 330 LEC 2,Econometrics,16W,4,TR 9:00AM-10:30AM,Adeel Tariq
-ECON 330 LAB 1,Econometrics,16W,4,T 4:00PM-4:50PM,Yushma Umar
-ECON 330 LAB 2,Econometrics,16W,4,T 3:00PM-3:50PM,Yushma Umar
-ECON 330 LAB 3,Econometrics,16W,4,F 12:00PM-12:50PM,Rabia Khan
-ECON 330 LAB 4,Econometrics,16W,4,F 2:00PM-2:50PM,Rabia Khan
-ECON 3312 LEC 1,Machine Learning for Social Scientists,16W,4,TR 12:00PM-1:50PM,Rabia Khan
-ECON 334 LEC 1,Time Series Econometrics,16W,4,MW 9:00AM-10:50AM,Kashif Zaheer Malik
-ECON 3402 LEC 1,Gender Economics,16W,4,MW 12:00PM-1:50PM,Hana Zahir
-ECON 3403 LEC 1,Managing Pakistan Economy,16W,4,TR 4:00PM-5:50PM,Syed Ali Hasanain
-ECON 352 LEC 1,International Finance,16W,4,TR 4:00PM-5:50PM,Usman Elahi
-ECON 3602 LEC 1,Money and Central Banking,16W,4,MW 12:00PM-1:50PM,Daniyal Khan
-ECON 411 LEC 1,Advanced Microeconomics,16W,4,TR 9:00AM-10:50AM,Mushtaq Ahmad Khan
-ECON 414 LEC 1,Applied Microeconomics,16W,4,TR 12:00PM-1:50PM,Abid Aman Burki
-ECON 419 LEC 1,Advanced Behavioral Economics,16W,4,MW 4:00PM-5:50PM,Sher Afghan Asad
-ECON 421 LEC 1,Advanced Macroeconomics,16W,4,TR 2:00PM-3:50PM,Antonio Marasco
-ECON 4302 LEC 1,Cooperative Games - Reory and Applications,16W,4,MW 12:00PM-1:50PM,Osama Khan
-ECON 4410 LEC 1,IsUes in Economic Policy,16W,4,MW 9:00AM-10:50AM,"Nazish Afraz
+ECON 221 LEC 1,Intermediate Macroeconomics,16W,4,TR 10:00AM-11:50AM,Daniyal Khan
+ECON 221 LEC 2,Intermediate Macroeconomics,16W,4,TR 2:00PM-3:50PM,Daniyal Khan
+ECON 230 LEC 1,Statistics and Data Analysis,16W,4,TR 12:00PM-1:30PM,Rabia Khan
+ECON 230 LEC 2,Statistics and Data Analysis,16W,4,MW 2:00PM-3:30PM,Usman Elahi
+ECON 230 LEC 3,Statistics and Data Analysis,16W,4,MW 11:00AM-12:30PM,Usman Elahi
+ECON 230 LAB 1,Statistics and Data Analysis,16W,4,T 2:00PM-2:50PM,Rimsha Arif
+ECON 230 LAB 2,Statistics and Data Analysis,16W,4,T 5:00PM-5:50PM,Rimsha Arif
+ECON 230 LAB 3,Statistics and Data Analysis,16W,4,TH 5:00PM-5:50PM,Eeman Shehzad Qureshi
+ECON 230 LAB 4,Statistics and Data Analysis,16W,4,T 3:00PM-3:50PM,Eeman Shehzad Qureshi
+ECON 230 LAB 5,Statistics and Data Analysis,16W,4,W 4:00PM-4:50PM,Eeman Shehzad Qureshi
+ECON 230 LAB 6,Statistics and Data Analysis,16W,4,TH 3:00PM-3:50PM,Eeman Shehzad Qureshi
+ECON 233 LEC 1,Introduction to Game Theory,16W,4,MW 10:00AM-11:50AM,Lyyla Khalid
+ECON 233 LEC 2,Introduction to Game Theory,16W,4,TR 10:00AM-11:50AM,Lyyla Khalid
+ECON 240 LEC 1,Development Economics,16W,4,TR 3:00PM-4:50PM,Nadia Mukhtar Sayed
+ECON 247 LEC 1,Sectors and Policy in Development,16W,4,MW 10:00AM-11:50AM,Hadia Majid
+ECON 261 LEC 1,Principles of Finance,16W,4,TR 12:00PM-1:50PM,Sheraz Latif Malik
+ECON 262 LEC 1,Mathematical Applications in Economics,16W,4,MW 10:00AM-11:50AM,Mushtaq Ahmad Khan
+ECON 323 LEC 1,Economic History of South Asia,16W,4,TR 12:00PM-1:50PM,Fahd Ali
+ECON 330 LEC 1,Econometrics,16W,4,MW 10:00AM-11:30AM,Farah Said
+ECON 330 LEC 2,Econometrics,16W,4,TR 10:00AM-11:30AM,Muhammad Farooq Naseer
+ECON 330 LAB 1,Econometrics,16W,4,F 11:00AM-11:50AM,Rabia Khan
+ECON 330 LAB 2,Econometrics,16W,4,F 12:00PM-12:50PM,Rabia Khan
+ECON 330 LAB 3,Econometrics,16W,4,W 5:00PM-5:50PM,Yushma Umar
+ECON 330 LAB 4,Econometrics,16W,4,W 2:00PM-2:50PM,Yushma Umar
+ECON 3402 LEC 1,Gender Economics,16W,4,TR 4:00PM-5:50PM,Hana Zahir
+ECON 343 LEC 1,Agriculture and Food Policy,16W,4,TR 2:00PM-3:50PM,Abid Aman Burki
+ECON 3603 LEC 1,"Money and Monetary Policy: Applications to
+Pakistan",16W,4,MW 10:00AM-11:50AM,
+ECON 363 LEC 1,Economics of Investment and Finance,16W,4,MW 9:30AM-11:20AM,Mohammad Usman Khan
+ECON 4102 LEC 1,Gender and the Labor Market,16W,4,TR 10:00AM-11:50AM,Hadia Majid
+ECON 427 LEC 1,Computational Macroeconomics,16W,4,MW 10:00AM-11:50AM,Syed Zahid Ali
+ECON 438 LEC 1,Econometrics II,16W,4,MW 12:00PM-1:50PM,Adeel Tariq
+ECON 441 LEC 1,Development Economics Theory,16W,4,MW 3:00PM-4:50PM,Khalid Mir
+ECON 4410 LEC 1,Issues in Economic Policy,16W,4,MW 9:00AM-10:50AM,"Nazish Afraz
 Ijaz Nabi"
-ECON 4414 LEC 1,Topics in Energy Economics,16W,4,MW 3:00PM-4:50PM,Ayesha Ali
-ECON 454 LEC 1,Trade and Development,16W,4,MW 12:00PM-1:50PM,S.M. Turab Hussain
-ECON 521 LEC 1,Macroeconomic Analysis,16W,4,TR 2:00PM-3:50PM,Syed Zahid Ali
-ECON 532 LEC 1,Econometrics and Research MeRodology II,16W,4,MW 10:00AM-11:50AM,Muhammad Farooq Naseer
-EDU 213 LEC 1,Philosophy of Education,16W,3,MW 10:30AM-11:45AM,Hasham Nasir
-EDU 216 SEM 1,Globalization and Language,16W,3,TR 10:30AM-11:45AM,Sannia Hussain
-EDU 224 LEC 1,Reories of Child and Adolescent Development i n,16W,3,TR 12:00PM-1:15PM,Fizza Uhail
-EDU 250 LEC 1,Education in Re Pakistani Context,16W,3,MW 12:00PM-1:15PM,Jasir Shahbaz
-EDU 315 LEC 1,Education in Re Globalized World,16W,3,MW 9:00AM-10:15AM,Farah Syed
-EDU 318 LEC 1,Introduction to Re Arts in Education in SouR Asi,16W,3,MW 2:00PM-3:15PM,Razia Iram Sadik
-EDU 3204 SEM 1,Enhancing Inclusion: Exploring Autism & Intellect,16W,3,MW 2:00PM-3:15PM,Aaishay Haque
-EDU 3205 LEC 1,Removing Barriers to Learning in Re Classroom,16W,3,TR 9:00AM-10:15AM,Jessica Albrent
-EDU 343 LEC 1,Educational Leadership Beyond Schools,16W,3,TR 10:30AM-11:45AM,Mehreen Noon
-EDU 345 LEC 1,Practicing Leadership,16W,3,TR 10:30AM-11:45AM,Hasham Nasir
-EDU 352 LEC 1,Education Policy Analysis,16W,3,TR 9:00AM-10:15AM,Gulab Khan
-EDU 363 LEC 1,Could Education be Bad for Society,16W,3,M 2:00PM-4:50PM,Daniyal Yousaf
-EDU 372 LEC 1,Mobile Lives: Im/migration and Education,16W,3,MW 12:00PM-1:15PM,Daniyal Yousaf
-EDU 412 LEC 1,Economics of Education,16W,3,TR 12:00PM-1:15PM,Jasir Shahbaz
-EDU 422 SEM 1,Behavior Analysis for Effective Teaching,16W,3,MW 10:30AM-11:45AM,Aaishay Haque
-EDU 423 LEC 1,Reory and Policy for Teacher Education,16W,3,MW 9:00AM-10:15AM,Soufia Anis Siddiqi
-EDU 541 LEC 1,School Effectiveness and Development,16W,3,TR 12:00PM-1:15PM,"Jessica Albrent
+ECON 449 LEC 1,Philosophy and Economics,16W,4,MW 10:00AM-11:50AM,Khalid Mir
+ECON 511 LEC 1,Microeconomic Analysis,16W,4,MW 10:00AM-11:50AM,Osama Khan
+ECON 531 LEC 1,Econometrics and Research Methodology I,16W,4,TR 10:00AM-11:50AM,Mushtaq Ahmad Khan
+ECON 536 LEC 1,Topics in Mathematical Method for Economists,16W,4,MW 3:00PM-4:50PM,Syed Zahid Ali
+EDU 210 LEC 1,Critical Debates in Education,16W,3,MW 8:00AM-9:15AM,Gulab Khan
+EDU 218 LEC 1,"Education and International Development -
+Concepts, Theories, and Issues",16W,3,TR 8:00AM-9:15AM,Farah Syed
+EDU 223 LEC 1,"Trauma-Informed Education Systems: Creating
+Cultures of Support and Change",16W,3,MW 8:00AM-9:15AM,Fizza Suhail
+EDU 272 LEC 1,"Education, Schools and Violence",16W,3,TR 8:00AM-9:15AM,
+EDU 274 LEC 1,Gender Media and Education,16W,3,TR 8:00AM-9:15AM,Hasham Nasir
+EDU 3203 LEC 1,"Designing Immersive Learning Experiences:
+Student-Centered Instructional Skills Training",16W,3,TR 9:30AM-10:45AM,
+EDU 3207 LEC 1,Socio Emotional Learning,16W,3,TR 3:30PM-4:45PM,Mariam Haider
+EDU 321 LEC 1,"Inclusive Pedagogy: Rethinking teaching, learning
+and assessment",16W,3,TR 8:00AM-9:15AM,Fizza Suhail
+EDU 325 LEC 1,The (Instructional) Core and How to Work it,16W,3,MW 12:30PM-1:45PM,Mehreen Noon
+EDU 353 LEC 1,Education and Conflict,16W,3,TR 12:00PM-1:15PM,Hasham Nasir
+EDU 372 LEC 1,Mobile Lives: Im/migration and Education,16W,3,TR 4:30PM-5:45PM,Daniyal Yousaf
+EDU 412 LEC 1,Economics of Education,16W,3,MW 12:00PM-1:15PM,Jasir Shahbaz
+EDU 422 LEC 1,Behavior Analysis for Effective Teaching,16W,3,TR 10:30AM-11:45AM,Aaishay Haque
+EDU 510 SEM 1,"Interdisciplinary Theoretical Perspectives on
+Education",16W,3,F 2:00PM-4:50PM,"Aaishay Haque
+Tayyaba Tamim"
+EDU 512 SEM 1,The Arts and Education,16W,3,M 3:00PM-5:50PM,Razia Iram Sadik
+EDU 515 SEM 1,"Education and Happiness: Combining learning with
+hope and positivity",16W,3,F 8:00AM-10:50AM,Irfan Muzaffar
+EDU 526 LEC 1,"Enhancing Inclusion: Exploring Autism and
+Intellectual Disability",16W,3,TR 1:00PM-2:15PM,Mariam Haider
+EDU 540 LEC 1,Leadership: The Politics of Change,16W,3,TR 8:00AM-9:15AM,Mariam Chughtai
+EDU 560 SEM 1,Research Methods,16W,3,F 8:00AM-10:50AM,"Soufia Anis Siddiqi
+Ahmad Ayub"
+EDU 590 FLD 1,Observing Schools,16W,1,W 10:30AM-4:20PM,Hasham Nasir
+EDU 643 LEC 1,"Contemporary Management Concepts in
+Educational Leadership",16W,3,MW 2:30PM-3:45PM,
+EDU 690 SEM 1,Practicum Proseminar,16W,3,F 8:00AM-10:50AM,Gulab Khan
+EDU 690 SEM 2,Practicum Proseminar,16W,3,F 2:00PM-4:50PM,Soufia Anis Siddiqi
+EDU 693 LEC 1,Academic Writing,16W,1,F 12:00PM-12:50PM,Sannia Hussain
+EDUX 510 LEC 1,"Interdisciplinary Theoretical Perspectives on
+Education",EDUX(Alternate Sat-Sun),3,SSU 1:00PM-2:50PM,
+EDUX 526 LEC 1,Professional Learning in Education,EDUX(Alternate Sat-Sun),3,SSU 12:00PM-1:50PM,Jessica Albrent
+EDUX 540 LEC 1,Leadership: The Politics of Change,EDUX(Alternate Sat-Sun),3,SSU 4:00PM-5:50PM,"Jessica Albrent
 Hasham Nasir"
-EDU 543 SEM 1,Essential Management Tools for Aspiring Educati,16W,3,R 1:00PM-3:50PM,Bilal Ahsan Malik
-EDU 561 LEC 1,Applied Data Analysis,16W,3,MW 9:00AM-10:15AM,Farah Nadeem
-EDU 562 LAB 1,Data Lab,16W,1,M 10:30AM-1:20PM,Ahmad Ayub
-EDU 563 SEM 1,ERnography for Education Policy,16W,3,R 11:00AM-1:50PM,Soufia Anis Siddiqi
-EDU 627 LEC 1,Understanding Diversity in Disability,16W,3,TR 10:30AM-11:45AM,Mariam Haider
-EDUX 512 LEC 1,Re Arts and Education,EDUX(Alternat e,3,SU 4:00PM-5:50PM,Razia Iram Sadik
-EDUX 541 LEC 1,School Effectiveness and Development,EDUX(Alternat e,3,SU 9:00AM-10:50AM,Jessica Albrent
-EDUX 552 LEC 1,Education for Ustainable Development,EDUX(Alternat e,3,SU 4:00PM-5:50PM,Tayyaba Tamim
-EDUX 561 LEC 1,Applied Data Analysis,EDUX(Alternat e,3,SU 2:00PM-3:50PM,Farah Nadeem
-EDUX 562 LAB 1,Data Lab,EDUX(Alternat e,1,SU 11:00AM-12:50PM,Ahmad Ayub
-EDUX 646 LEC 1,"Managing Motivation, Engagement and Retentio",EDUX(Alternat e,3,SU 4:00PM-5:50PM,Atif Rahim Khan
-EE 220 LEC 1,Digital Logic Circuits,16W,3,TR 5:00PM-6:15PM,Muhammad Jahangir Ikram
-EE 220L LAB 1,Digital Logic Circuits Lab,16W,1,R 2:00PM-4:50PM,Muhammad Jahangir Ikram
-EE 220L LAB 2,Digital Logic Circuits Lab,16W,1,T 2:00PM-4:50PM,Muhammad Jahangir Ikram
-EE 220L LAB 3,Digital Logic Circuits Lab,16W,1,F 9:30AM-12:20PM,Muhammad Jahangir Ikram
-EE 220L LAB 4,Digital Logic Circuits Lab,16W,1,W 2:00PM-4:50PM,Muhammad Jahangir Ikram
-EE 220L LAB 5,Digital Logic Circuits Lab,16W,1,F 3:00PM-5:50PM,Muhammad Jahangir Ikram
-EE 241L LAB 1,Introductory Circuits Lab,16W,2,W 9:30AM-3:20PM,Hassan Abbas Khan
-EE 241L LAB 2,Introductory Circuits Lab,16W,2,M 9:00AM-2:50PM,Muhammad Imran Cheema
-EE 242 LEC 1,Circuits II,16W,3,TR 11:00AM-12:15PM,Naveed Ul Hassan
-EE 3001 LEC 1,Junior Design Studio - Electric Vehicles,16W,3,M 9:00AM-10:50AM,Nauman Ahmad Zaffar
-EE 3001 LAB 1,Junior Design Studio - Electric Vehicles,16W,3,F 3:00PM-5:50PM,Nauman Ahmad Zaffar
-EE 3002 LEC 1,Junior Design Studio - Robotics,16W,3,TR 5:00PM-5:50PM,Hassan Jaleel
-EE 3002 LAB 1,Junior Design Studio - Robotics,16W,3,F 3:00PM-5:50PM,Hassan Jaleel
-EE 310 LEC 1,Signals and Systems,16W,3,MW 8:00AM-8:50AM,Muhammad Tahir
-EE 310 RAC 1,Signals and Systems,16W,3,F 2:00PM-2:50PM,Muhammad Tahir
-EE 320 LEC 1,Computer Organization and Assembly Language,16W,4,TR 2:00PM-3:15PM,Shahid MaUd
-EE 320 LAB 1,Computer Organization and Assembly Language,16W,4,F 9:30AM-12:20PM,Shahid MaUd
-EE 341 LEC 1,Microelectronic Design,16W,3,MW 12:30PM-1:45PM,Muhammad Ali Siddiqi
-EE 352 LEC 1,Electromechanical Systems,16W,3,TR 12:30PM-1:45PM,Hafsa Qamar
-EE 352L LAB 1,Electromechanical Systems Lab,16W,1,F 9:00AM-11:50AM,Hafsa Qamar
-EE 352L LAB 2,Electromechanical Systems Lab,16W,1,T 2:00PM-4:50PM,Hafsa Qamar
-EE 353 LEC 1,Electrical Power Systems,16W,3,TR 11:00AM-12:15PM,Raheel Zafar
-EE 361 LEC 1,Feedback Control Systems,16W,3,TR 9:30AM-10:45AM,Hassan Jaleel
-EE 361L LAB 1,Feedback Control Systems Lab,16W,1,W 3:00PM-5:50PM,Mudassar Ejaz
-EE 361L LAB 2,Feedback Control Systems Lab,16W,1,F 9:00AM-11:50AM,Mudassar Ejaz
-EE 434 LEC 1,1Principles of Optics,16W,3,MW 3:30PM-4:45PM,Muhammad Imran Cheema
-EE 512 LEC 1,Digital Image Processing,16W,3,MW 11:00AM-12:15PM,Nadeem Ahmad Khan
-EE 514 LEC 1,Machine Learning,16W,3,TR 11:00AM-12:15PM,
-EE 522 LEC 1,Embedded Systems,16W,3,TR 4:00PM-5:15PM,Muhammad Adeel Ahmed Pasha
-EE 523 LEC 1,VLSI Design,16W,3,MW 3:30PM-4:45PM,Shahid MaUd
-EE 525 LEC 1,Photovoltaic Devices,16W,3,TR 3:30PM-4:45PM,Nauman Zafar Butt
-EE 5512 LEC 1,Power System Operation and Control,16W,3,MW 11:00AM-12:15PM,Raheel Zafar
-EE 557 LEC 1,Electricity Markets,16W,3,TR 9:30AM-10:45AM,Hassan Abbas Khan
-EE 563 LEC 1,Convex Optimization,16W,3,TR 2:00PM-3:15PM,Hassan Mohy-ud-Din
-EMBA 5012 LEC 1,Managerial Accounting and Control Systems,M03,1,SU 2:00PM-4:05PM,Muhammad Junaid Ashraf
-EMBA 5012 LEC 2,Managerial Accounting and Control Systems,M03,1,SU 10:55AM-1:00PM,Muhammad Junaid Ashraf
-EMBA 5021 LEC 1,Managerial Finance,M03,1,SU 10:55AM-1:00PM,Syed Mubashir Ali
-EMBA 5021 LEC 2,Managerial Finance,M03,1,SU 8:30AM-10:35AM,Syed Mubashir Ali
-EMBA 5031 LEC 1,Operations and Upply Chain Management,M02,1,SU 8:30AM-10:35AM,Muhammad Shakeel Sadiq Jajja
-EMBA 5031 LEC 2,Operations and Upply Chain Management,M02,1,SU 2:00PM-4:05PM,Muhammad Shakeel Sadiq Jajja
-EMBA 5033 LEC 1,Innovation and Technology Management,M03,1,SU 8:30AM-10:35AM,Muhammad Adeel Zaffar
-EMBA 5033 LEC 2,Innovation and Technology Management,M03,1,SU 2:00PM-4:05PM,Muhammad Adeel Zaffar
-EMBA 5051 LEC 1,Managing People,M02,1,SU 4:25PM-6:30PM,Jawad Sarwar Naqvi Syed
-EMBA 5051 LEC 2,Managing People,M02,1,SU 10:55AM-1:00PM,Jawad Sarwar Naqvi Syed
-EMBA 5053 LEC 1,Leading Organizations,M05,1,SU 10:55AM-1:00PM,Ghulam Ali Aryan
-EMBA 5053 LEC 2,Leading Organizations,M05,1,SU 4:25PM-6:30PM,Ghulam Ali Aryan
-EMBA 5111 LEC 1,Managerial Economics,M02,1,SU 10:55AM-1:00PM,Choudhry Tanveer Shehzad
-EMBA 5111 LEC 2,Managerial Economics,M02,1,SU 2:00PM-4:05PM,Choudhry Tanveer Shehzad
-EMBA 6241 LEC 1,Islamic ERics,M05,0,SU 8:30AM-10:35AM,Jawad Sarwar Naqvi Syed
-EMBA 6241 LEC 2,Islamic ERics,M05,0,SU 2:00PM-4:05PM,Jawad Sarwar Naqvi Syed
-EMBA 6242 LEC 1,Corporate Governance,M05,0,SU 10:55AM-1:00PM,Bushra Naqvi
-EMBA 6242 LEC 2,Corporate Governance,M05,0,SU 8:30AM-10:35AM,Bushra Naqvi
-EMBA 6304 LEC 1,Business Strategy,M05,1,SU 2:00PM-4:05PM,Ehsan Ul Haque
-EMBA 6304 LEC 2,Business Strategy,M05,1,SU 4:25PM-6:30PM,Ehsan Ul Haque
-ENGG 100 LEC 1,Design and MeaUrement Lab,16W,2,T 8:00AM-8:50AM,Nauman Zafar Butt
-ENGG 100 LEC 2,Design and MeaUrement Lab,16W,2,W 8:00AM-8:50AM,Momin Ayub Uppal
-ENGG 100 LEC 3,Design and MeaUrement Lab,16W,2,M 9:00AM-9:50AM,Muhammad Sabieh Anwar
-ENGG 100 LEC 4,Design and MeaUrement Lab,16W,2,T 12:00PM-12:50PM,Ammar Ahmed Khan
-ENGG 100 LEC 5,Design and MeaUrement Lab,16W,2,R 10:30AM-11:20AM,Qasim Imtiaz
-ENGG 100 LAB 1,Design and MeaUrement Lab,16W,2,T 9:00AM-1:50PM,Nauman Zafar Butt
-ENGG 100 LAB 2,Design and MeaUrement Lab,16W,2,W 9:00AM-1:50PM,Momin Ayub Uppal
-ENGG 100 LAB 3,Design and MeaUrement Lab,16W,2,M 10:00AM-2:50PM,Muhammad Sabieh Anwar
-ENGG 100 LAB 4,Design and MeaUrement Lab,16W,2,T 1:00PM-5:50PM,Ammar Ahmed Khan
-ENGG 100 LAB 5,Design and MeaUrement Lab,16W,2,R 11:30AM-4:20PM,Qasim Imtiaz
-ENGL 1111 LEC 1,Re Word and Re World,16W,4,TR 4:00PM-5:50PM,Furrukh A. Khan
-ENGL 2253 LEC 1,"American Dreaming: Reading Race, Nation, and",M16W,4,MW 12:00PM-1:50PM,Saba Pirzadeh
-ENGL 2432 LEC 1,Narrative Essays,16W,4,TR 12:00PM-1:50PM,Younis Bin Azeem
-ENGL 3111 LEC 1,Literature of Re Muslim World,16W,4,TR 2:00PM-3:50PM,Furrukh A. Khan
-ENGL 3151 LEC 1,End of Nature: Disaster and Geopolitics in Enviro,16W,4,MW 10:00AM-11:50AM,Saba Pirzadeh
-ENGL 3510 LEC 1,Literary Reory,16W,4,MW 4:00PM-5:50PM,
-ENGL 4332 LEC 1,Love trumps Hate: Re Concept of Love in Conte,m16W,4,TR 10:00AM-11:50AM,Farah Hasan Ali
+EDUX 560 LEC 1,Research Methods,EDUX(Alternate Sat-Sun),3,SSU 8:00AM-9:50AM,
+EDUX 590 FLD 1,Observing Schools,EDUX(Alternate Sat-Sun),1,SU 10:00AM-11:30AM,Hasham Nasir
+EDUX 616 LEC 1,"Arts-Based Research: Exploring Creative Practices
+in Educational Inquiry",EDUX(Alternate Sat-Sun),3,SSU 3:00PM-4:50PM,Razia Iram Sadik
+EDUX 662 LEC 1,Impact Evaluation Methods in Education,EDUX(Alternate Sat-Sun),3,SSU 2:00PM-3:50PM,Farah Nadeem
+EDUX 690 LEC 1,Practicum Proseminar,EDUX(Alternate Sat-Sun),3,SU 8:00AM-11:50AM,Razia Iram Sadik
+EDUX 690 LEC 2,Practicum Proseminar,EDUX(Alternate Sat-Sun),3,S 8:00AM-11:50AM,Farah Nadeem
+EDUX 693 LEC 1,Academic Writing,EDUX(Alternate Sat-Sun),1,S 10:00AM-11:30AM,Sannia Hussain
+EE 200 LAB 1,Sophomore Design Studio,16W,1,W 1:30PM-4:20PM,Talha Manzoor
+EE 203 LEC 1,Engineering Models,16W,3,TR 9:30AM-10:45AM,Hassan Mohy-ud-Din
+EE 240 LEC 1,Circuits I,16W,3,TR 1:00PM-2:15PM,Zubair Khalid
+EE 324 LEC 1,Microcontroller and Interfacing,16W,2,MW 2:00PM-2:50PM,Muhammad Jahangir Ikram
+EE 324L LAB 1,Microcontroller and Interfacing Lab,16W,1,T 11:00AM-1:50PM,Muhammad Jahangir Ikram
+EE 324L LAB 2,Microcontroller and Interfacing Lab,16W,1,TH 3:00PM-5:50PM,Muhammad Jahangir Ikram
+EE 330 LEC 1,Electromagnetic Fields and Waves,16W,3,MW 9:30AM-10:45AM,Muhammad Imran Cheema
+EE 340 LEC 1,Devices and Electronics,16W,3,MW 12:30PM-1:45PM,Nauman Ahmad Zaffar
+EE 340L LAB 1,Devices and Electronics Lab,16W,1,T 2:00PM-4:50PM,Nauman Ahmad Zaffar
+EE 340L LAB 2,Devices and Electronics Lab,16W,1,F 2:00PM-4:50PM,Nauman Ahmad Zaffar
+EE 340L LAB 3,Devices and Electronics Lab,16W,1,W 3:00PM-5:50PM,Nauman Ahmad Zaffar
+EE 380 LEC 1,Communication Systems,16W,3,MW 11:00AM-12:15PM,Ijaz Haider Naqvi
+EE 380L LAB 1,Communication Systems Lab,16W,1,F 2:00PM-4:50PM,"Ahsan Ikram
+Ijaz Haider Naqvi"
+EE 380L LAB 2,Communication Systems Lab,16W,1,T 2:30PM-5:20PM,"Ahsan Ikram
+Ijaz Haider Naqvi"
+EE 380L LAB 3,Communication Systems Lab,16W,1,F 10:00AM-12:50PM,Ijaz Haider Naqvi
+EE 414 LEC 1,Deep Learning,16W,3,TR 11:30AM-12:45PM,Hassan Mohy-ud-Din
+EE 421 LEC 1,Digital System Design,16W,3,MW 11:30AM-12:45PM,Shahid Masud
+EE 421L LAB 1,Digital System Design Lab,16W,1,F 10:00AM-12:50PM,Shahid Masud
+EE 452 LEC 1,Power Electronics,16W,3,MW 1:30PM-2:45PM,Hafsa Qamar
+EE 452L LAB 1,Power Electronics Lab,16W,1,T 11:30AM-2:20PM,Hafsa Qamar
+EE 452L LAB 2,Power Electronics Lab,16W,1,W 10:30AM-1:20PM,Hafsa Qamar
+EE 453 LEC 1,Power Systems Protection and Stability,16W,3,MW 3:00PM-4:15PM,Raheel Zafar
+EE 453L LAB 1,Power Systems Protection and Stability,16W,1,F 3:00PM-5:50PM,Raheel Zafar
+EE 5102 LEC 1,Advanced Topics in Machine Learning,16W,3,MW 4:30PM-5:45PM,Muhammad Tahir
+EE 520 LEC 1,Computer Architecture,16W,3,MW 4:30PM-5:45PM,Muhammad Adeel Ahmed Pasha
+EE 5202 LEC 1,VLSI Design for Artificial Intelligence,16W,3,MW 4:30PM-5:45PM,Muhammad Ali Siddiqi
+EE 5203 LEC 1,"Data Analysis, Design of Experiments and Physics
+Informed ML",16W,3,TR 9:30AM-10:45AM,Nauman Zafar Butt
+EE 5216 LEC 1,Hardware Design for IoT Security,16W,3,MW 10:00AM-11:15AM,Muhammad Ali Siddiqi
+EE 5502 LEC 1,Local Solutions for Energy Access,16W,3,MW 9:00AM-10:15AM,"Naveed Arshad
+Nauman Ahmad Zaffar"
+EE 555 LEC 1,Renewable Energy Systems,16W,3,MW 4:30PM-5:45PM,Hassan Abbas Khan
+EE 567 LEC 1,Multi-agent Systems,16W,3,TR 9:30AM-10:45AM,Hassan Jaleel
+EE 576 LEC 1,Smart Grid: Technology and Applications,16W,3,TR 4:30PM-5:45PM,Naveed Ul Hassan
+EMBA 5013 LEC 1,"Understanding Financial Accounting: Making More
+Authoritative Decisions",M01,1,SSU 8:30AM-10:35AM,Asad Alam
+EMBA 5013 LEC 2,"Understanding Financial Accounting: Making More
+Authoritative Decisions",M01,1,SSU 10:55AM-1:00PM,Asad Alam
+EMBA 5022 LEC 1,Corporate Finance,M04,1,SSU 10:55AM-1:00PM,Syed Mubashir Ali
+EMBA 5022 LEC 2,Corporate Finance,M04,1,SSU 2:00PM-4:05PM,Syed Mubashir Ali
+EMBA 5041 LEC 1,Marketing Management,M01,1,SSU 2:00PM-4:05PM,Ehsan Ul Haque
+EMBA 5041 LEC 2,Marketing Management,M01,1,SSU 8:30AM-10:35AM,Ehsan Ul Haque
+EMBA 5063 LEC 1,Problem Solving and Decision Making,M01,1,SSU 10:55AM-1:00PM,Jamshed Hasan Khan
+EMBA 5063 LEC 2,Problem Solving and Decision Making,M01,1,SSU 2:00PM-4:05PM,Jamshed Hasan Khan
+EMBA 5211 LEC 1,Business Law,M04,1,SSU 8:30AM-10:35AM,Faiza Ali
+EMBA 5211 LEC 2,Business Law,M04,1,SSU 10:55AM-1:00PM,Faiza Ali
+EMBA 6071 LEC 1,Venture Creation,M04,1,SSU 2:00PM-4:05PM,Mansoor Nawaz
+EMBA 6071 LEC 2,Venture Creation,M04,1,SSU 8:30AM-10:35AM,Mansoor Nawaz
+ENGG 100 LAB 1,Design and Measurement Lab,16W,2,W 9:00AM-1:50PM,Qasim Imtiaz
+ENGG 100 LAB 2,Design and Measurement Lab,16W,2,TH 9:00AM-1:50PM,"Muhammad Umar Hassan
+Ammar Ahmed Khan"
+ENGG 100 LAB 3,Design and Measurement Lab,16W,2,T 9:00AM-1:50PM,"Muhammad Umar Hassan
+Ammar Ahmed Khan"
+ENGG 100 LAB 4,Design and Measurement Lab,16W,2,M 9:00AM-1:50PM,Zubair Khalid
+ENGG 100 LAB 5,Design and Measurement Lab,16W,2,TH 1:30PM-6:20PM,Muhammad Tahir
+ENGG 100 LEC 1,Design and Measurement Lab,16W,2,W 8:00AM-8:50AM,Qasim Imtiaz
+ENGG 100 LEC 2,Design and Measurement Lab,16W,2,TH 8:00AM-8:50AM,"Muhammad Umar Hassan
+Ammar Ahmed Khan"
+ENGG 100 LEC 3,Design and Measurement Lab,16W,2,T 8:00AM-8:50AM,"Muhammad Umar Hassan
+Ammar Ahmed Khan"
+ENGG 100 LEC 4,Design and Measurement Lab,16W,2,M 8:00AM-8:50AM,Zubair Khalid
+ENGG 100 LEC 5,Design and Measurement Lab,16W,2,TH 12:30PM-1:20PM,Muhammad Tahir
+ENGL 1000 LEC 1,Introduction to Literature in English,16W,4,TR 2:00PM-3:50PM,Tom Edward Sewel
+ENGL 1102 LEC 1,Writing South Asia,16W,4,TR 4:30PM-6:20PM,Younis Bin Azeem
+ENGL 1192 LEC 1,Introduction to Humour Writing,16W,4,MW 2:00PM-3:50PM,Younis Bin Azeem
+ENGL 2402 LEC 1,Comics Scholarship and Graphic Narrative,16W,4,MW 8:00AM-9:50AM,Tom Edward Sewel
+ENGL 2811 LEC 1,"Rethinking the Politics of Harem in Literature:
+Women, Islam, and Gendered Spaces",16W,4,MW 12:00PM-1:50PM,Sadia Zulfiqar
+ENGL 2991 LEC 1,"Text and Tech: Digital Approaches to the
+Humanities",16W,4,TR 8:00AM-9:50AM,
+ENGL 3172 LEC 1,"'The Empire Writes Back’: Diaspora Fiction in
+Europe",16W,4,MW 8:00AM-9:50AM,Farah Hasan Ali
+ENGL 3812 LEC 1,African Literature: Women Writing Back,16W,4,MW 12:00PM-1:50PM,Furrukh A. Khan
 ENV 102 LEC 1,Introduction to Environmental Studies,16W,4,TR 10:00AM-11:50AM,Maryam Ibrahim
-ENV 210 LEC 1,MeRods in Environmental Studies,16W,4,TR 3:30PM-5:20PM,Sana Khosa
-ENV 322 LEC 1,Environmental Governance,16W,4,TR 10:00AM-11:50AM,Sana Khosa
-FINN 100 LEC 1,Principles of Finance,16W,3,MW 12:30PM-1:45PM,Bushra Naqvi
-FINN 100 LEC 2,Principles of Finance,16W,3,MW 11:00AM-12:15PM,Bushra Naqvi
-FINN 100 LEC 3,Principles of Finance,16W,3,TR 9:30AM-10:45AM,Zainab Mehmood
-FINN 100 LEC 4,Principles of Finance,16W,3,TR 2:00PM-3:15PM,Zainab Mehmood
-FINN 100 LEC 5,Principles of Finance,16W,3,TR 8:00AM-9:15AM,Salman Khan
-FINN 100 LEC 6,Principles of Finance,16W,3,TR 9:30AM-10:45AM,Salman Khan
-FINN 200 LEC 1,Intermediate Finance,16W,3,MW 5:00PM-6:15PM,Syed Hashim Mahmood Ali
-FINN 222 LEC 1,Introduction to MaRematics of Finance,16W,3,MW 12:30PM-1:45PM,
-FINN 242 LEC 1,Islamic Capital Markets and Instruments,16W,3,TR 11:00AM-12:15PM,
-FINN 243 LEC 1,Fintech Revolution: Market Disruption and Emer,g16W,3,TR 5:00PM-6:15PM,Syed Hashim Mahmood Ali
-FINN 321 LEC 1,Econometrics,16W,3,MW 2:00PM-3:15PM,Syed Zahid Ali
-FINN 341A LEC 1,Financial Institutions and Markets,16W,3,MW 9:30AM-10:45AM,Samir Ahmed
-FINN 372 LEC 1,Actuarial Sciences and InUrance,16W,3,TR 12:30PM-1:45PM,Nauman Afzal Cheema
-FINN 400 LEC 1,Applied Corporate Finance,16W,3,MW 5:00PM-6:15PM,Seyyed Fazal Jawad
-FINN 454 LEC 1,Portfolio Management,16W,3,MW 8:00AM-9:15AM,Syed Kumail Abbas Rizvi
-FINN 7001 LEC 1,Corporate Finance,16W,3,R 3:00PM-6:00PM,Choudhry Tanveer Shehzad
-FINN 7501 LEC 1,Investments Reory and Financial Markets,16W,3,M 11:00AM-2:00PM,
-GSL 102 SEM 1,Chinese Language for Beginners (HSK Level 1),16W,4,MW 8:00AM-9:50AM,
-GSS 366 LEC 1,"Gender, Nationalism, and Politics: Unpacking me",16W,4,TR 2:00PM-3:50PM,Maria Amir
-GSS 367 LEC 1,,"Folklore Futures: Negotiating, Reclaiming, and Re 16W",4,TR 10:00AM-11:50AM,Maria Amir
-HIST 124 LEC 1,Re World Since 1453,16W,4,MW 12:00PM-1:50PM,Waqar Zaidi
-HIST 124 LEC 2,Re World Since 1453,16W,4,MW 4:00PM-5:50PM,Waqar Zaidi
-HIST 127 LEC 1,A Peoples History of Pakistan,16W,4,MW 2:00PM-3:50PM,Ilyas Ahmad ChatRa
-HIST 2202 LEC 1,Re Indian Ocean,16W,4,TR 2:00PM-3:50PM,Ameem Lutfi
-HIST 2213 LEC 1,Foundations of Modern SouR Asian History,16W,4,MW 1:00PM-2:50PM,Ali Usman Qasmi
-HIST 2311 LEC 1,"Nature, Power and Modernity",16W,4,MW 10:00AM-11:50AM,Hassan Haider Karrar
-HIST 243 LEC 1,British Raj and Frontier Governmentality,16W,4,TR 12:00PM-1:50PM,Jahanzeb Baloch
-HIST 312 LEC 1,Mughal Architecture: Babur to Aurangzeb,16W,4,MW 4:00PM-5:50PM,Nadhra Shahbaz Naeem Khan
-HIST 324 LEC 1,China from Deng to Xi,16W,4,TR 12:00PM-1:50PM,Hassan Haider Karrar
-HIST 3312 LEC 1,Decoloniality and Decolonization,16W,4,MW 2:00PM-3:50PM,Ali Raza
+ENV 132 LEC 1,Disasters,16W,4,TR 2:00PM-3:50PM,Sana Khosa
+ENV 210 LEC 1,Methods in Environmental Studies,16W,4,MW 12:00PM-1:50PM,
+ENV 342 LEC 1,Environmentalism and Development,16W,4,MW 3:00PM-4:50PM,Maryam Ibrahim
+FINN 100 LEC 1,Principles of Finance,16W,3,MW 9:30AM-10:45AM,Salman Khan
+FINN 200 LEC 1,Intermediate Finance,16W,3,MW 11:00AM-12:15PM,Bushra Naqvi
+FINN 200 LEC 2,Intermediate Finance,16W,3,MW 8:00AM-9:15AM,Syed Hashim Mahmood Ali
+FINN 200 LEC 3,Intermediate Finance,16W,3,MW 9:30AM-10:45AM,Syed Hashim Mahmood Ali
+FINN 243 LEC 1,"Fintech Revolution: Market Disruption and
+Emerging Opportunities",16W,3,TR 5:00PM-6:15PM,Syed Hashim Mahmood Ali
+FINN 372 LEC 1,Actuarial Sciences and Insurance,16W,3,TR 12:30PM-1:45PM,Nauman Afzal Cheema
+FINN 373 LEC 1,Fundamentals of Actuarial Mathematics I,16W,3,TR 5:00PM-6:15PM,
+FINN 400 LEC 1,Applied Corporate Finance,16W,3,TR 2:00PM-3:15PM,Saad Azmat
+FINN 403 LEC 1,Financial Modelling,16W,3,TR 11:00AM-12:15PM,Talha Farrukh
+FINN 441 LEC 1,Islamic Banking and Finance,16W,3,TR 3:30PM-4:45PM,Saad Azmat
+FINN 454 LEC 1,Portfolio Management,16W,3,MW 11:00AM-12:15PM,Syed Kumail Abbas Rizvi
+FINN 7201 LEC 1,Mathematical Modeling,16W,3,W 9:30AM-12:30PM,
+FINN 8001 SEM 1,Seminar in Islamic and Corporate Finance,16W,3,TH 10:30AM-1:30PM,Saad Azmat
+FINN 8401 SEM 1,"Seminar in Financial Intermediation and
+Regualatory Framework",16W,3,T 12:30PM-3:30PM,Bushra Naqvi
+FMG 5101 LEC 1,Financial Statement Analysis and Value Creation,MS1,3,FSSU 10:45AM-12:45PM,Syed Kumail Abbas Rizvi
+GSL 102 SEM 1,Chinese Language for Beginners (HSK Level 1),16W,4,TR 2:00PM-3:50PM,Hui Qi
+GSL 102 SEM 2,Chinese Language for Beginners (HSK Level 1),16W,4,TR 4:00PM-5:50PM,Sikandar Ahmed Shah
+GSL 202 LEC 1,Writing from the Trial,16W,4,MW 11:00AM-12:50PM,Sarah Humayun
+GSS 264 LEC 1,"Master Narratives: Minding Gender and Media
+Gaps",16W,4,TR 12:00PM-1:50PM,Maria Amir
+GSS 302 LEC 1,Feminist Theory,16W,4,TR 4:00PM-5:50PM,Maria Amir
+HIST 122 LEC 1,East Asian History,16W,4,TR 11:00AM-12:50PM,Hassan Haider Karrar
+HIST 124 LEC 1,The World Since 1453,16W,4,MW 4:00PM-5:50PM,Ameem Lutfi
+HIST 2203 LEC 1,Making of Modern Afghanistan,16W,4,MW 4:00PM-5:50PM,Jahanzeb Baloch
+HIST 2322 LEC 1,A Brief history of Evil,16W,4,TR 11:00AM-12:50PM,Muhammad Ali Raza
+HIST 2324 LEC 1,"Conceptual Understanding of Borders and
+Borderlands Studies",16W,4,MW 2:00PM-3:50PM,Ilyas Ahmad Chattha
+HIST 314 LEC 1,19th Century Sikh Wall Paintings in Punjab,16W,4,MW 2:00PM-3:50PM,Nadhra Shahbaz Naeem Khan
+HIST 3202 LEC 1,Civil War in the 20th Century,16W,4,TR 2:00PM-3:50PM,Ilyas Ahmad Chattha
+HIST 329 LEC 1,The Cold War,16W,4,TR 1:30PM-3:20PM,Hassan Haider Karrar
+HIST 3310 LEC 1,"The Atomic Age: Control, Confrontation, Disaster",16W,4,MW 12:00PM-1:50PM,Waqar Zaidi
+HIST 427 LEC 1,"Walking in the City: Mapping Everyday Life in
+Lahore",16W,4,WF 4:00PM-5:50PM,Ali Usman Qasmi
+HMI 6202 LEC 1,Healthcare Operations Management,MS1,3,FSSU 8:30AM-10:30AM,Hassan Rauf Chaudhry
 LANG 1202 LEC 1,Arabic for Quran,16W,4,WF 2:30PM-4:20PM,Hafiz Abdul Qadeer
-LANG 122 LEC 1,Introduction to Balochi Language,16W,4,MW 12:00PM-1:50PM,Jahanzeb Baloch
+LANG 122 LEC 1,Introduction to Balochi Language,16W,4,TR 10:00AM-11:50AM,Jahanzeb Baloch
 LANG 123 LEC 1,Introduction to Punjabi Language,16W,4,TR 4:00PM-5:50PM,Zahid Hussain
 LANG 124 LEC 1,Introduction to Arabic Language,16W,4,WF 4:30PM-6:20PM,Hafiz Abdul Qadeer
-LANG 127 LEC 1,Introduction to Persian Language,16W,4,TR 2:00PM-3:50PM,Muhammad Iftikhar
-LANG 128 LEC 1,Sindhi for Non-Sindhi Speakers,16W,4,MW 8:00AM-9:50AM,Ashok Kumar Khatri
+LANG 127 LEC 1,Introduction to Persian Language,16W,4,TR 12:00PM-1:50PM,Muhammad Iftikhar
+LANG 128 LEC 1,Sindhi for Non-Sindhi Speakers,16W,4,MW 4:00PM-5:50PM,Ashok Kumar Khatri
 LANG 129 LEC 1,Pashto for Non-Native Speakers,16W,4,MW 10:00AM-11:50AM,Imad .
 LANG 2203 LEC 1,Pashto: Intermediate Proficiency,16W,4,TR 10:00AM-11:50AM,Imad .
-LANG 2204 LEC 1,Art of Reading and Writing Punjabi,16W,4,TR 10:00AM-11:50AM,Zahid Hussain
-LANG 2205 LEC 1,Sindhi: Intermediate Proficiency,16W,4,TR 8:00AM-9:50AM,Ashok Kumar Khatri
-LANG 2206 LEC 1,Contemporary Persian for Social and Professiona,16W,4,TR 4:30PM-6:20PM,Muhammad Iftikhar
-LAW 101 LEC 1,Introduction to Legal Reasoning,16W,4,TR 3:00PM-4:50PM,Faiza .
-LAW 101 LEC 2,Introduction to Legal Reasoning,16W,4,TR 3:00PM-4:50PM,Madiha Talat
-LAW 101 LEC 3,Introduction to Legal Reasoning,16W,4,TR 4:00PM-5:50PM,Aisha Ahmad
-LAW 210 LEC 1,Concept of Law,16W,4,MW 11:00AM-12:50PM,Sarah Humayun
-LAW 210 LEC 2,Concept of Law,16W,4,TR 4:00PM-5:50PM,Asad Farooq
-LAW 223 LEC 1,Commercial Law,16W,4,TR 8:00AM-9:50AM,Faiza .
-LAW 223 LEC 2,Commercial Law,16W,4,TR 12:00PM-1:50PM,Sheharyar Sikander Hamid
-LAW 224 LEC 1,Property Law,16W,4,MW 3:00PM-4:50PM,Asad Farooq
-LAW 224 LEC 2,Property Law,16W,4,MW 3:00PM-4:50PM,
-LAW 225 LEC 1,Islamic Legal Reory,16W,4,TR 4:00PM-5:50PM,
-LAW 225 LEC 2,Islamic Legal Reory,16W,4,TR 12:00PM-1:50PM,
-LAW 232 LEC 1,Public Law,16W,4,MW 10:00AM-11:50AM,Marva Khan
-LAW 232 LEC 2,Public Law,16W,4,MW 11:00AM-12:50PM,Adnan Sattar
-LAW 320 LEC 1,"Equity, Specific Relief and Trusts",16W,4,TR 4:00PM-5:50PM,
-LAW 320 LEC 2,"Equity, Specific Relief and Trusts",16W,4,WF 4:00PM-5:50PM,
-LAW 322 LEC 1,Labor Law,16W,4,TR 8:00AM-9:50AM,Madiha Talat
-LAW 323 LEC 1,Tax Law,16W,4,TR 4:00PM-5:50PM,
-LAW 345 LEC 1,"Crime, Justice, and Society",16W,4,MW 12:00PM-1:50PM,Hiba Akbar
-LAW 3502 LEC 1,"Law, Gender, and Legal Culture",16W,4,TR 12:00PM-1:50PM,Ummaiya Zaidi
-LAW 353 LEC 1,Human Rights,16W,4,TR 10:00AM-11:50AM,Adnan Sattar
-LAW 357 LEC 1,Law and Re City: Governing an Urban Jungle,16W,4,TR 2:00PM-3:50PM,Aisha Ahmad
-LAW 3611 LEC 1,Family Law,16W,4,MW 2:00PM-3:50PM,
-LAW 3611 LEC 2,Family Law,16W,4,MW 4:00PM-5:50PM,
-LAW 3905 LEC 1,Law and International Transport,16W,4,MW 10:00AM-11:50AM,Syeda Zehra Zaidi
-LAW 4303B SEM 1,Equality and Anti-Discrimination II,16W,2,F 10:00AM-11:50AM,Sadaf Aziz
-LAW 4312 LEC 1,Expression Confined,16W,4,MW 2:00PM-3:50PM,Marva Khan
-LAW 470 LEC 1,Evidence,16W,4,TR 10:30AM-12:20PM,Muhammad Azeem
-LAW 470 LEC 2,Evidence,16W,4,TR 2:00PM-3:50PM,Muhammad Azeem
-LAW 472 LEC 1,Criminal Procedure,16W,4,MW 4:30PM-6:20PM,
-LAW 4903 LEC 1,Topics in Law and Economics,16W,4,MW 8:00AM-9:50AM,Uzair Kayani
-LAW 4904B SEM 1,Practicum in Environmental Law II,16W,2,F 2:00PM-3:50PM,Asad Farooq
-LAW 4913B SEM 1,Street Law,16W,2,F 4:00PM-5:50PM,Angbeen Atif Mirza
-LAW 4922 LEC 1,Human Rights Clinic I,16W,4,MW 10:00AM-11:50AM,Sadaf Aziz
-LAW 4924 LEC 1,Prison Paralegal Clinic,16W,4,TR 3:00PM-4:50PM,Angbeen Atif Mirza
-MAR 100 LEC 1,Pre-calculus,16W,3,MW 2:00PM-3:15PM,
-MAR 101 LEC 1,Calculus I,16W,3,MW 2:00PM-3:15PM,Imran Naeem
-MAR 101 LEC 2,Calculus I,16W,3,TR 9:30AM-10:45AM,Aftab Ali
-MAR 102 LEC 1,Calculus II,16W,3,TR 8:00AM-9:15AM,Masood Hussain Shah
-MAR 120 LEC 1,Linear Algebra wiR Differential Equations,16W,3,TR 8:00AM-9:15AM,Ali Ashher Zaidi
-MAR 120 LEC 2,Linear Algebra wiR Differential Equations,16W,3,TR 4:30PM-5:45PM,Asim Naseem
-MAR 120 LEC 3,Linear Algebra wiR Differential Equations,16W,3,TR 9:30AM-10:45AM,Waqas Ali Azhar
-MAR 120 LEC 4,Linear Algebra wiR Differential Equations,16W,3,MW 4:30PM-5:45PM,Asim Naseem
-MAR 120H LEC 1,Linear Algebra I (Honours),16W,3,TR 5:00PM-6:15PM,Imran Anwar
-MAR 205 LEC 1,Introduction to Analysis I,16W,3,TR 11:30AM-12:45PM,Waqas Ali Azhar
-MAR 230 LEC 1,Probability,16W,3,MW 5:00PM-6:15PM,Reza Abdolmaleki
-MAR 230 LEC 2,Probability,16W,3,TR 3:30PM-4:45PM,Reza Abdolmaleki
-MAR 230 LEC 3,Probability,16W,3,MW 4:00PM-5:15PM,Ijaz Haider Naqvi
-MAR 3010 LEC 1,Advanced Calculus,16W,3,MW 4:00PM-5:15PM,Waqas Ali Azhar
-MAR 310 LEC 1,Ordinary Differential Equations,16W,3,TR 10:00AM-11:15AM,Ali Ashher Zaidi
-MAR 320 LEC 1,Algebra I,16W,3,MW 10:00AM-11:15AM,Shaheen Nazir
-MAR 4012 LEC 1,Complex Analysis,16W,3,MW 2:00PM-3:15PM,Ultan Sial
-MAR 407 LEC 1,General Topology,16W,3,MW 10:00AM-11:15AM,Haniya Azam
-MAR 412 LEC 1,Partial Differential Equations,16W,3,TR 2:00PM-3:15PM,Ali Ashher Zaidi
-MAR 445 LEC 1,Operations Research II,16W,3,MW 8:00AM-9:15AM,Kamran Rashid
-MAR 449 LEC 1,Quantitative Finance,16W,4,MW 12:00PM-1:30PM,Adnan Khan
-MAR 449 LAB 1,Quantitative Finance,16W,4,F 9:00AM-9:50AM,Adnan Khan
-MECO 121 LEC 1,Principles of Macroeconomics,16W,3,TR 12:30PM-1:45PM,Sameen Zafar
-MECO 121 LEC 2,Principles of Macroeconomics,16W,3,TR 8:00AM-9:15AM,Ummad Mazhar
-MECO 121 LEC 3,Principles of Macroeconomics,16W,3,TR 9:30AM-10:45AM,Ummad Mazhar
-MECO 121 LEC 4,Principles of Macroeconomics,16W,3,TR 2:00PM-3:15PM,Ummad Mazhar
-MECO 121 LEC 5,Principles of Macroeconomics,16W,3,TR 11:00AM-12:15PM,Syed Zahid Ali
-MECO 121 LEC 6,Principles of Macroeconomics,16W,3,TR 12:30PM-1:45PM,Syed Zahid Ali
-MGMT 142 LEC 1,Principles of Management,16W,3,MW 9:30AM-10:45AM,Fareed Ud Din Farooq Qureshi
-MGMT 142 LEC 2,Principles of Management,16W,3,TR 2:00PM-3:15PM,
-MGMT 212 LEC 1,Business Communication,16W,3,TR 12:30PM-1:45PM,Aneka Fahima Ufi
-MGMT 212 LEC 2,Business Communication,16W,3,TR 3:30PM-4:45PM,Aneka Fahima Ufi
-MGMT 212 LEC 3,Business Communication,16W,3,TR 11:00AM-12:15PM,Shezeen Salim Hemani
-MGMT 212 LEC 4,Business Communication,16W,3,MW 12:30PM-1:45PM,Mehr Farhan Cheema
-MGMT 212 LEC 5,Business Communication,16W,3,MW 9:30AM-10:45AM,
-MGMT 242 LEC 1,Business ERics and Corporate Social Responsibil i,16W,3,TR 3:30PM-4:45PM,Asif Iftikhar
-MGMT 242 LEC 2,Business ERics and Corporate Social Responsibil i,16W,3,TR 5:00PM-6:15PM,Asif Iftikhar
-MGMT 243 LEC 1,Public Administration,16W,3,MW 11:00AM-12:15PM,Mohsin Bashir
-MGMT 244 LEC 1,Reforming Re Public Sector,16W,3,TR 11:00AM-12:15PM,Muhammad Ajmal
-MGMT 247 LEC 1,Public Financial Management,16W,3,MW 11:00AM-12:15PM,Sajid Siddique
-MGMT 252 LEC 1,Logic and Critical Rinking,16W,3,TR 5:00PM-6:15PM,
-MGMT 252 LEC 2,Logic and Critical Rinking,16W,3,MW 2:00PM-3:15PM,Razi Allah Lone
-MGMT 252 LEC 3,Logic and Critical Rinking,16W,3,MW 3:30PM-4:45PM,Razi Allah Lone
-MGMT 252 LEC 4,Logic and Critical Rinking,16W,3,TR 2:00PM-3:15PM,Razi Allah Lone
-MGMT 252 LEC 5,Logic and Critical Rinking,16W,3,TR 3:30PM-4:45PM,Razi Allah Lone
-MGMT 260 LEC 1,Business Law,16W,3,MW 9:30AM-10:45AM,Ali Ultan
-MGMT 260 LEC 2,Business Law,16W,3,MW 11:00AM-12:15PM,Ali Ultan
-MGMT 261 LEC 1,Introduction to Policy Analysis,16W,3,MW 8:00AM-9:15AM,
+LANG 2204 LEC 1,The Art of Reading and Writing Punjabi,16W,4,MW 4:00PM-5:50PM,Zahid Hussain
+LANG 2205 LEC 1,Sindhi: Intermediate Proficiency,16W,4,TR 4:00PM-5:50PM,Ashok Kumar Khatri
+LANG 2206 LEC 1,"Contemporary Persian for Social and Professional
+Use",16W,4,TR 2:30PM-4:20PM,Muhammad Iftikhar
+LANG 2207 LEC 1,Enhancing Urdu Reading and Writing Skills,16W,4,TR 2:00PM-3:50PM,
+LAW 102 LEC 1,Introduction to Pakistan Legal System,16W,4,TR 4:00PM-5:50PM,Summaiya Zaidi
+LAW 102 LEC 2,Introduction to Pakistan Legal System,16W,4,MW 2:00PM-3:50PM,Marva Khan
+LAW 102 LEC 3,Introduction to Pakistan Legal System,16W,4,MW 4:00PM-5:50PM,
+LAW 220 LEC 1,Contracts,16W,4,TR 1:00PM-2:50PM,Sheharyar Sikander Hamid
+LAW 220 LEC 2,Contracts,16W,4,MW 11:30AM-1:20PM,Syeda Zehra Zaidi
+LAW 222 LEC 1,Torts,16W,4,MW 2:00PM-3:50PM,Syeda Zehra Zaidi
+LAW 222 LEC 2,Torts,16W,4,MW 3:30PM-5:20PM,Ahmed Hasan Khan
+LAW 240 LEC 1,Criminal Law,16W,4,MW 10:00AM-11:50AM,Angbeen Atif Mirza
+LAW 240 LEC 2,Criminal Law,16W,4,TR 4:30PM-6:20PM,Hammad Saeed
+LAW 280 LEC 1,"Legal Practice I: Legal Writing and Research
+Methods",16W,4,TR 2:00PM-3:50PM,Adnan Sattar
+LAW 280 LEC 2,"Legal Practice I: Legal Writing and Research
+Methods",16W,4,TR 4:00PM-5:50PM,Maria Farooq
+LAW 303 LEC 1,Advanced Writing from the Trial,16W,4,TR 12:00PM-1:50PM,Sarah Humayun
+LAW 306 LEC 1,"International Relations and International Law:
+Chinese Perspectives",16W,4,MW 12:00PM-1:50PM,Syed Hassan Raza
+LAW 3203 LEC 1,"Introduction to Legal Aspects of Merger and
+Acquisition law in Pakistan",16W,4,MW 8:00AM-9:50AM,Ali Awais
+LAW 338 LEC 1,"Constitutional and Legal System of the United
+Kingdom",16W,4,WF 12:00PM-1:50PM,
+LAW 352 LEC 1,Public International Law,16W,4,MW 10:00AM-11:50AM,Sikandar Ahmed Shah
+LAW 352 LEC 2,Public International Law,16W,4,MW 2:00PM-3:50PM,Madiha Talat
+LAW 353 LEC 1,Human Rights,16W,4,TR 4:00PM-5:50PM,Adnan Sattar
+LAW 426 LEC 1,Marxist Theories of Law,16W,4,TR 12:00PM-1:50PM,Aisha Ahmad
+LAW 427 LEC 1,"Crime, Law and Finance: Wonders of White Color
+Crime in Pakistan!",16W,4,MW 12:00PM-1:50PM,Faiza .
+LAW 4304 LEC 1,Parliamentary Power Play,16W,4,MW 10:00AM-11:50AM,Marva Khan
+LAW 4305 SEM 1,The Jurisprudence of Extractivism,16W,4,TR 4:00PM-5:50PM,Asad Farooq
+LAW 4306 LEC 1,"Judicial Review Of Public Actions: Writ Jurisdiction
+In Pakistan",16W,4,WF 8:00AM-9:50AM,Zaki Rahman
+LAW 4505 SEM 1,"Business and Human Rights: A Critical Legal
+Perspective from the South",16W,4,TR 12:00PM-1:50PM,Muhammad Azeem
+LAW 471 LEC 1,Civil Procedure,16W,4,WF 3:00PM-4:50PM,Muhammad Umar Ali
+LAW 471 LEC 2,Civil Procedure,16W,4,WF 4:00PM-5:50PM,Fahad Malik
+LAW 472 LEC 1,Criminal Procedure,16W,4,WF 4:00PM-5:50PM,Haider Rasul Mirza
+LAW 4812 LEC 1,Legal Practice II: Legal Instruments,16W,4,TR 4:00PM-5:50PM,Muhammad Umar Ali
+LAW 4812 LEC 2,Legal Practice II: Legal Instruments,16W,4,TR 2:00PM-3:50PM,Summaiya Zaidi
+LAW 4812 LEC 3,Legal Practice II: Legal Instruments,16W,4,TR 4:00PM-5:50PM,
+LAW 486 LEC 1,Advanced Legal Research,16W,4,TR 8:00AM-9:50AM,
+LAW 4924 LEC 1,Prison Paralegal Clinic,16W,4,TR 10:00AM-11:50AM,Angbeen Atif Mirza
+MATH 100 LEC 1,Pre-Calculus,16W,3,MW 12:30PM-1:45PM,
+MATH 100 LEC 2,Pre-Calculus,16W,3,TR 8:00AM-9:15AM,
+MATH 101 LEC 1,Calculus I,16W,3,MW 12:30PM-1:45PM,Haniya Azam
+MATH 101 LEC 2,Calculus I,16W,3,TR 8:00AM-9:15AM,
+MATH 101 LEC 3,Calculus I,16W,3,MW 2:00PM-3:15PM,
+MATH 101 LEC 4,Calculus I,16W,3,TR 10:30AM-11:45AM,
+MATH 101 LEC 5,Calculus I,16W,3,MW 5:00PM-6:15PM,
+MATH 101 LEC 6,Calculus I,16W,3,MW 3:30PM-4:45PM,
+MATH 101H LEC 1,Calculus I (Honours),16W,3,TR 10:30AM-11:45AM,Waqas Ali Azhar
+MATH 102 LEC 1,Calculus II,16W,3,MW 4:30PM-5:45PM,
+MATH 102 LEC 2,Calculus II,16W,3,TR 11:30AM-12:45PM,Masood Hussain Shah
+MATH 120 LEC 1,Linear Algebra with Differential Equations,16W,3,MW 5:00PM-6:15PM,Imran Naeem
+MATH 120 LEC 2,Linear Algebra with Differential Equations,16W,3,TR 8:00AM-9:15AM,
+MATH 204 LEC 1,Introduction to Formal Mathematics,16W,3,MW 1:30PM-2:45PM,Shaheen Nazir
+MATH 210 LEC 1,Introduction to Differential Equations,16W,3,TR 5:00PM-6:15PM,Ali Ashher Zaidi
+MATH 222 LEC 1,Linear Algebra II,16W,3,TR 12:30PM-1:45PM,Haniya Azam
+MATH 230 LEC 1,Probability,16W,3,MW 11:30AM-12:45PM,Reza Abdolmaleki
+MATH 300 LEC 1,Complex Variables,16W,3,MW 5:00PM-6:15PM,Shaheen Nazir
+MATH 309 LEC 1,Introduction to Analysis II,16W,3,MW 3:00PM-4:15PM,Waqas Ali Azhar
+MATH 341 LEC 1,Operations Research I,16W,3,MW 8:00AM-9:15AM,Kamran Rashid
+MATH 414 LEC 1,Symmetry Methods for Differential Equations,16W,3,MW 11:30AM-12:45PM,Imran Naeem
+MATH 4418 LEC 1,Numerical Linear Algebra,16W,3,MW 1:00PM-2:15PM,Reza Abdolmaleki
+MATH 521 LEC 1,Advanced Algebra,16W,3,TR 10:00AM-11:15AM,Imran Anwar
+MATH 5300 LEC 1,Probability and Statistical Analysis,16W,3,TR 1:00PM-2:15PM,Sultan Sial
+MECO 111 LEC 1,Principles of Microeconomics,16W,3,MW 2:00PM-3:15PM,Sameen Zafar
+MECO 111 LEC 2,Principles of Microeconomics,16W,3,MW 3:30PM-4:45PM,Sameen Zafar
+MECO 111 LEC 3,Principles of Microeconomics,16W,3,TR 9:30AM-10:45AM,Ummad Mazhar
+MECO 111 LEC 4,Principles of Microeconomics,16W,3,TR 11:00AM-12:15PM,Ummad Mazhar
+MECO 111 LEC 5,Principles of Microeconomics,16W,3,TR 2:00PM-3:15PM,Rabia Khan
+MECO 111 LEC 6,Principles of Microeconomics,16W,3,MW 3:30PM-4:45PM,
+MECO 111 LEC 7,Principles of Microeconomics,16W,3,MW 5:00PM-6:15PM,
+MECO 2201 LEC 1,Introduction to Business Economics,SDSB-Foundation,1.5,MTHFSSU 4:30PM-6:40PM,Ummad Mazhar
+MECO 2201 LEC 2,Introduction to Business Economics,SDSB-Foundation,1.5,MTHFSSU 8:30AM-10:40AM,
+MECO 5201 LEC 1,Business Economics,MS1,1.5,FSSU 8:30AM-10:30AM,Ummad Mazhar
+MECO 5201 LEC 2,Business Economics,MS1,1.5,FSSU 4:15PM-6:15PM,Misbah Tanveer Chaudhry
+MECO 5201 LEC 3,Business Economics,MS1,1.5,FSSU 10:45AM-12:45PM,Misbah Tanveer Chaudhry
+MECO 7301 LEC 1,Economic Theory,16W,3,T 3:00PM-6:00PM,Misbah Tanveer Chaudhry
+MGMT 142 LEC 1,Principles of Management,16W,3,TR 2:00PM-3:15PM,Mujeeb Rashid
+MGMT 142 LEC 2,Principles of Management,16W,3,TR 9:30AM-10:45AM,Fareed Ud Din Farooq Qureshi
+MGMT 142 LEC 3,Principles of Management,16W,3,TR 11:00AM-12:15PM,Fareed Ud Din Farooq Qureshi
+MGMT 142 LEC 4,Principles of Management,16W,3,TR 9:30AM-10:45AM,Afaf Khalid
+MGMT 142 LEC 5,Principles of Management,16W,3,MW 11:00AM-12:15PM,Mohsin Bashir
+MGMT 142 LEC 6,Principles of Management,16W,3,MW 2:00PM-3:15PM,
+MGMT 142 LEC 7,Principles of Management,16W,3,TR 2:00PM-3:15PM,
+MGMT 212 LEC 1,Business Communication,16W,3,TR 11:00AM-12:15PM,Aneka Fahima Sufi
+MGMT 212 LEC 2,Business Communication,16W,3,TR 2:00PM-3:15PM,Aneka Fahima Sufi
+MGMT 212 LEC 3,Business Communication,16W,3,TR 9:30AM-10:45AM,Mehr Farhan Cheema
+MGMT 212 LEC 4,Business Communication,16W,3,MW 11:00AM-12:15PM,Shezeen Salim Hemani
+MGMT 212 LEC 5,Business Communication,16W,3,MW 12:30PM-1:45PM,Shezeen Salim Hemani
+MGMT 242 LEC 1,Business Ethics and Corporate Social Responsibility,16W,3,TR 11:00AM-12:15PM,Razi Allah Lone
+MGMT 242 LEC 2,Business Ethics and Corporate Social Responsibility,16W,3,TR 2:00PM-3:15PM,Razi Allah Lone
+MGMT 242 LEC 3,Business Ethics and Corporate Social Responsibility,16W,3,TR 3:30PM-4:45PM,Razi Allah Lone
+MGMT 243 LEC 1,Public Administration,16W,3,TR 11:00AM-12:15PM,Mohsin Bashir
+MGMT 247 LEC 1,Public Financial Management,16W,3,TR 3:30PM-4:45PM,Sajid Siddique
+MGMT 252 LEC 1,Logic and Critical Thinking,16W,3,MW 2:00PM-3:15PM,Muhammad Shabbir Ahsen
+MGMT 260 LEC 1,Business Law,16W,3,MW 8:00AM-9:15AM,Ali Sultan
+MGMT 260 LEC 2,Business Law,16W,3,MW 9:30AM-10:45AM,Ali Sultan
+MGMT 260 LEC 3,Business Law,16W,3,MW 11:00AM-12:15PM,Ali Sultan
+MGMT 2601 LEC 1,Introduction to Management,SDSB-Foundation,1.5,MTHFSSU 11:00AM-1:10PM,Faiza Ali
+MGMT 2601 LEC 2,Introduction to Management,SDSB-Foundation,1.5,MTHFSSU 2:00PM-4:10PM,
+MGMT 261 LEC 1,Introduction to Policy Analysis,16W,3,TR 9:30AM-10:45AM,Ghazal Mir Zulfiqar
+MGMT 262 LEC 1,Governance System of Pakistan,16W,3,MW 5:00PM-6:15PM,
+MGMT 263 LEC 1,Contemporary Social Policy Issues in Pakistan,16W,3,TR 12:30PM-1:45PM,Muhammad Ahsan Rana
 MGMT 283 LEC 1,Fundamentals of Hospitality Management,16W,3,MW 12:30PM-1:45PM,Shireen Waheed
-MGMT 321 LEC 1,International Business,16W,3,TR 11:00AM-12:15PM,Salma Zaman
-MGMT 346 LEC 1,Sports Management,16W,3,TR 8:00AM-9:15AM,
-MGMT 365 LEC 1,Urban Planning and Management,16W,3,TR 3:30PM-4:45PM,
-MGMT 373 LEC 1,Personal Effectiveness,16W,3,TR 2:00PM-3:15PM,Adnan Zahid
-MGMT 400 LEC 1,Strategic Business Management,16W,3,TR 3:30PM-4:45PM,Salma Zaman
-MGMT 400 LEC 2,Strategic Business Management,16W,3,MW 2:00PM-3:15PM,Adnan Zahid
-MGMT 462 LEC 1,Modern Rought in Social Policy,16W,3,TR 2:00PM-3:15PM,Muhammad Ahsan Rana
-MGMT 481 LEC 1,Entrepreneurship,16W,3,MW 5:00PM-6:15PM,Sahar Arif
-MKTG 201 LEC 1,Principles of Marketing,16W,3,MW 11:00AM-12:15PM,Muhammad Asim
-MKTG 201 LEC 2,Principles of Marketing,16W,3,TR 11:00AM-12:15PM,Aaminah Zaman Malik
-MKTG 201 LEC 3,Principles of Marketing,16W,3,TR 12:30PM-1:45PM,Aaminah Zaman Malik
-MKTG 201 LEC 4,Principles of Marketing,16W,3,TR 2:00PM-3:15PM,Khudejah Iqbal Ali
-MKTG 322 LEC 1,Sales Force Management,16W,3,MW 11:00AM-12:15PM,Muhammad Luqman Awan
-MKTG 322 LEC 2,Sales Force Management,16W,3,MW 12:30PM-1:45PM,Muhammad Luqman Awan
-MKTG 323 LEC 1,Channel Management,16W,3,MW 2:00PM-3:15PM,Muhammad Luqman Awan
-MKTG 324 LEC 1,Integrated Marketing Communications,16W,3,MW 12:30PM-1:45PM,Aman Abid
-MKTG 332 LEC 1,ConUmer Behaviour,16W,3,MW 9:30AM-10:45AM,Saima Mujtaba Rana
-MKTG 343 LEC 1,Marketing Models,16W,3,MW 3:30PM-4:45PM,Muhammad Asim
-MKTG 344 LEC 1,Data Driven Marketing,16W,3,TR 3:30PM-4:45PM,Khudejah Iqbal Ali
-MKTG 392 LEC 1,Brand Management,16W,3,TR 11:00AM-12:15PM,Moeen Naseer Butt
-MKTG 392 LEC 2,Brand Management,16W,3,TR 12:30PM-1:45PM,Moeen Naseer Butt
-ORSC 201 LEC 1,Organizational Behaviour,16W,3,TR 3:30PM-4:45PM,Fariha Zahid
-ORSC 201 LEC 2,Organizational Behaviour,16W,3,MW 2:00PM-3:15PM,
-ORSC 201 LEC 3,Organizational Behaviour,16W,3,TR 8:00AM-9:15AM,Faiza Ali
-ORSC 341 LEC 1,Human Resource Management,16W,3,TR 9:30AM-10:45AM,Faiza Ali
-ORSC 8101 SEM 1,Seminar in Organizational Behavior,16W,3,F 9:00AM-12:00PM,Faiza Ali
-ORSC 8201 SEM 1,Seminar in Organization Reory,16W,3,W 11:00AM-2:00PM,Ashar Saleem
-PHIL 102 LEC 1,Philosophy Gym,16W,4,TR 10:00AM-11:50AM,Amber Riaz
-PHIL 102 LEC 2,Philosophy Gym,16W,4,TR 2:00PM-3:50PM,Amber Riaz
-PHIL 132 LEC 1,Introduction to Logic,16W,4,TR 9:00AM-10:50AM,Ali Nosherwan Hamed
-PHIL 211 LEC 1,Foundations of Liberal Arts,16W,4,TR 8:00AM-9:50AM,Basit Bilal Koshul
-PHIL 335 LEC 1,Topics in Philosophy of Mind,16W,4,TR 12:30PM-2:20PM,Syed Sikander Gilani
-PHIL 432 LEC 1,Mohammed Iqbal and Charles Peirce,16W,4,TR 2:00PM-3:50PM,Basit Bilal Koshul
-PHY 104 LEC 1,Modern Physics,16W,4,TR 2:00PM-3:50PM,Muhammad Sabieh Anwar
-PHY 104 LEC 2,Modern Physics,16W,4,MW 8:00AM-9:50AM,Tajdar Mufti
-PHY 223 LEC 1,MaRematical MeRods in Physics and Engineerin,16W,3,MW 2:00PM-3:15PM,Tajdar Mufti
-PHY 300 LAB 1,Experimental Physics Lab II,16W,3,F 8:00AM-4:50PM,Muhammad Hamza Humayun
-PHY 304 LEC 1,PHY 505/SCI 30 Computational Physics,16W,3,TR 12:30PM-1:45PM,Adam Zaman Chaudhry
-PHY 305 LEC 1,Electromagnetic Fields and Waves,16W,3,MW 3:30PM-4:45PM,Adam Zaman Chaudhry
-PHY 312 LEC 1,Quantum Mechanics II,16W,3,TR 5:00PM-6:15PM,Rizwan Khalid
-PHY 331 LEC 1,"Atomic, Molecular and Laser Physics",16W,3,MW 12:30PM-1:45PM,
-PHY 332 LEC 1,Condensed Matter Physics,16W,3,MW 3:30PM-4:45PM,Ammar Ahmed Khan
-PHY 417 LEC 1,9Introduction to Quantum Information Science an,16W,3,TR 5:00PM-6:15PM,Muhammad Faryad
-PHY 442 LEC 1,YGeneral Relativity,16W,3,TR 10:00AM-11:15AM,Syed Moeez Hassan
-PHY 539 LEC 1,Introduction to Quantum Field Reory,16W,3,MW 5:00PM-6:15PM,Rizwan Khalid
-POL 100 LEC 1,Introduction to Political Science,16W,4,MW 8:00AM-9:50AM,RaUl Bakhsh Rais
-POL 100 LEC 2,Introduction to Political Science,16W,4,TR 10:00AM-11:50AM,Rida Ashfaq
-POL 100 LEC 3,Introduction to Political Science,16W,4,TR 2:00PM-3:50PM,Rida Ashfaq
-POL 203 LEC 1,Introduction to Political Reory,16W,4,MW 4:00PM-5:50PM,Taimur Rahman
-POL 203 LEC 2,Introduction to Political Reory,16W,4,TR 4:00PM-5:50PM,
-POL 239 LEC 1,Politics of China,16W,4,MW 12:00PM-1:50PM,Ahmad Yunus Samad
-POL 247 LEC 1,YouR Political Activism,16W,4,MW 2:00PM-3:50PM,Farhat Haq
-POL 320 LEC 1,Comparative Politics,16W,4,TR 12:00PM-1:50PM,Hafiz Muhammad Salman Rafi
-POL 322 LEC 1,Politics of India,16W,4,MW 2:00PM-3:50PM,Mohammad Waseem
-POL 3302 LEC 1,Reories of IR,16W,4,TR 4:00PM-5:50PM,Syed Rashid Munir
-POL 331 LEC 1,Pakistan's Foreign Relations,16W,4,TR 10:00AM-11:50AM,Shahid Malik
-POL 364 LEC 1,Quantitative Research MeRod,16W,4,TR 12:00PM-1:50PM,Syed Rashid Munir
-POL 413 LEC 1,Media and Politics,16W,4,TR 4:00PM-5:50PM,Hafiz Muhammad Salman Rafi
-POL 443 LEC 1,Political Entrepreneurs,16W,4,MW 10:00AM-11:50AM,Farhat Haq
-PSY 100 LEC 1,Introduction to psychology and human behavior,16W,4,MW 12:00PM-1:50PM,Natasha Sohail Barlas
-PSY 100 LEC 2,Introduction to psychology and human behavior,16W,4,TR 4:00PM-5:50PM,Yasser Hashmi
-PSY 100 LEC 3,Introduction to psychology and human behavior,16W,4,TR 1:30PM-3:20PM,Imran Rashid
-PSY 201 LEC 1,Cognition,16W,4,MW 12:30PM-2:20PM,Yasser Hashmi
-PSY 220 LEC 1,PsychopaRology,16W,4,MW 2:00PM-3:50PM,Imran Rashid
-PSY 321 LEC 1,Life Span Development,16W,4,MW 8:00AM-9:50AM,Natasha Sohail Barlas
-REL 210 LEC 1,"Text, Performance and Religion",16W,4,MW 12:00PM-1:50PM,Mian Muhammad Nauman Faizi
-REL 224 LEC 1,Introduction to Quranic and Modern Standard Ar,16W,4,MW 4:00PM-5:50PM,Asif Iftikhar
-REL 336 LEC 1,Idea of God in Re Study of Religion,16W,4,MW 10:00AM-11:50AM,Irfan Moeen Khan
-REL 412 LEC 1,"Religion, ERics and Pragmatism",16W,4,TR 12:00PM-1:50PM,Mian Muhammad Nauman Faizi
-SCI 205 LEC 1,Modeling Re Environment,16W,3,MW 9:30AM-10:45AM,Talha Manzoor
-SCRM 6201 LEC 1,Logistics Management,MS2,3,SU 4:15PM-6:15PM,"Tabjeel Ashraf
-Sheikh Attique Ur Rehman"
-SCRM 6202 LEC 1,Upply Management,MS2,3,SU 10:45AM-12:45PM,"Muhammad Shakeel Sadiq Jajja
-Raja Usman Khalid"
-SCRM 6301 LEC 1,Retailing Strategy and Operations,MS2,3,SU 8:30AM-10:30AM,Hassan Rauf Chaudhry
-SOC 100 LEC 1,Introduction to Sociology,16W,4,TR 12:00PM-1:50PM,Nida Yasmeen Kirmani
-SOC 100 LEC 2,Introduction to Sociology,16W,4,MW 4:30PM-6:20PM,Umair Javed
-SOC 223 LEC 1,Sociology of Education,16W,4,TR 2:00PM-3:50PM,Tania Saeed
-SOC 235 LEC 1,Sociology of Religion,16W,4,MW 10:00AM-11:50AM,Amen Jaffer
-SOC 243 LEC 1,Politics of Class and Markets,16W,4,MW 12:00PM-1:50PM,Umair Javed
-SOC 342 LEC 1,"Culture, Power and Society",16W,4,MW 12:00PM-1:50PM,Amen Jaffer
-SOC 364 LEC 1,Masculinities,16W,4,TR 4:00PM-5:50PM,Nida Yasmeen Kirmani
-SS 100 LEC 1,Writing and Communication,16W,4,MW 2:00PM-3:50PM,Aneeqa Mazhar Wattoo
-SS 100 LEC 2,Writing and Communication,16W,4,MW 3:30PM-5:20PM,Mahrukh Baig
-SS 100 LEC 3,Writing and Communication,16W,4,TR 4:00PM-5:50PM,Aamna Khalid
-SS 100 LEC 4,Writing and Communication,16W,4,MW 8:00AM-9:50AM,Hajra Ikram Butt
-SS 100 LEC 5,Writing and Communication,16W,4,TR 10:00AM-11:50AM,Faiza Asghar Dar
-SS 100 LEC 6,Writing and Communication,16W,4,TR 2:00PM-3:50PM,Farhana Shahzad
-SS 100 LEC 7,Writing and Communication,16W,4,MW 10:00AM-11:50AM,Hajra Ikram Butt
-SS 100 LEC 8,Writing and Communication,16W,4,TR 4:00PM-5:50PM,Furrha Ahsan
-SS 100 LEC 9,Writing and Communication,16W,4,MW 12:00PM-1:50PM,Afsheen Salahuddin
-SS 100 LEC 10,Writing and Communication,16W,4,TR 11:30AM-1:20PM,Syed Javed Nazir
-SS 100 LEC 11,Writing and Communication,16W,4,MW 4:00PM-5:50PM,Furrha Ahsan
-SS 100 LEC 12,Writing and Communication,16W,4,MW 12:00PM-1:50PM,Syeda Habibah Hussain Rizvi
-SS 100 LEC 13,Writing and Communication,16W,4,MW 10:00AM-11:50AM,Mahrukh Baig
-SS 100 LEC 14,Writing and Communication,16W,4,TR 12:00PM-1:50PM,Faiza Asghar Dar
-SS 100 LEC 15,Writing and Communication,16W,4,MW 4:00PM-5:50PM,Muhammad Hashim Kaleem Bhatti
-SS 100 LEC 16,Writing and Communication,16W,4,TR 8:00AM-9:50AM,Syeda Habibah Hussain Rizvi
-SS 100 LEC 17,Writing and Communication,16W,4,TR 11:30AM-1:20PM,Zainab Sattar
-SS 100 LEC 18,Writing and Communication,16W,4,TR 2:00PM-3:50PM,Aneeqa Mazhar Wattoo
-SS 100 LEC 19,Writing and Communication,16W,4,MW 2:00PM-3:50PM,Huda Imtiaz
-SS 100 LEC 20,Writing and Communication,16W,4,MW 11:00AM-12:50PM,Huda Imtiaz
-SS 100 LEC 21,Writing and Communication,16W,4,TR 2:00PM-3:50PM,Zainab Sattar
-SS 100 LEC 22,Writing and Communication,16W,4,TR 4:00PM-5:50PM,Muhammad Hashim Kaleem Bhatti
-SS 100 LEC 23,Writing and Communication,16W,4,MW 1:30PM-3:20PM,Farhana Shahzad
-SS 101 LEC 1,Islamic Studies,16W,2,F 10:30AM-12:20PM,
-SS 101 LEC 2,Islamic Studies,16W,2,F 2:00PM-3:50PM,
-SS 101 LEC 3,Islamic Studies,16W,2,F 8:00AM-9:50AM,
-SS 101 LEC 4,Islamic Studies,16W,2,F 11:30AM-1:20PM,
-SS 101 LEC 5,Islamic Studies,16W,2,F 4:00PM-5:50PM,
-SS 102 LEC 1,Pakistan Studies: Culture and Heritage,16W,2,F 8:00AM-9:50AM,
-SS 102 LEC 2,Pakistan Studies: Culture and Heritage,16W,2,F 4:00PM-5:50PM,
-SS 102 LEC 3,Pakistan Studies: Culture and Heritage,16W,2,M 4:00PM-5:50PM,
-SS 102 LEC 4,Pakistan Studies: Culture and Heritage,16W,2,F 11:30AM-1:20PM,
-SS 102 LEC 5,Pakistan Studies: Culture and Heritage,16W,2,F 10:00AM-11:50AM,
-SS 102 LEC 6,Pakistan Studies: Culture and Heritage,16W,2,F 2:00PM-3:50PM,
-SS 102 LEC 7,Pakistan Studies: Culture and Heritage,16W,2,T 12:00PM-1:50PM,
-SS 102 LEC 8,Pakistan Studies: Culture and Heritage,16W,2,R 12:00PM-1:50PM,
-SS 187 LEC 1,Applied Statistics for Humanities,16W,4,TR 1:00PM-2:50PM,Muhammad Saad Imtiaz
-SS 187 LEC 2,Applied Statistics for Humanities,16W,4,TR 12:00PM-1:50PM,
-SS 233 LEC 1,Media Writing,16W,4,MW 8:00AM-9:50AM,Syed Javed Nazir
-SS 3302 LEC 1,Professional Communication Skills,16W,4,TR 2:00PM-3:50PM,Aamna Khalid
-SS 388 LEC 1,ReRinking Data: Cause and Effect in Re Humani,t16W,4,TR 10:00AM-11:50AM,Muhammad Saad Imtiaz
+MGMT 343 LEC 1,E-Government,16W,3,TR 9:30AM-10:45AM,Shafay Shamail
+MGMT 348 LEC 1,Internet Governance and Technology Policy,16W,3,MW 5:00PM-6:15PM,
+MGMT 386 LEC 1,"Business, Government, and Society",16W,3,TR 2:00PM-3:15PM,Ghazal Mir Zulfiqar
+MGMT 400 LEC 1,Strategic Business Management,16W,3,TR 3:30PM-4:45PM,Adnan Zahid
+MGMT 400 LEC 2,Strategic Business Management,16W,3,MW 3:30PM-4:45PM,Adnan Zahid
+MGMT 400 LEC 3,Strategic Business Management,16W,3,TR 9:30AM-10:45AM,Salma Zaman
+MGMT 481 LEC 1,Entrepreneurship,16W,3,TR 5:00PM-6:15PM,Sahar Arif
+MGMT 7501 LEC 1,Philosophy of Administrative Sciences,10-WKS,2,W 2:30PM-5:30PM,Anjum Fayyaz
+MGMT 8102 LEC 1,Seminar in Strategic Management,16W,3,W 9:00AM-12:00PM,Salma Zaman
+MKTG 201 LEC 1,Principles of Marketing,16W,3,TR 12:30PM-1:45PM,Muhammad Asim
+MKTG 201 LEC 2,Principles of Marketing,16W,3,TR 9:30AM-10:45AM,Mahira Ilyas
+MKTG 201 LEC 3,Principles of Marketing,16W,3,TR 11:00AM-12:15PM,Mahira Ilyas
+MKTG 201 LEC 4,Principles of Marketing,16W,3,MW 3:30PM-4:45PM,Khudejah Iqbal Ali
+MKTG 2401 LEC 1,Introduction to Marketing,SDSB-Foundation,1.5,MTHFSSU 8:30AM-10:40AM,Saima Mujtaba Rana
+MKTG 2401 LEC 2,Introduction to Marketing,SDSB-Foundation,1.5,MTHFSSU 4:30PM-6:40PM,
+MKTG 302 LEC 1,Using New Media Technologies in Marketing,16W,3,TR 3:30PM-4:45PM,
+MKTG 324 LEC 1,Integrated Marketing Communications,16W,3,MW 3:30PM-4:45PM,
+MKTG 332 LEC 1,Consumer Behaviour,16W,3,TR 9:30AM-10:45AM,Saima Mujtaba Rana
+MKTG 343 LEC 1,Marketing Models,16W,3,TR 3:30PM-4:45PM,Muhammad Asim
+MKTG 345 LEC 1,Data Analytics for New Product Development,16W,3,MW 3:30PM-4:45PM,Muhammad Asim
+MKTG 392 LEC 1,Brand Management,16W,3,MW 2:00PM-3:15PM,Moeen Naseer Butt
+MKTG 5401 LEC 1,Marketing Management,MS1,3,FSSU 10:45AM-12:45PM,Usman Iqbal Bhatty
+MKTG 5401 LEC 2,Marketing Management,MS1,3,FSSU 8:30AM-10:30AM,Aaminah Zaman Malik
+MKTG 5401 LEC 3,Marketing Management,MS1,3,FSSU 4:15PM-6:15PM,Aaminah Zaman Malik
+ORSC 201 LEC 1,Organizational Behaviour,16W,3,MW 9:30AM-10:45AM,Faiza Ali
+ORSC 201 LEC 2,Organizational Behaviour,16W,3,MW 11:00AM-12:15PM,Faiza Ali
+ORSC 201 LEC 3,Organizational Behaviour,16W,3,TR 11:00AM-12:15PM,Ghulam Ali Arain
+ORSC 201 LEC 4,Organizational Behaviour,16W,3,TR 12:30PM-1:45PM,Ghulam Ali Arain
+ORSC 7302 LEC 1,Applications of Psychology in Management,16W,3,T 9:30AM-12:30PM,Jawad Sarwar Naqvi Syed
+ORSC 8402 LEC 1,Seminar in Human Resource Management,16W,3,TH 9:30AM-12:30PM,Muhammad Abdur Rahman Malik
+PHIL 132 LEC 1,Introduction to Logic,16W,4,TR 8:00AM-9:50AM,Muhammad Shabbir Ahsen
+PHIL 203 LEC 1,Introduction to Philosophy II,16W,4,TR 12:00PM-1:50PM,Syed Sikander Gilani
+PHIL 204 LEC 1,Contemporary Moral Problems,16W,4,MW 4:30PM-6:20PM,Syed Sikander Gilani
+PHY 101 LEC 1,Mechanics,16W,4,MW 2:00PM-3:15PM,Adam Zaman Chaudhry
+PHY 101 LEC 2,Mechanics,16W,4,TR 2:30PM-3:45PM,Adam Zaman Chaudhry
+PHY 101 RAC 1,Mechanics,16W,4,F 9:00AM-9:50AM,Adam Zaman Chaudhry
+PHY 101 RAC 2,Mechanics,16W,4,M 8:00AM-8:50AM,Adam Zaman Chaudhry
+PHY 101 RAC 3,Mechanics,16W,4,F 8:00AM-8:50AM,Adam Zaman Chaudhry
+PHY 101 RAC 4,Mechanics,16W,4,M 9:00AM-9:50AM,Adam Zaman Chaudhry
+PHY 101 RAC 5,Mechanics,16W,4,F 4:00PM-4:50PM,Adam Zaman Chaudhry
+PHY 101 RAC 6,Mechanics,16W,4,F 2:00PM-2:50PM,Adam Zaman Chaudhry
+PHY 101 RAC 7,Mechanics,16W,4,F 3:00PM-3:50PM,Adam Zaman Chaudhry
+PHY 101 RAC 8,Mechanics,16W,4,F 5:00PM-5:50PM,Adam Zaman Chaudhry
+PHY 204 LEC 1,Electricity and Magnetism,16W,3,TR 4:30PM-5:45PM,Rizwan Khalid
+PHY 212 LEC 1,Quantum Mechanics I,16W,3,MW 4:30PM-5:45PM,Syed Moeez Hassan
+PHY 223 LEC 1,"Mathematical Methods in Physics and Engineering
+I",16W,3,MW 8:00AM-9:15AM,Ammar Ahmed Khan
+PHY 300 LAB 1,Experimental Physics Lab II,16W,3,W 9:00AM-5:50PM,Muhammad Hamza Humayun
+PHY 301 LEC 1,Classical Mechanics,16W,3,TR 12:00PM-1:15PM,Tajdar Mufti
+PHY 313 LEC 1,Statistical Mechanics,16W,4,TR 8:00AM-9:50AM,
+PHY 316 LEC 1,Introduction to Computational Neuroscience,16W,3,TR 8:00AM-9:15AM,
+PHY 404 LEC 1,Relativistic Electrodynamics,16W,3,TR 1:30PM-2:45PM,Syed Moeez Hassan
+PHY 501 LAB 1,Electrodynamics,16W,3,M 9:30AM-12:20PM,Rizwan Khalid
+PHY 501 LEC 1,Electrodynamics,16W,3,TR 10:00AM-10:50AM,Rizwan Khalid
+PHY 5114 LEC 1,Quantum Algorithms,16W,3,TR 9:30AM-10:45AM,Muhammad Faryad
+PHY 512 LEC 1,Advanced Quantum Mechanics,16W,3,TR 11:00AM-12:15PM,Muhammad Faryad
+PHY 633 LEC 1,Magnetism: Theory and Experiment,16W,3,TR 3:30PM-4:45PM,Muhammad Sabieh Anwar
+POL 100 LEC 1,Introduction to Political Science,16W,4,TR 10:00AM-11:50AM,Rida Ashfaq
+POL 100 LEC 2,Introduction to Political Science,16W,4,TR 2:00PM-3:50PM,Rida Ashfaq
+POL 100 LEC 3,Introduction to Political Science,16W,4,MW 10:00AM-11:50AM,
+POL 132 LEC 1,Introduction to Politics in Developing Countries,16W,4,MW 2:00PM-3:50PM,
+POL 203 LEC 1,Introduction to Political Theory,16W,4,MW 4:00PM-5:50PM,Adeel Hamza
+POL 203 LEC 2,Introduction to Political Theory,16W,4,TR 4:00PM-5:50PM,Muhammad Shabbir Ahsen
+POL 2214 LEC 1,"Decolonizing Democracy: Lessons from the Global
+South",16W,4,TR 12:00PM-1:50PM,Farhat Haq
+POL 266 LEC 1,Women and Political Theory,16W,4,TR 4:00PM-5:50PM,Adeel Hamza
+POL 3113 LEC 1,Political Islam: Ideology and Politics,16W,4,MW 4:00PM-5:50PM,Taimur Rahman
+POL 320 LEC 1,Comparative Politics,16W,4,TR 10:00AM-11:50AM,Asma ul-Husna Faiz
+POL 320 LEC 2,Comparative Politics,16W,4,TR 2:00PM-3:50PM,Asma ul-Husna Faiz
+POL 3202 LEC 1,Qualitative Research Methods in Political Science,16W,4,MW 2:00PM-3:50PM,Hafiz Muhammad Salman Rafi
+POL 324 LEC 1,Marxism and the Modern World,16W,4,TR 4:00PM-5:50PM,Taimur Rahman
+POL 3302 LEC 1,Theories of IR,16W,4,TR 12:00PM-1:50PM,Syed Rashid Munir
+POL 366 LEC 1,Terrorism as Political Action,16W,4,TR 2:00PM-3:50PM,Syed Rashid Munir
+POL 4112 LEC 1,Political Leadership,16W,4,MW 2:00PM-3:50PM,Mohammad Waseem
+POL 412 LEC 1,Diplomacy in International Relations,16W,4,TR 10:00AM-11:50AM,Shahid Malik
+PSY 100 LEC 1,Introduction to Psychology and Human Behavior,16W,4,TR 4:00PM-5:50PM,Yasser Hashmi
+PSY 100 LEC 2,Introduction to Psychology and Human Behavior,16W,4,TR 4:00PM-5:50PM,Natasha Sohail Barlas
+PSY 100 LEC 3,Introduction to Psychology and Human Behavior,16W,4,MW 2:00PM-3:50PM,Arman Ashraf
+PSY 212 LEC 1,Theories of Learning,16W,4,MW 12:00PM-1:50PM,Imran Rashid
+PSY 214 LEC 1,Perception,16W,4,MW 4:00PM-5:50PM,Yasser Hashmi
+PSY 220 LEC 1,Psychopathology,16W,4,MW 2:00PM-3:50PM,Tahira Haider
+PSY 300 LEC 1,Social Psychology,16W,4,TR 12:00PM-1:50PM,Imran Rashid
+PSY 321 LEC 1,Life Span Development,16W,4,TR 2:00PM-3:50PM,Natasha Sohail Barlas
+REL 200 LEC 1,What is Religion,16W,4,MW 2:00PM-3:50PM,Essam Fahim
+REL 224 LEC 1,"Introduction to Quranic and Modern Standard
+Arabic",16W,4,TR 4:00PM-5:50PM,Asif Iftikhar
+REL 235 LEC 1,"Religion, Conflict, and Peace Building",16W,4,MW 2:00PM-3:50PM,Aurangzeb Haneef
+REL 314 LEC 1,Islamic Historiography: An Introduction,16W,4,MW 10:00AM-11:50AM,Baqar Hassan Syed
+REL 315 LEC 1,Religion and Existentialism,16W,4,TR 2:00PM-3:50PM,Mian Muhammad Nauman Faizi
+REL 332 LEC 1,"What is ""Islamic"" history?",16W,4,MW 10:00AM-11:50AM,Irfan Moeen Khan
+REL 334 LEC 1,"Experience and Interpretation in Muslim Feminist
+Scriptural Discourse",16W,4,TR 10:00AM-11:50AM,
+SCI 503 LEC 1,STEM Teaching in the AI Era,16W,3,MW 12:00PM-1:15PM,"Muhammad Hamad Alizai
+Anusheh Attique"
+SCRM 6101 LEC 1,Operations and Supply Chain Strategy,MS1,3,FSSU 6:30PM-8:30PM,Ahsan Umar
+SOC 100 LEC 1,Introduction to Sociology,16W,4,MW 4:00PM-5:50PM,Amen Jaffer
+SOC 100 LEC 2,Introduction to Sociology,16W,4,MW 12:00PM-1:50PM,Tania Saeed
+SOC 253 LEC 1,Scientific Imagination and the Religious Mind,16W,4,TR 12:00PM-1:50PM,Basit Bilal Koshul
+SOC 265 LEC 1,Introduction to Gender and Sexuality Studies,16W,4,MW 12:00PM-1:50PM,Nida Yasmeen Kirmani
+SOC 310 LEC 1,Classical Sociological Theory,16W,4,TR 12:00PM-1:50PM,Umair Javed
+SOC 320 LEC 1,Quantitative Research Methods,16W,4,MW 10:00AM-11:50AM,
+SOC 334 LEC 1,The Informal Economy,16W,4,MW 12:00PM-1:50PM,Umair Javed
+SOC 353 LEC 1,Social Science and the Post-Secular Age,16W,4,TR 4:00PM-5:50PM,Basit Bilal Koshul
+SS 100 LEC 1,Writing and Communication,16W,4,TR 8:00AM-9:50AM,
+SS 100 LEC 2,Writing and Communication,16W,4,TR 9:30AM-11:20AM,
+SS 100 LEC 3,Writing and Communication,16W,4,TR 1:30PM-3:20PM,
+SS 100 LEC 4,Writing and Communication,16W,4,MW 9:30AM-11:20AM,
+SS 100 LEC 5,Writing and Communication,16W,4,TR 1:00PM-2:50PM,
+SS 100 LEC 6,Writing and Communication,16W,4,MW 2:00PM-3:50PM,
+SS 100 LEC 7,Writing and Communication,16W,4,TR 4:00PM-5:50PM,
+SS 100 LEC 8,Writing and Communication,16W,4,MW 10:00AM-11:50AM,
+SS 100 LEC 9,Writing and Communication,16W,4,TR 12:00PM-1:50PM,
+SS 100 LEC 10,Writing and Communication,16W,4,TR 4:00PM-5:50PM,
+SS 100 LEC 11,Writing and Communication,16W,4,MW 11:00AM-12:50PM,
+SS 100 LEC 12,Writing and Communication,16W,4,MW 12:00PM-1:50PM,
+SS 100 LEC 13,Writing and Communication,16W,4,MW 8:00AM-9:50AM,
+SS 100 LEC 14,Writing and Communication,16W,4,TR 10:00AM-11:50AM,
+SS 100 LEC 15,Writing and Communication,16W,4,MW 9:00AM-10:50AM,
+SS 100 LEC 16,Writing and Communication,16W,4,TR 2:00PM-3:50PM,
+SS 100 LEC 17,Writing and Communication,16W,4,TR 3:30PM-5:20PM,
+SS 100 LEC 18,Writing and Communication,16W,4,TR 9:00AM-10:50AM,
+SS 100 LEC 19,Writing and Communication,16W,4,MW 2:00PM-3:50PM,
+SS 100 LEC 20,Writing and Communication,16W,4,MW 2:00PM-3:50PM,
+SS 100 LEC 21,Writing and Communication,16W,4,TR 11:30AM-1:20PM,
+SS 100 LEC 22,Writing and Communication,16W,4,MW 12:00PM-1:50PM,
+SS 100 LEC 23,Writing and Communication,16W,4,TR 11:00AM-12:50PM,
+SS 100A LEC 1,Introduction to Writing,16W,2,TR 4:00PM-4:50PM,
+SS 100A LEC 2,Introduction to Writing,16W,2,MW 8:00AM-8:50AM,
+SS 100A LEC 3,Introduction to Writing,16W,2,MW 1:00PM-1:50PM,
+SS 100A LEC 4,Introduction to Writing,16W,2,TR 11:00AM-11:50AM,
+SS 100A LEC 5,Introduction to Writing,16W,2,TR 10:00AM-10:50AM,
+SS 101 LEC 1,Islamic Studies,16W,2,F 8:00AM-9:50AM,Aurangzeb Haneef
+SS 101 LEC 2,Islamic Studies,16W,2,F 4:00PM-5:50PM,Essam Fahim
+SS 101 LEC 3,Islamic Studies,16W,2,T 2:00PM-3:50PM,Baqar Hassan Syed
+SS 101 LEC 4,Islamic Studies,16W,2,TH 12:00PM-1:50PM,Essam Fahim
+SS 101 LEC 5,Islamic Studies,16W,2,F 2:00PM-3:50PM,Asif Iftikhar
+SS 102 LEC 1,Pakistan Studies: Culture and Heritage,16W,2,F 4:00PM-5:50PM,
+SS 102 LEC 2,Pakistan Studies: Culture and Heritage,16W,2,F 8:00AM-9:50AM,
+SS 102 LEC 3,Pakistan Studies: Culture and Heritage,16W,2,T 8:00AM-9:50AM,
+SS 102 LEC 4,Pakistan Studies: Culture and Heritage,16W,2,F 2:00PM-3:50PM,
+SS 102 LEC 5,Pakistan Studies: Culture and Heritage,16W,2,W 2:00PM-3:50PM,
+SS 102 LEC 6,Pakistan Studies: Culture and Heritage,16W,2,M 8:00AM-9:50AM,
+SS 102 LEC 7,Pakistan Studies: Culture and Heritage,16W,2,W 8:00AM-9:50AM,
+SS 102 LEC 8,Pakistan Studies: Culture and Heritage,16W,2,M 4:00PM-5:50PM,
+SS 102 LEC 9,Pakistan Studies: Culture and Heritage,16W,2,F 11:00AM-12:50PM,
+SS 1302 LEC 1,"Sur, Tal aur Rag: Foundations of South Asian Music",16W,4,TR 10:00AM-11:50AM,Sadaf Habib
+SS 1303 LEC 1,Introduction to Kathak,16W,4,TR 1:00PM-2:50PM,
+SS 187 LEC 1,Applied Statistics for Humanities,16W,4,MW 12:00PM-1:50PM,Muhammad Saad Imtiaz
+SS 187 LEC 2,Applied Statistics for Humanities,16W,4,TR 12:00PM-1:50PM,Muhammad Salaar Arif Khan
+SS 233 LEC 1,Media Writing,16W,4,TR 8:00AM-9:50AM,Syed Javed Nazir
+SS 3302 LEC 1,Professional Communication Skills,16W,4,MW 3:00PM-4:50PM,Aamna Khalid
+SSE 101 LEC 1,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 2,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 3,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 4,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 5,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 6,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 7,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 8,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 9,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 10,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 11,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 12,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 13,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 14,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 15,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 16,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 17,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 18,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 19,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 20,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 21,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 22,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 23,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
+SSE 101 LEC 24,First Year Tutorial,16W,0.5,F 10:00AM-12:50PM,
 SWR 102 PRT 1,Swimming for Beginners,16W,1,TR 10:00AM-11:15AM,"Muhammad Haider Awan
 Amir Hussain"
-SWR 102 PRT 2,Swimming for Beginners,16W,1,MW 10:00AM-11:15AM,"Rabia Yasin
-Khalida Bashir"
+SWR 102 PRT 2,Swimming for Beginners,16W,1,MW 10:00AM-11:15AM,"Khalida Bashir
+Rabia Yasin"
 SWR 102 PRT 3,Swimming for Beginners,16W,1,TR 2:00PM-3:15PM,"Rashid Ahmad
 Azmat Ullah"
-SWR 102 PRT 4,Swimming for Beginners,16W,1,MW 2:00PM-3:15PM,"Nimra Nimra
-Kausar Farooq"
-SWR 102 PRT 5,Swimming for Beginners,16W,1,TR 12:00PM-1:15PM,"Rabia Yasin
-Khalida Bashir"
+SWR 102 PRT 4,Swimming for Beginners,16W,1,MW 2:00PM-3:15PM,"Kausar Farooq
+Nimra Nimra"
+SWR 102 PRT 5,Swimming for Beginners,16W,1,TR 12:00PM-1:15PM,"Khalida Bashir
+Rabia Yasin"
 SWR 102 PRT 6,Swimming for Beginners,16W,1,MW 12:00PM-1:15PM,"Muhammad Haider Awan
 Amir Hussain"
-SWR 102 PRT 7,Swimming for Beginners,16W,1,TR 4:00PM-5:15PM,"Nimra Nimra
-Kausar Farooq"
+SWR 102 PRT 7,Swimming for Beginners,16W,1,TR 4:00PM-5:15PM,"Kausar Farooq
+Nimra Nimra"
 SWR 102 PRT 8,Swimming for Beginners,16W,1,MW 4:00PM-5:15PM,"Rashid Ahmad
 Azmat Ullah"
-SWR 103 PRT 1,StrengR Training and Conditioning for Beginners,16W,1,MW 10:00AM-11:15AM,Muhammad Bilal Iqbal Khan
-SWR 103 PRT 2,StrengR Training and Conditioning for Beginners,16W,1,TR 10:00AM-11:15AM,Muhammad Bilal Iqbal Khan
-SWR 103 PRT 3,StrengR Training and Conditioning for Beginners,16W,1,MW 2:00PM-3:15PM,Mudassar Naseer
-SWR 103 PRT 4,StrengR Training and Conditioning for Beginners,16W,1,TR 2:00PM-3:15PM,Mudassar Naseer
-SWR 103 PRT 5,StrengR Training and Conditioning for Beginners,16W,1,TR 4:00PM-5:15PM,Muhammad Shakeel
-SWR 103 PRT 6,StrengR Training and Conditioning for Beginners,16W,1,MW 4:00PM-5:15PM,Muhammad Shakeel
-SWR 103 PRT 7,StrengR Training and Conditioning for Beginners,16W,1,MW 10:00AM-11:15AM,Kanwal Yousaf
-SWR 103 PRT 8,StrengR Training and Conditioning for Beginners,16W,1,TR 10:00AM-11:15AM,Kanwal Yousaf
-SWR 103 PRT 9,StrengR Training and Conditioning for Beginners,16W,1,MW 11:30AM-12:45PM,Aruba Naz
-SWR 103 PRT 10,StrengR Training and Conditioning for Beginners,16W,1,TR 11:30AM-12:45PM,Aruba Naz
-SWR 103 PRT 11,StrengR Training and Conditioning for Beginners,16W,1,TR 4:00PM-5:15PM,Shabana Kausar
-SWR 103 PRT 12,StrengR Training and Conditioning for Beginners,16W,1,MW 4:00PM-5:15PM,Shabana Kausar
+SWR 103 PRT 1,Strength Training and Conditioning for Beginners,16W,1,MW 10:00AM-11:15AM,Muhammad Bilal Iqbal Khan
+SWR 103 PRT 2,Strength Training and Conditioning for Beginners,16W,1,TR 10:00AM-11:15AM,Muhammad Bilal Iqbal Khan
+SWR 103 PRT 3,Strength Training and Conditioning for Beginners,16W,1,MW 2:00PM-3:15PM,Mudassar Naseer
+SWR 103 PRT 4,Strength Training and Conditioning for Beginners,16W,1,TR 2:00PM-3:15PM,Mudassar Naseer
+SWR 103 PRT 5,Strength Training and Conditioning for Beginners,16W,1,TR 4:00PM-5:15PM,Muhammad Shakeel
+SWR 103 PRT 6,Strength Training and Conditioning for Beginners,16W,1,MW 4:00PM-5:15PM,Muhammad Shakeel
+SWR 103 PRT 7,Strength Training and Conditioning for Beginners,16W,1,MW 10:00AM-11:15AM,Kanwal Yousaf
+SWR 103 PRT 8,Strength Training and Conditioning for Beginners,16W,1,TR 10:00AM-11:15AM,Kanwal Yousaf
+SWR 103 PRT 9,Strength Training and Conditioning for Beginners,16W,1,MW 11:30AM-12:45PM,Aruba Naz
+SWR 103 PRT 10,Strength Training and Conditioning for Beginners,16W,1,TR 11:30AM-12:45PM,Aruba Naz
+SWR 103 PRT 11,Strength Training and Conditioning for Beginners,16W,1,MW 4:00PM-5:15PM,Shabana Kausar
+SWR 103 PRT 12,Strength Training and Conditioning for Beginners,16W,1,TR 4:00PM-5:15PM,Shabana Kausar
 SWR 104 PRT 1,Basketball for beginners,16W,1,MW 3:30PM-4:45PM,Mohsin Riaz
 SWR 104 PRT 2,Basketball for beginners,16W,1,MW 5:00PM-6:15PM,Mohsin Riaz
 SWR 104 PRT 3,Basketball for beginners,16W,1,TR 3:30PM-4:45PM,Mohsin Riaz
@@ -696,7 +744,3 @@ SWR 105 PRT 1,"Walk, Jog and Stretch for Fitness",16W,1,MW 3:30PM-4:45PM,Babar A
 SWR 105 PRT 2,"Walk, Jog and Stretch for Fitness",16W,1,MW 5:00PM-6:15PM,Babar Asad Khan
 SWR 105 PRT 3,"Walk, Jog and Stretch for Fitness",16W,1,TR 3:30PM-4:45PM,Babar Asad Khan
 SWR 105 PRT 4,"Walk, Jog and Stretch for Fitness",16W,1,TR 5:00PM-6:15PM,Babar Asad Khan
-TME 6101 LEC 1,Tech-Entrepreneurship,MS2,3,SU 4:15PM-6:15PM,Muhammad Shehryar Shahid
-TME 6102 LEC 1,Business Venture Proposal Writing,MS2,3,SU 10:45AM-12:45PM,Shezeen Salim Hemani
-TME 6201 LEC 1,,"Technology, Design and Innovation Management MS2",3,SU 8:30AM-10:30AM,Muhammad Adeel Zaffar
-TME 6202 LEC 1,Technology and Operations Management,MS2,3,SU 2:00PM-4:00PM,Raja Usman Khalid
